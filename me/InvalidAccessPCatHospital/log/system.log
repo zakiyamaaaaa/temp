@@ -1,0 +1,969 @@
+May  3 00:08:13 shoichi syslogd[48]: ASL Sender Statistics
+May  3 00:35:14 shoichi syslogd[48]: ASL Sender Statistics
+May  3 00:35:14 shoichi syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.cdscheduler" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+May  3 00:35:14 shoichi syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.install" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+May  3 00:35:14 shoichi syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.family.asl" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+May  3 00:35:14 shoichi syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.callhistory.asl.conf" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+May  3 00:35:14 shoichi syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.contacts.ContactsUICore" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+May  3 00:35:14 shoichi syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/asl" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+May  3 00:35:14 shoichi syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/system.log" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+May  3 00:35:14 shoichi syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.authd" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+May  3 00:35:14 shoichi syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.eventmonitor" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+May  3 00:35:14 shoichi syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.mail" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+May  3 00:35:14 shoichi syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.coreaudio" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+May  3 00:35:14 shoichi syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.performance" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+May  3 00:35:14 shoichi syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.iokit.power" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+May  3 00:35:14 shoichi syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.contacts.ContactsAutocomplete" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+May  3 00:35:14 shoichi syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.mkb" sharing output destination "/private/var/log/keybagd.log" with ASL Module "com.apple.mkb.internal".
+	Output parameters from ASL Module "com.apple.mkb.internal" override any specified in ASL Module "com.apple.mkb".
+May  3 00:35:14 shoichi syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.mkb" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+May  3 00:35:14 shoichi syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.AddressBookLegacy" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+May  3 00:35:14 shoichi syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.MessageTracer" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+May  3 00:35:14 shoichi syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.networking.boringssl" sharing output destination "/Library/Logs/CrashReporter" with ASL Module "com.apple.networking.networkextension".
+	Output parameters from ASL Module "com.apple.networking.networkextension" override any specified in ASL Module "com.apple.networking.boringssl".
+May  3 00:35:14 shoichi syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.clouddocs" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+May  3 00:35:15 shoichi timed[89]: settimeofday({0x5ccb0e33,0x7b9c4}) == 0
+May  3 00:35:19 shoichi systemstats[8285]: assertion failed: 18A384a: systemstats + 454589 [3D5C2DDB-7B31-382C-A0B9-DBFBDE61BBEC]: 0x40
+May  3 00:35:55 shoichi systemstats[60]: assertion failed: 18A384a: systemstats + 676539 [3D5C2DDB-7B31-382C-A0B9-DBFBDE61BBEC]: 0x7fe8085071e0
+May  3 00:51:39 shoichi syslogd[48]: ASL Sender Statistics
+May  3 01:05:14 shoichi syslogd[48]: ASL Sender Statistics
+May  3 01:31:10 shoichi syslogd[48]: ASL Sender Statistics
+May  3 01:31:53 shoichi systemstats[60]: assertion failed: 18A384a: systemstats + 676539 [3D5C2DDB-7B31-382C-A0B9-DBFBDE61BBEC]: 0x7fe8085071e0
+May  3 01:35:30 shoichi systemstats[60]: assertion failed: 18A384a: systemstats + 676539 [3D5C2DDB-7B31-382C-A0B9-DBFBDE61BBEC]: 0x7fe8085071e0
+May  3 01:37:26 shoichi systemstats[60]: assertion failed: 18A384a: systemstats + 676539 [3D5C2DDB-7B31-382C-A0B9-DBFBDE61BBEC]: 0x7fe8085071e0
+May  3 02:25:45 shoichi syslogd[48]: ASL Sender Statistics
+May  3 02:25:46 shoichi timed[89]: settimeofday({0x5ccb281a,0x72999}) == 0
+May  3 02:26:15 shoichi systemstats[60]: assertion failed: 18A384a: systemstats + 676539 [3D5C2DDB-7B31-382C-A0B9-DBFBDE61BBEC]: 0x7fe8085071e0
+May  3 02:38:56 shoichi syslogd[48]: ASL Sender Statistics
+May  3 02:53:56 shoichi syslogd[48]: ASL Sender Statistics
+May  3 03:22:46 shoichi syslogd[48]: ASL Sender Statistics
+May  3 03:22:47 shoichi timed[89]: settimeofday({0x5ccb3577,0x60677}) == 0
+May  3 03:35:04 shoichi com.apple.xpc.launchd[1] (com.apple.bsd.dirhelper[8639]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.bsd.dirhelper
+May  3 03:35:04 shoichi syslogd[48]: ASL Sender Statistics
+May  3 03:50:47 shoichi syslogd[48]: ASL Sender Statistics
+May  3 03:58:48 shoichi xpcproxy[8721]: libcoreservices: _dirhelper_userdir: 529: bootstrap_look_up returned (ipc/send) invalid destination port
+May  3 03:58:57 shoichi com.apple.xpc.launchd[1] (com.apple.netbiosd): Service only ran for 9 seconds. Pushing respawn out by 1 seconds.
+May  3 03:58:58 shoichi xpcproxy[8726]: libcoreservices: _dirhelper_userdir: 529: bootstrap_look_up returned (ipc/send) invalid destination port
+May  3 04:12:42 shoichi syslogd[48]: ASL Sender Statistics
+May  3 04:12:43 shoichi timed[89]: settimeofday({0x5ccb412b,0x963a2}) == 0
+May  3 04:14:54 shoichi timed[89]: settimeofday({0x5ccb41ae,0x5584a}) == 0
+May  3 04:54:41 shoichi syslogd[48]: ASL Sender Statistics
+May  3 04:54:41 shoichi systemstats[60]: assertion failed: 18A384a: systemstats + 676539 [3D5C2DDB-7B31-382C-A0B9-DBFBDE61BBEC]: 0x7fe8085071e0
+May  3 04:54:43 shoichi timed[89]: settimeofday({0x5ccb4b03,0x1066c}) == 0
+May  3 05:04:29 shoichi com.apple.xpc.launchd[1] (com.adobe.ARMDCHelper.cc24aef4a1b90ed56a725c38014c95072f92651fb65e1bf9c8e43c37a23d420d[8805]): Service exited with abnormal code: 111
+May  3 05:11:43 shoichi com.apple.xpc.launchd[1] (com.google.keystone.daemon[8829]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.google.Keystone.Daemon.Administration
+May  3 05:11:43 shoichi com.apple.xpc.launchd[1] (com.google.keystone.daemon[8829]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.google.Keystone.Daemon.UpdateEngine
+May  3 05:11:43 shoichi syslogd[48]: ASL Sender Statistics
+May  3 05:24:41 shoichi syslogd[48]: ASL Sender Statistics
+May  3 05:25:01 shoichi timed[89]: settimeofday({0x5ccb521d,0xdb36c}) == 0
+May  3 05:31:27 shoichi timed[89]: settimeofday({0x5ccb539f,0x95f96}) == 0
+May  3 05:32:13 shoichi systemstats[60]: assertion failed: 18A384a: systemstats + 676539 [3D5C2DDB-7B31-382C-A0B9-DBFBDE61BBEC]: 0x7fe8085071e0
+May  3 05:35:07 shoichi syslogd[48]: ASL Sender Statistics
+May  3 05:35:34 shoichi systemstats[60]: assertion failed: 18A384a: systemstats + 676539 [3D5C2DDB-7B31-382C-A0B9-DBFBDE61BBEC]: 0x7fe8085071e0
+May  3 05:50:46 shoichi syslogd[48]: ASL Sender Statistics
+May  3 05:50:46 shoichi fud[8921]: objc[8921]: Class MobileAssetUpdater is implemented in both /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/Support/fud (0x1027311f0) and /System/Library/AccessoryUpdaterBundles/ApplePowerAccessoryUpdater.bundle/Contents/MacOS/ApplePowerAccessoryUpdater (0x1027cba68). One of the two will be used. Which one is undefined.
+May  3 06:31:10 shoichi syslogd[48]: ASL Sender Statistics
+May  3 06:31:11 shoichi timed[89]: settimeofday({0x5ccb619f,0x15673}) == 0
+May  3 06:35:10 shoichi timed[89]: settimeofday({0x5ccb628e,0xf3f5}) == 0
+May  3 06:36:19 shoichi timed[89]: settimeofday({0x5ccb62d3,0xc5df}) == 0
+May  3 07:51:33 shoichi syslogd[48]: ASL Sender Statistics
+May  3 08:45:46 shoichi syslogd[48]: ASL Sender Statistics
+May  3 08:45:49 shoichi timed[89]: settimeofday({0x5ccb812d,0x7efed}) == 0
+May  3 08:45:51 shoichi systemstats[60]: assertion failed: 18A384a: systemstats + 676539 [3D5C2DDB-7B31-382C-A0B9-DBFBDE61BBEC]: 0x7fe8085071e0
+May  3 08:46:24 shoichi systemstats[60]: assertion failed: 18A384a: systemstats + 676539 [3D5C2DDB-7B31-382C-A0B9-DBFBDE61BBEC]: 0x7fe8085071e0
+May  3 08:51:13 shoichi timed[89]: settimeofday({0x5ccb8271,0xecf9f}) == 0
+May  3 08:51:16 shoichi iTunesCacheExtension[9003]: objc[9003]: Class ITNSImage is implemented in both /System/Library/Frameworks/iTunesLibrary.framework/Versions/A/iTunesLibrary (0x7fff986ce568) and /Applications/iTunes.app/Contents/PlugIns/iTunesCacheExtension.appex/Contents/MacOS/iTunesCacheExtension (0x1069193f0). One of the two will be used. Which one is undefined.
+May  3 08:51:17 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 08:51:18 --- last message repeated 1 time ---
+May  3 08:51:18 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.IDECacheDeleteAppExtension.9005): Path not allowed in target domain: type = pid, path = /Applications/Xcode.app/Contents/Frameworks/IDEKit.framework/Versions/A/XPCServices/IDETouchBarSimulatorService.xpc error = 147: The specified service did not ship in the requestor's bundle, origin = /Applications/Xcode.app/Contents/PlugIns/IDECacheDeleteAppExtension.appex
+May  3 08:51:18 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.IDECacheDeleteAppExtension.9005): Path not allowed in target domain: type = pid, path = /Applications/Xcode.app/Contents/SharedFrameworks/LLDB.framework/Versions/A/XPCServices/RootDebuggingXPCService.xpc error = 147: The specified service did not ship in the requestor's bundle, origin = /Applications/Xcode.app/Contents/PlugIns/IDECacheDeleteAppExtension.appex
+May  3 08:51:30 shoichi com.apple.xpc.launchd[1] (com.apple.WebKit.Networking.36EE148D-9319-42F3-AE45-4ED5825C6D66[9008]): Service exited with abnormal code: 1
+May  3 08:51:30 shoichi com.apple.xpc.launchd[1] (com.apple.WebKit.Networking.2A713DFB-3F5F-4D64-9734-1A824D67585B[9009]): Service exited with abnormal code: 1
+May  3 08:51:36 shoichi systemstats[60]: assertion failed: 18A384a: systemstats + 676539 [3D5C2DDB-7B31-382C-A0B9-DBFBDE61BBEC]: 0x7fe8085071e0
+May  3 08:52:45 shoichi timed[89]: settimeofday({0x5ccb82cd,0x14a26}) == 0
+May  3 10:52:57 shoichi syslogd[48]: ASL Sender Statistics
+May  3 10:53:02 shoichi timed[89]: settimeofday({0x5ccb9efe,0xc650a}) == 0
+May  3 10:53:02 shoichi timed[89]: settimeofday({0x5ccb9efe,0x785ae}) == 0
+May  3 10:53:19 shoichi systemstats[60]: assertion failed: 18A384a: systemstats + 676539 [3D5C2DDB-7B31-382C-A0B9-DBFBDE61BBEC]: 0x7fe8085071e0
+May  3 10:53:23 --- last message repeated 1 time ---
+May  3 10:53:23 shoichi iTunesCacheExtension[9052]: objc[9052]: Class ITNSImage is implemented in both /System/Library/Frameworks/iTunesLibrary.framework/Versions/A/iTunesLibrary (0x7fff986ce568) and /Applications/iTunes.app/Contents/PlugIns/iTunesCacheExtension.appex/Contents/MacOS/iTunesCacheExtension (0x10b2e83f0). One of the two will be used. Which one is undefined.
+May  3 10:53:24 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 10:53:25 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.IDECacheDeleteAppExtension.9051): Path not allowed in target domain: type = pid, path = /Applications/Xcode.app/Contents/Frameworks/IDEKit.framework/Versions/A/XPCServices/IDETouchBarSimulatorService.xpc error = 147: The specified service did not ship in the requestor's bundle, origin = /Applications/Xcode.app/Contents/PlugIns/IDECacheDeleteAppExtension.appex
+May  3 10:53:25 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.IDECacheDeleteAppExtension.9051): Path not allowed in target domain: type = pid, path = /Applications/Xcode.app/Contents/SharedFrameworks/LLDB.framework/Versions/A/XPCServices/RootDebuggingXPCService.xpc error = 147: The specified service did not ship in the requestor's bundle, origin = /Applications/Xcode.app/Contents/PlugIns/IDECacheDeleteAppExtension.appex
+May  3 10:53:34 shoichi systemstats[60]: assertion failed: 18A384a: systemstats + 676539 [3D5C2DDB-7B31-382C-A0B9-DBFBDE61BBEC]: 0x7fe8085071e0
+May  3 11:47:03 shoichi syslogd[48]: ASL Sender Statistics
+May  3 11:47:04 shoichi timed[89]: settimeofday({0x5ccbaba8,0x91507}) == 0
+May  3 11:56:35 shoichi com.apple.xpc.launchd[1] (com.apple.WebKit.Networking.5DECB2F1-6769-4C3A-96BC-4BACDFED53F3[9055]): Service exited with abnormal code: 1
+May  3 11:56:37 shoichi com.apple.xpc.launchd[1] (com.apple.WebKit.Networking.799AD8B3-6955-45C5-8A5A-64FB2ADBB53A[9057]): Service did not exit 5 seconds after SIGTERM. Sending SIGKILL.
+May  3 11:56:47 shoichi timed[89]: settimeofday({0x5ccbadef,0xbca2b}) == 0
+May  3 11:57:00 shoichi systemstats[60]: assertion failed: 18A384a: systemstats + 676539 [3D5C2DDB-7B31-382C-A0B9-DBFBDE61BBEC]: 0x7fe8085071e0
+May  3 11:57:03 --- last message repeated 1 time ---
+May  3 11:57:03 shoichi iTunesCacheExtension[9114]: objc[9114]: Class ITNSImage is implemented in both /System/Library/Frameworks/iTunesLibrary.framework/Versions/A/iTunesLibrary (0x7fff986ce568) and /Applications/iTunes.app/Contents/PlugIns/iTunesCacheExtension.appex/Contents/MacOS/iTunesCacheExtension (0x10fc1d3f0). One of the two will be used. Which one is undefined.
+May  3 11:57:03 shoichi syslogd[48]: ASL Sender Statistics
+May  3 11:57:04 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 11:57:05 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.IDECacheDeleteAppExtension.9115): Path not allowed in target domain: type = pid, path = /Applications/Xcode.app/Contents/Frameworks/IDEKit.framework/Versions/A/XPCServices/IDETouchBarSimulatorService.xpc error = 147: The specified service did not ship in the requestor's bundle, origin = /Applications/Xcode.app/Contents/PlugIns/IDECacheDeleteAppExtension.appex
+May  3 11:57:05 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.IDECacheDeleteAppExtension.9115): Path not allowed in target domain: type = pid, path = /Applications/Xcode.app/Contents/SharedFrameworks/LLDB.framework/Versions/A/XPCServices/RootDebuggingXPCService.xpc error = 147: The specified service did not ship in the requestor's bundle, origin = /Applications/Xcode.app/Contents/PlugIns/IDECacheDeleteAppExtension.appex
+May  3 11:57:06 shoichi xpcproxy[9117]: libcoreservices: _dirhelper_userdir: 529: bootstrap_look_up returned (ipc/send) invalid destination port
+May  3 12:50:54 shoichi syslogd[48]: ASL Sender Statistics
+May  3 12:50:58 shoichi timed[89]: settimeofday({0x5ccbbaa2,0xf0fb3}) == 0
+May  3 12:56:42 shoichi systemstats[60]: assertion failed: 18A384a: systemstats + 676539 [3D5C2DDB-7B31-382C-A0B9-DBFBDE61BBEC]: 0x7fe8085071e0
+May  3 12:56:42 shoichi systemstats[60]: assertion failed: 18A384a: systemstats + 676539 [3D5C2DDB-7B31-382C-A0B9-DBFBDE61BBEC]: 0x7fe8085071e0
+May  3 12:57:56 --- last message repeated 2 times ---
+May  3 12:57:56 shoichi iTunesCacheExtension[9163]: objc[9163]: Class ITNSImage is implemented in both /System/Library/Frameworks/iTunesLibrary.framework/Versions/A/iTunesLibrary (0x7fff986ce568) and /Applications/iTunes.app/Contents/PlugIns/iTunesCacheExtension.appex/Contents/MacOS/iTunesCacheExtension (0x10f9aa3f0). One of the two will be used. Which one is undefined.
+May  3 14:57:59 shoichi syslogd[48]: ASL Sender Statistics
+May  3 14:58:02 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 14:58:07 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.IDECacheDeleteAppExtension.9162): Path not allowed in target domain: type = pid, path = /Applications/Xcode.app/Contents/Frameworks/IDEKit.framework/Versions/A/XPCServices/IDETouchBarSimulatorService.xpc error = 147: The specified service did not ship in the requestor's bundle, origin = /Applications/Xcode.app/Contents/PlugIns/IDECacheDeleteAppExtension.appex
+May  3 14:58:07 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.IDECacheDeleteAppExtension.9162): Path not allowed in target domain: type = pid, path = /Applications/Xcode.app/Contents/SharedFrameworks/LLDB.framework/Versions/A/XPCServices/RootDebuggingXPCService.xpc error = 147: The specified service did not ship in the requestor's bundle, origin = /Applications/Xcode.app/Contents/PlugIns/IDECacheDeleteAppExtension.appex
+May  3 14:58:10 shoichi systemstats[60]: assertion failed: 18A384a: systemstats + 676539 [3D5C2DDB-7B31-382C-A0B9-DBFBDE61BBEC]: 0x7fe8085071e0
+May  3 15:30:03 shoichi syslogd[48]: ASL Sender Statistics
+May  3 15:30:05 shoichi timed[89]: settimeofday({0x5ccbdfed,0xcce48}) == 0
+May  3 15:30:08 shoichi Java Updater[9195]: Original euid:501
+May  3 15:30:08 shoichi Java Updater[9195]: Host name is javadl-esd-secure.oracle.com
+May  3 15:30:08 shoichi Java Updater[9195]: Feed URL: https
+May  3 15:30:08 shoichi Java Updater[9195]: Hostname check passed. Valid Oracle hostname
+May  3 15:30:10 shoichi timed[89]: settimeofday({0x5ccbdff2,0x43cd3}) == 0
+May  3 16:24:05 shoichi syslogd[48]: ASL Sender Statistics
+May  3 16:24:06 shoichi systemstats[60]: assertion failed: 18A384a: systemstats + 676539 [3D5C2DDB-7B31-382C-A0B9-DBFBDE61BBEC]: 0x7fe8085071e0
+May  3 16:24:07 shoichi timed[89]: settimeofday({0x5ccbec97,0x83b29}) == 0
+May  3 16:24:26 shoichi iTunesCacheExtension[9231]: objc[9231]: Class ITNSImage is implemented in both /System/Library/Frameworks/iTunesLibrary.framework/Versions/A/iTunesLibrary (0x7fff986ce568) and /Applications/iTunes.app/Contents/PlugIns/iTunesCacheExtension.appex/Contents/MacOS/iTunesCacheExtension (0x1088143f0). One of the two will be used. Which one is undefined.
+May  3 16:24:26 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 16:24:27 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.IDECacheDeleteAppExtension.9229): Path not allowed in target domain: type = pid, path = /Applications/Xcode.app/Contents/Frameworks/IDEKit.framework/Versions/A/XPCServices/IDETouchBarSimulatorService.xpc error = 147: The specified service did not ship in the requestor's bundle, origin = /Applications/Xcode.app/Contents/PlugIns/IDECacheDeleteAppExtension.appex
+May  3 16:24:27 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.IDECacheDeleteAppExtension.9229): Path not allowed in target domain: type = pid, path = /Applications/Xcode.app/Contents/SharedFrameworks/LLDB.framework/Versions/A/XPCServices/RootDebuggingXPCService.xpc error = 147: The specified service did not ship in the requestor's bundle, origin = /Applications/Xcode.app/Contents/PlugIns/IDECacheDeleteAppExtension.appex
+May  3 16:24:38 shoichi systemstats[60]: assertion failed: 18A384a: systemstats + 676539 [3D5C2DDB-7B31-382C-A0B9-DBFBDE61BBEC]: 0x7fe8085071e0
+May  3 16:29:34 shoichi timed[89]: settimeofday({0x5ccbedde,0x76fff}) == 0
+May  3 16:29:36 shoichi iTunesCacheExtension[9237]: objc[9237]: Class ITNSImage is implemented in both /System/Library/Frameworks/iTunesLibrary.framework/Versions/A/iTunesLibrary (0x7fff986ce568) and /Applications/iTunes.app/Contents/PlugIns/iTunesCacheExtension.appex/Contents/MacOS/iTunesCacheExtension (0x1061cc3f0). One of the two will be used. Which one is undefined.
+May  3 16:29:37 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 16:29:37 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.IDECacheDeleteAppExtension.9236): Path not allowed in target domain: type = pid, path = /Applications/Xcode.app/Contents/Frameworks/IDEKit.framework/Versions/A/XPCServices/IDETouchBarSimulatorService.xpc error = 147: The specified service did not ship in the requestor's bundle, origin = /Applications/Xcode.app/Contents/PlugIns/IDECacheDeleteAppExtension.appex
+May  3 16:29:37 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.IDECacheDeleteAppExtension.9236): Path not allowed in target domain: type = pid, path = /Applications/Xcode.app/Contents/SharedFrameworks/LLDB.framework/Versions/A/XPCServices/RootDebuggingXPCService.xpc error = 147: The specified service did not ship in the requestor's bundle, origin = /Applications/Xcode.app/Contents/PlugIns/IDECacheDeleteAppExtension.appex
+May  3 16:30:44 shoichi timed[89]: settimeofday({0x5ccbee24,0x76df5}) == 0
+May  3 17:04:54 shoichi syslogd[48]: ASL Sender Statistics
+May  3 17:04:54 shoichi com.apple.xpc.launchd[1] (com.apple.powerchime): Service only ran for 0 seconds. Pushing respawn out by 10 seconds.
+May  3 17:04:55 shoichi fud[9251]: objc[9251]: Class MobileAssetUpdater is implemented in both /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/Support/fud (0x1093fa1f0) and /System/Library/AccessoryUpdaterBundles/ApplePowerAccessoryUpdater.bundle/Contents/MacOS/ApplePowerAccessoryUpdater (0x109514a68). One of the two will be used. Which one is undefined.
+May  3 17:04:59 shoichi timed[89]: settimeofday({0x5ccbf62b,0xb5b68}) == 0
+May  3 17:06:15 shoichi diagnosticd[3690]: System mode client stopped - spindump (306) - clearing mode: 0x8, still active: 0x0
+May  3 17:06:15 shoichi diagnosticd[3690]: Posting empty stream filter
+May  3 17:06:16 shoichi diagnosticd[3690]: allowing spindump (306) access to stream due to admin status
+May  3 17:06:16 shoichi diagnosticd[3690]: Posting stream filter: "{
+	    category =     {
+	        "performance_instrumentation" = 34359738376;
+	    };
+	}"
+May  3 17:06:16 shoichi diagnosticd[3690]: System mode client started - spindump (306) - mode: 0x8, filter: "{
+	    category = "{(\n    \"performance_instrumentation\"\n)}";
+	}"
+May  3 17:06:17 shoichi timed[89]: settimeofday({0x5ccbf679,0x7bdc}) == 0
+May  3 17:06:49 shoichi timed[89]: settimeofday({0x5ccbf699,0x1baad}) == 0
+May  3 17:07:31 shoichi systemstats[60]: assertion failed: 18A384a: systemstats + 676539 [3D5C2DDB-7B31-382C-A0B9-DBFBDE61BBEC]: 0x7fe8085071e0
+May  3 17:07:40 shoichi timed[89]: settimeofday({0x5ccbf6cc,0xefe45}) == 0
+May  3 17:18:57 shoichi syslogd[48]: ASL Sender Statistics
+May  3 17:18:58 shoichi diagnosticd[3690]: System mode client stopped - spindump (306) - clearing mode: 0x8, still active: 0x0
+May  3 17:18:58 shoichi diagnosticd[3690]: Posting empty stream filter
+May  3 17:19:56 shoichi awdd[188]: Diagnostics Report
+May  3 17:20:26 --- last message repeated 1 time ---
+May  3 17:20:51 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 17:20:51 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 17:20:53 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.IDECacheDeleteAppExtension.9452): Path not allowed in target domain: type = pid, path = /Applications/Xcode.app/Contents/Frameworks/IDEKit.framework/Versions/A/XPCServices/IDETouchBarSimulatorService.xpc error = 147: The specified service did not ship in the requestor's bundle, origin = /Applications/Xcode.app/Contents/PlugIns/IDECacheDeleteAppExtension.appex
+May  3 17:20:54 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.IDECacheDeleteAppExtension.9452): Path not allowed in target domain: type = pid, path = /Applications/Xcode.app/Contents/SharedFrameworks/LLDB.framework/Versions/A/XPCServices/RootDebuggingXPCService.xpc error = 147: The specified service did not ship in the requestor's bundle, origin = /Applications/Xcode.app/Contents/PlugIns/IDECacheDeleteAppExtension.appex
+May  3 17:21:07 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.501): Service "com.apple.xpc.launchd.oneshot.0x10000005.iTunes" tried to register for endpoint "com.apple.DiscRecording:registrar" already registered by owner: com.apple.Finder
+May  3 17:21:31 shoichi com.apple.xpc.launchd[1] (com.apple.quicklook[9473]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+May  3 17:21:32 shoichi Spotlight[338]: assertion failed: 18A384a: libxpc.dylib + 92361 [C0F92150-919C-33FB-9182-7DAAE5AA2EEA]: 0x89
+May  3 17:21:32 shoichi Console[9475]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 17:21:34 shoichi diagnosticd[3690]: allowing Console (9475) access to stream due to admin status
+May  3 17:21:34 shoichi diagnosticd[3690]: Posting stream filter: "{
+	    global = 30064771083;
+	}"
+May  3 17:21:36 shoichi diagnosticd[3690]: System mode client started - Console (9475) - mode: 0xb, filter: "<empty>"
+May  3 17:22:14 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 17:22:22 shoichi Console[9475]: BUG in libdispatch client: vnode, monitored resource vanished before the source cancel handler was invoked { 0x600000150100[source], ident: 20 / 0x14, handler: 0x7fff512fa6d3 }
+May  3 17:26:29 shoichi bluetoothd[106]: notify name "com.apple.bluetooth.sensorTracking.stateChanged" has been registered 180 times - this may be a leak
+May  3 17:28:50 shoichi com.apple.xpc.launchd[1] (com.apple.quicklook[9513]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+May  3 17:28:59 shoichi syslogd[48]: ASL Sender Statistics
+May  3 17:29:01 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 17:29:02 shoichi Keynote[9520]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 17:29:05 shoichi Keynote[9520]: assertion failed: 18A384a: libxpc.dylib + 92361 [C0F92150-919C-33FB-9182-7DAAE5AA2EEA]: 0x89
+May  3 17:29:07 shoichi LegacyExternalColorPickerService[9526]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 17:36:06 shoichi Google Chrome[286]: BUG in libdispatch: 18A384a - 282 - 0xf
+May  3 17:38:11 shoichi com.apple.xpc.launchd[1] (com.google.keystone.daemon[9616]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.google.Keystone.Daemon.Administration
+May  3 17:38:11 shoichi com.apple.xpc.launchd[1] (com.google.keystone.daemon[9616]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.google.Keystone.Daemon.UpdateEngine
+May  3 17:38:38 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 17:39:04 shoichi syslogd[48]: ASL Sender Statistics
+May  3 17:49:21 shoichi syslogd[48]: ASL Sender Statistics
+May  3 17:52:38 shoichi Terminal[297]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 17:52:41 shoichi login[11182]: USER_PROCESS: 11182 ttys001
+May  3 17:56:26 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 17:59:59 shoichi syslogd[48]: ASL Sender Statistics
+May  3 18:09:51 shoichi com.apple.xpc.launchd[1] (com.apple.preference.displays.MirrorDisplays): Service only ran for 1 seconds. Pushing respawn out by 9 seconds.
+May  3 18:10:00 shoichi syslogd[48]: ASL Sender Statistics
+May  3 18:14:00 shoichi logd[66]: Power button HID event - flushing proactively
+May  3 18:14:31 --- last message repeated 1 time ---
+May  3 18:18:16 shoichi com.apple.xpc.launchd[1] (com.apple.quicklook[11566]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+May  3 18:18:21 shoichi Sourcetree[11568]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 18:18:34 shoichi com.apple.xpc.launchd[1] (com.apple.WebKit.Networking.BD025C05-73EC-4259-BF4D-B50F832614A9[11580]): Service exited with abnormal code: 1
+May  3 18:18:37 shoichi Sourcetree[11568]: assertion failed: 18A384a: libxpc.dylib + 92361 [C0F92150-919C-33FB-9182-7DAAE5AA2EEA]: 0x89
+May  3 18:18:37 shoichi Sourcetree[11568]: objc[11568]: Class FIFinderSyncExtensionHost is implemented in both /System/Library/PrivateFrameworks/FinderKit.framework/Versions/A/FinderKit (0x7fff9a1261d0) and /System/Library/PrivateFrameworks/FileProvider.framework/OverrideBundles/FinderSyncCollaborationFileProviderOverride.bundle/Contents/MacOS/FinderSyncCollaborationFileProviderOverride (0x10c363dc8). One of the two will be used. Which one is undefined.
+May  3 18:18:37 shoichi com.apple.xpc.launchd[1] (com.adobe.accmac.ACCFinderSync.A33EB088-F144-4D26-B3FA-82E7E96DD2AC[11733]): Caller wanted oneshot behavior for pre-existing instance: caller = Sourcetree
+May  3 18:18:46 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 18:20:10 shoichi syslogd[48]: ASL Sender Statistics
+May  3 18:30:19 shoichi syslogd[48]: ASL Sender Statistics
+May  3 18:35:07 shoichi Dock[299]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 18:38:19 shoichi login[12643]: USER_PROCESS: 12643 ttys002
+May  3 18:40:42 shoichi syslogd[48]: ASL Sender Statistics
+May  3 18:41:57 shoichi Dock[299]: DEPRECATED USE in libdispatch client: Setting timer interval to 0 requests a 1ns timer, did you mean FOREVER (a one-shot timer)?; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 18:48:07 shoichi login[12871]: USER_PROCESS: 12871 ttys003
+May  3 18:50:36 shoichi TextEdit[13080]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 18:50:37 shoichi TextEdit[13080]: assertion failed: 18A384a: libxpc.dylib + 92361 [C0F92150-919C-33FB-9182-7DAAE5AA2EEA]: 0x89
+May  3 18:50:43 shoichi syslogd[48]: ASL Sender Statistics
+May  3 18:50:45 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 19:00:52 shoichi syslogd[48]: ASL Sender Statistics
+May  3 19:03:11 shoichi com.apple.xpc.launchd[1] (com.apple.quicklook[13673]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+May  3 19:03:13 shoichi Keychain Access[13675]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:03:15 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 19:14:49 shoichi syslogd[48]: ASL Sender Statistics
+May  3 19:24:57 shoichi syslogd[48]: ASL Sender Statistics
+May  3 19:29:13 shoichi login[13746]: USER_PROCESS: 13746 ttys004
+May  3 19:35:45 shoichi syslogd[48]: ASL Sender Statistics
+May  3 19:37:12 shoichi SecurityAgent[14000]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:38:48 shoichi diagnosticd[3690]: System mode client stopped - Console (9475) - clearing mode: 0xa, still active: 0x0
+May  3 19:38:48 shoichi diagnosticd[3690]: Posting empty stream filter
+May  3 19:38:48 shoichi diagnosticd[3690]: Stream client PID: 9475 - Dropped 12851 of 4310771 messages because streaming client could not keep up with the datastream.
+May  3 19:38:48 shoichi login[13746]: DEAD_PROCESS: 13746 ttys004
+May  3 19:38:48 shoichi login[12643]: DEAD_PROCESS: 12643 ttys002
+May  3 19:38:48 shoichi login[12871]: DEAD_PROCESS: 12871 ttys003
+May  3 19:38:49 shoichi login[11182]: DEAD_PROCESS: 11182 ttys001
+May  3 19:38:51 shoichi com.apple.xpc.launchd[1] (com.apple.preference.security.remoteservice[392]): Service exited due to SIGKILL | sent by com.apple.preference.security.re[392]
+May  3 19:38:53 shoichi com.apple.xpc.launchd[1] (com.apple.WebKit.WebContent.F41F55C0-79A1-4227-A4AC-360ED1114DB7[531]): Service exited with abnormal code: 1
+May  3 19:38:55 shoichi com.apple.xpc.launchd[1] (com.apple.WebKit.Networking.6E104691-7486-40C6-AC7D-A18B3F0D9A02[527]): Service did not exit 5 seconds after SIGTERM. Sending SIGKILL.
+May  3 19:38:58 shoichi com.apple.xpc.launchd[1] (com.apple.WebKit.Networking.12A54967-968F-4E0E-9EDB-78AFFA3BA70B[532]): Service did not exit 5 seconds after SIGTERM. Sending SIGKILL.
+May  3 19:38:58 shoichi com.apple.xpc.launchd[1] (com.apple.talagent[298]): Service exited due to SIGKILL | sent by loginwindow[101]
+May  3 19:38:58 shoichi com.apple.xpc.launchd[1] (com.apple.AirPlayUIAgent[549]): Service exited due to SIGKILL | sent by loginwindow[101]
+May  3 19:38:58 shoichi com.apple.xpc.launchd[1] (com.apple.wifi.WiFiAgent[505]): Service exited due to SIGKILL | sent by loginwindow[101]
+May  3 19:38:58 shoichi com.apple.xpc.launchd[1] (com.apple.security.keychain-circle-notification[483]): Service exited due to SIGKILL | sent by loginwindow[101]
+May  3 19:38:58 shoichi com.apple.xpc.launchd[1] (com.apple.noticeboard.agent[556]): Service exited due to SIGKILL | sent by loginwindow[101]
+May  3 19:38:58 shoichi com.apple.xpc.launchd[1] (com.apple.cloudphotosd[830]): Service exited due to SIGKILL | sent by loginwindow[101]
+May  3 19:38:58 shoichi com.apple.xpc.launchd[1] (com.apple.OSDUIHelper[4838]): Service exited due to SIGKILL | sent by loginwindow[101]
+May  3 19:38:58 shoichi com.apple.xpc.launchd[1] (com.apple.ViewBridgeAuxiliary[495]): Service exited due to SIGKILL | sent by loginwindow[101]
+May  3 19:38:58 shoichi com.apple.xpc.launchd[1] (com.apple.imklaunchagent[415]): Service exited due to SIGTERM | sent by loginwindow[101]
+May  3 19:38:58 shoichi com.apple.xpc.launchd[1] (com.apple.universalaccessd[281]): Service exited due to SIGKILL | sent by loginwindow[101]
+May  3 19:38:58 shoichi com.apple.xpc.launchd[1] (com.apple.coreservices.uiagent[4702]): Service exited due to SIGKILL | sent by loginwindow[101]
+May  3 19:38:58 shoichi com.apple.xpc.launchd[1] (com.apple.ViewBridgeAuxiliary[323]): Service exited due to SIGKILL | sent by loginwindow[101]
+May  3 19:38:58 shoichi com.apple.xpc.launchd[1] (com.apple.CoreSimulator.CoreSimulatorService[9476]): Service exited due to SIGKILL | sent by loginwindow[101]
+May  3 19:38:58 shoichi com.apple.xpc.launchd[1] (com.google.android.mtpagent.3828[525]): Service exited due to SIGTERM | sent by loginwindow[101]
+May  3 19:38:58 shoichi com.apple.xpc.launchd[1] (com.adobe.CCXProcess.41776[648]): Service exited due to SIGTERM
+May  3 19:38:59 shoichi sessionlogoutd[14616]: DEAD_PROCESS: 101 console
+May  3 19:39:00 shoichi shutdown[14617]: SHUTDOWN_TIME: 1556879940 211405
+May  3 19:39:40 localhost bootlog[0]: BOOT_TIME 1556879980 0
+May  3 19:39:59 localhost syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.cdscheduler" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+May  3 19:39:59 localhost syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.install" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+May  3 19:39:59 localhost syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.family.asl" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+May  3 19:39:59 localhost syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.callhistory.asl.conf" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+May  3 19:39:59 localhost syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.contacts.ContactsUICore" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+May  3 19:39:59 localhost syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/asl" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+May  3 19:39:59 localhost syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/system.log" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+May  3 19:39:59 localhost syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.authd" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+May  3 19:39:59 localhost syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.eventmonitor" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+May  3 19:39:59 localhost syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.mail" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+May  3 19:39:59 localhost syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.coreaudio" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+May  3 19:39:59 localhost syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.performance" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+May  3 19:39:59 localhost syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.iokit.power" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+May  3 19:39:59 localhost syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.contacts.ContactsAutocomplete" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+May  3 19:39:59 localhost syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.mkb" sharing output destination "/private/var/log/keybagd.log" with ASL Module "com.apple.mkb.internal".
+	Output parameters from ASL Module "com.apple.mkb.internal" override any specified in ASL Module "com.apple.mkb".
+May  3 19:39:59 localhost syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.mkb" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+May  3 19:39:59 localhost syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.AddressBookLegacy" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+May  3 19:39:59 localhost syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.MessageTracer" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+May  3 19:39:59 localhost syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.networking.boringssl" sharing output destination "/Library/Logs/CrashReporter" with ASL Module "com.apple.networking.networkextension".
+	Output parameters from ASL Module "com.apple.networking.networkextension" override any specified in ASL Module "com.apple.networking.boringssl".
+May  3 19:39:59 localhost syslogd[48]: Configuration Notice:
+	ASL Module "com.apple.clouddocs" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+May  3 19:39:58 localhost com.apple.xpc.launchd[1]: Early boot complete. Continuing system boot.
+May  3 19:39:59 localhost com.apple.xpc.launchd[1] (com.apple.cmio.AVCAssistant): ThrottleInterval set to zero. You're not that important. Ignoring.
+May  3 19:39:59 localhost com.apple.xpc.launchd[1] (com.apple.diskmanagementd): ThrottleInterval set to zero. You're not that important. Ignoring.
+May  3 19:39:59 localhost com.apple.xpc.launchd[1] (com.apple.diskmanagementd): The TimeOut key is no longer respected. It never did anything anyway.
+May  3 19:39:59 localhost com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.system): com.apple.CoreRAID (lint): The HideUntilCheckIn property is an architectural performance issue. Please transition away from it.
+May  3 19:39:59 localhost com.apple.xpc.launchd[1] (com.apple.syslogd): The HopefullyExitsLast key is no longer respected. Please remove it.
+May  3 19:39:59 localhost com.apple.xpc.launchd[1] (com.apple.syslogd): Please switch away from OnDemand to KeepAlive.
+May  3 19:39:59 localhost com.apple.xpc.launchd[1] (com.apple.opendirectoryd): Unknown key for Boolean: BeginTransactionAtShutdown
+May  3 19:39:59 localhost com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.system): com.apple.opendirectoryd (lint): The HideUntilCheckIn property is an architectural performance issue. Please transition away from it.
+May  3 19:39:59 localhost com.apple.xpc.launchd[1] (com.apple.opendirectoryd): This service is defined to be constantly running and is inherently inefficient.
+May  3 19:39:59 localhost com.apple.xpc.launchd[1] (com.apple.mobile.keybagd): This key does not do anything: OnDemand
+May  3 19:39:59 localhost com.apple.xpc.launchd[1] (org.cups.cupsd): Service has increased maximum shutdown time to 65 seconds. This will create a poor experience for the user.
+May  3 19:39:59 localhost com.apple.xpc.launchd[1] (com.apple.applefileutil): Unknown key for Boolean: RunOnlyOnce
+May  3 19:39:59 localhost syslogd[48]: ASL Sender Statistics
+May  3 19:39:59 localhost xpcproxy[112]: libcoreservices: _dirhelper_userdir: 529: bootstrap_look_up returned (ipc/send) invalid destination port
+May  3 19:39:59 localhost xpcproxy[146]: libcoreservices: _dirhelper_userdir: 529: bootstrap_look_up returned (ipc/send) invalid destination port
+May  3 19:39:59 localhost com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.system): Service "com.apple.ManagedClient.startup" tried to register for endpoint "com.apple.ManagedClient.agent" already registered by owner: com.apple.ManagedClient
+May  3 19:40:00 shoichi launchd[1]: BUG in libdispatch client: mach_recv, monitored resource vanished before the source cancel handler was invoked { 0x7f862fd28830[source], ident: 169987 / 0x29803, handler: 0x10a38b444 }
+May  3 19:40:00 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.202): com.apple.pluginkit.pkd (lint): Service sets EnableTransactions=false and EnablePressuredExit=true, which makes no sense. Enabling Transactions.
+May  3 19:40:00 shoichi logd[66]: _logd_remote_start_service: listener activated for com.apple.logd.remote-daemon
+May  3 19:40:00 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.system): Service "com.apple.ManagedClient.enroll" tried to register for endpoint "com.apple.ManagedClient.agent" already registered by owner: com.apple.ManagedClient
+May  3 19:40:00 shoichi xpcproxy[74]: libcoreservices: _dirhelper_userdir: 529: bootstrap_look_up returned (ipc/send) invalid destination port
+May  3 19:40:00 shoichi syspolicyd[191]: objc[191]: Class SPExecutionHistoryItem is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy (0x7fff9a322b80) and /usr/libexec/syspolicyd (0x10196a9d8). One of the two will be used. Which one is undefined.
+May  3 19:40:01 shoichi com.apple.xpc.launchd[1] (com.apple.CoreRAID[55]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.CoreRAID
+May  3 19:40:01 shoichi Installer Progress[76]: Progress UI App Starting
+May  3 19:40:01 shoichi mds[73]: objc[73]: Class MDSObjectToken is implemented in both /System/Library/PrivateFrameworks/SpotlightServerKit.framework/Versions/A/SpotlightServerKit (0x7fff99fd85f0) and /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mds (0x102358180). One of the two will be used. Which one is undefined.
+May  3 19:40:01 shoichi mds[73]: objc[73]: Class MDSToken is implemented in both /System/Library/PrivateFrameworks/SpotlightServerKit.framework/Versions/A/SpotlightServerKit (0x7fff99fd85a0) and /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mds (0x1023586d0). One of the two will be used. Which one is undefined.
+May  3 19:40:01 shoichi mds[73]: objc[73]: Class MDSReadCopyUpdate is implemented in both /System/Library/PrivateFrameworks/SpotlightServerKit.framework/Versions/A/SpotlightServerKit (0x7fff99fd8640) and /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mds (0x102359260). One of the two will be used. Which one is undefined.
+May  3 19:40:01 shoichi mds[73]: objc[73]: Class MDSInternalToken is implemented in both /System/Library/PrivateFrameworks/SpotlightServerKit.framework/Versions/A/SpotlightServerKit (0x7fff99fd8550) and /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mds (0x10235a340). One of the two will be used. Which one is undefined.
+May  3 19:40:02 shoichi WindowServer[223]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:40:02 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.88): com.apple.pluginkit.pkd (lint): Service sets EnableTransactions=false and EnablePressuredExit=true, which makes no sense. Enabling Transactions.
+May  3 19:40:03 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.212): com.apple.pluginkit.pkd (lint): Service sets EnableTransactions=false and EnablePressuredExit=true, which makes no sense. Enabling Transactions.
+May  3 19:40:03 shoichi com.apple.xpc.launchd[1] (com.apple.AmbientDisplayAgent): Service only ran for 1 seconds. Pushing respawn out by 9 seconds.
+May  3 19:40:03 shoichi com.apple.xpc.launchd[1] (org.virtualbox.startup[96]): Service exited with abnormal code: 1
+May  3 19:40:03 shoichi Installer Progress[76]: No boot windows available
+May  3 19:40:03 shoichi com.apple.xpc.launchd[1] (com.apple.imklaunchagent): This service is defined to be constantly running and is inherently inefficient.
+May  3 19:40:03 shoichi com.apple.xpc.launchd[1] (com.apple.coreservices.UASharedPasteboardProgressUI): Unknown key for Boolean: DrainMessagesAfterFailedInit
+May  3 19:40:03 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.loginwindow.101.4294967295): com.apple.pluginkit.pkd (lint): Service sets EnableTransactions=false and EnablePressuredExit=true, which makes no sense. Enabling Transactions.
+May  3 19:40:03 shoichi com.apple.xpc.launchd[1] (com.apple.UserEventAgent-LoginWindow): This service is defined to be constantly running and is inherently inefficient.
+May  3 19:40:03 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.loginwindow.101.4294967295): com.apple.universalaccessd (lint): The HideUntilCheckIn property is an architectural performance issue. Please transition away from it.
+May  3 19:40:03 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.loginwindow.101.4294967295): com.apple.VoiceOver (lint): The HideUntilCheckIn property is an architectural performance issue. Please transition away from it.
+May  3 19:40:03 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.loginwindow.101.4294967295): com.apple.AssistiveControl (lint): The HideUntilCheckIn property is an architectural performance issue. Please transition away from it.
+May  3 19:40:03 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.loginwindow.101.4294967295): com.apple.DwellControl (lint): The HideUntilCheckIn property is an architectural performance issue. Please transition away from it.
+May  3 19:40:03 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.loginwindow.101.4294967295): com.apple.universalaccesscontrol (lint): The HideUntilCheckIn property is an architectural performance issue. Please transition away from it.
+May  3 19:40:03 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.loginwindow.101.4294967295): com.apple.noticeboard.agent (lint): EnablePressuredExit is not compatible with KeepAlive=true. Ignoring EnablePressuredExit.
+May  3 19:40:03 shoichi com.apple.xpc.launchd[1] (com.apple.noticeboard.agent): This service is defined to be constantly running and is inherently inefficient.
+May  3 19:40:03 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.loginwindow.101.4294967295): com.apple.tiswitcher (lint): The HideUntilCheckIn property is an architectural performance issue. Please transition away from it.
+May  3 19:40:03 shoichi com.apple.xpc.launchd[1] (com.apple.coreservices.useractivityd): Unknown key for Boolean: DrainMessagesAfterFailedInit
+May  3 19:40:04 shoichi loginwindow[101]: Clearing phase info
+May  3 19:40:04 shoichi loginwindow[101]: calling progress app remoteObjectProxy
+May  3 19:40:04 shoichi loginwindow[101]: Creating connection
+May  3 19:40:04 shoichi loginwindow[101]: Connection = 0x6000039d22e0, callers = (
+	    "<IASUPCaller: 0x600000bc0420>"
+	)
+May  3 19:40:04 shoichi Installer Progress[76]: Hiding the cursor in Progress UI
+May  3 19:40:04 shoichi Installer Progress[76]: caller = /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+May  3 19:40:04 shoichi Installer Progress[76]: Version 2
+May  3 19:40:04 shoichi loginwindow[101]: version = 2
+May  3 19:40:04 shoichi loginwindow[101]: isModernOS = 1
+May  3 19:40:04 shoichi loginwindow[101]: Add phase named "IOKit Boot", progress 68.750000, delayInSeconds 0
+May  3 19:40:04 shoichi loginwindow[101]: Add phase named "loginwindow Boot", progress 31.250000, delayInSeconds -1
+May  3 19:40:04 shoichi loginwindow[101]: Connection = 0x6000039d22e0, callers = (
+	    "<IASUPCaller: 0x600000bc0420>",
+	    "<IASUPCaller: 0x600000bc05c0>"
+	)
+May  3 19:40:04 shoichi loginwindow[101]: Registering the connection
+May  3 19:40:04 shoichi Installer Progress[76]: Clearing phase info
+May  3 19:40:04 shoichi loginwindow[101]: client 0x600001ee9f80: phaseName = loginwindow Boot
+May  3 19:40:04 shoichi loginwindow[101]: Connection = 0x6000039d22e0, callers = (
+	    "<IASUPCaller: 0x600000bc0420>",
+	    "<IASUPCaller: 0x600000bc05c0>",
+	    "<IASUPCaller: 0x600000bc0800>"
+	)
+May  3 19:40:04 shoichi loginwindow[101]: Registering the connection
+May  3 19:40:04 shoichi loginwindow[101]: client 0x600001eea3c0: phaseName = IOKit Boot
+May  3 19:40:04 shoichi loginwindow[101]: client 0x600001eea3c0: phaseName = "IOKit Boot"
+May  3 19:40:04 shoichi loginwindow[101]: ISAP: Show progress UI called
+May  3 19:40:04 shoichi loginwindow[101]: client 0x600001eea3c0: phaseName = "IOKit Boot"
+May  3 19:40:04 shoichi loginwindow[101]: ISAP: Done with Phase "IOKit Boot"
+May  3 19:40:04 shoichi loginwindow[101]: client 0x600001eea3c0: phaseName = IOKit Boot
+May  3 19:40:04 shoichi loginwindow[101]: Releasing Connection
+May  3 19:40:04 shoichi Installer Progress[76]: IASGetCurrentInstallPhaseList: Unable to get phases
+May  3 19:40:04 shoichi Installer Progress[76]: IASGetCurrentInstallPhase: Unable to get the current phase name
+May  3 19:40:04 shoichi loginwindow[101]: client 0x600001ee9f80: handler = 0x7ffeef6919d8
+May  3 19:40:04 shoichi Installer Progress[76]: phaseName = (null)
+May  3 19:40:04 shoichi Installer Progress[76]: Current phase name wasn't saved, using the first phase in the list, current phase = "(null)"
+May  3 19:40:04 shoichi Installer Progress[76]: _currentPhase = "(null)", _phases = (null)
+May  3 19:40:04 shoichi Installer Progress[76]: IASClearInstallProgress: Clearing Registry
+May  3 19:40:04 shoichi Installer Progress[76]: totalPercentage = 0.000000
+May  3 19:40:04 shoichi Installer Progress[76]: phases = (
+	    "<IASPPhase: 0x7fc24cc3e8f0: 'IOKit Boot', percentage 68.8, delay 0>"
+	)
+May  3 19:40:04 shoichi Installer Progress[76]: IASSetCurrentInstallPhaseList: phases set to (
+	        {
+	        ConclusionDelay = 0;
+	        InstallPhase = "IOKit Boot";
+	        InstallPhasePercentageKey = 69;
+	    }
+	)
+May  3 19:40:04 shoichi Installer Progress[76]: IASSetCurrentInstallPhase: Current phase name set to "IOKit Boot"
+May  3 19:40:04 shoichi Installer Progress[76]: totalPercentage = 68.750000
+May  3 19:40:04 shoichi Installer Progress[76]: phases = (
+	    "<IASPPhase: 0x7fc24cc3e8f0: 'IOKit Boot', percentage 68.8, delay 0>",
+	    "<IASPPhase: 0x7fc24cc42980: 'loginwindow Boot', percentage 31.2, delay -1>"
+	)
+May  3 19:40:04 shoichi Installer Progress[76]: IASSetCurrentInstallPhaseList: phases set to (
+	        {
+	        ConclusionDelay = 0;
+	        InstallPhase = "IOKit Boot";
+	        InstallPhasePercentageKey = 69;
+	    },
+	        {
+	        ConclusionDelay = "-1";
+	        InstallPhase = "loginwindow Boot";
+	        InstallPhasePercentageKey = 31;
+	    }
+	)
+May  3 19:40:04 shoichi Installer Progress[76]: Register process 101, phaseName loginwindow Boot, uuid E8BC293E-4B9F-414D-B05C-F3279EFF7ACF
+May  3 19:40:04 shoichi Installer Progress[76]: Connected processes = {
+	    "E8BC293E-4B9F-414D-B05C-F3279EFF7ACF" =     {
+	        "Phase Name" = "loginwindow Boot";
+	        "Process ID" = 101;
+	        UUID = "E8BC293E-4B9F-414D-B05C-F3279EFF7ACF";
+	    };
+	}
+May  3 19:40:04 shoichi Installer Progress[76]: Saving completion handler for phase loginwindow Boot
+May  3 19:40:04 shoichi Installer Progress[76]: Register process 101, phaseName IOKit Boot, uuid 88B1C49A-5149-4978-9197-F128447B0335
+May  3 19:40:04 shoichi Installer Progress[76]: Connected processes = {
+	    "88B1C49A-5149-4978-9197-F128447B0335" =     {
+	        "Phase Name" = "IOKit Boot";
+	        "Process ID" = 101;
+	        UUID = "88B1C49A-5149-4978-9197-F128447B0335";
+	    };
+	    "E8BC293E-4B9F-414D-B05C-F3279EFF7ACF" =     {
+	        CompletionHandlerKey = "<__NSMallocBlock__: 0x7fc24cd1c6a0>";
+	        "Phase Name" = "loginwindow Boot";
+	        "Process ID" = 101;
+	        UUID = "E8BC293E-4B9F-414D-B05C-F3279EFF7ACF";
+	    };
+	}
+May  3 19:40:04 shoichi Installer Progress[76]: Saving completion handler for phase IOKit Boot
+May  3 19:40:04 shoichi Installer Progress[76]: IASGetCurrentInstallPhaseList: phases = (
+	        {
+	        ConclusionDelay = 0;
+	        InstallPhase = "IOKit Boot";
+	        InstallPhasePercentageKey = 69;
+	    },
+	        {
+	        ConclusionDelay = "-1";
+	        InstallPhase = "loginwindow Boot";
+	        InstallPhasePercentageKey = 31;
+	    }
+	)
+May  3 19:40:04 shoichi Installer Progress[76]: IASGetCurrentInstallPhase: Current phase name is "IOKit Boot"
+May  3 19:40:04 shoichi Installer Progress[76]: phaseName = IOKit Boot
+May  3 19:40:04 shoichi Installer Progress[76]: Advance to phase named = "IOKit Boot"
+May  3 19:40:04 shoichi Installer Progress[76]: _currentPhase = "<IASPPhase: 0x7fc24cd1d130: 'IOKit Boot', percentage 69.0, delay 0>", _phases = (
+	    "<IASPPhase: 0x7fc24cd1d130: 'IOKit Boot', percentage 69.0, delay 0>",
+	    "<IASPPhase: 0x7fc24cd1d930: 'loginwindow Boot', percentage 31.0, delay -1>"
+	)
+May  3 19:40:04 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.92): com.apple.pluginkit.pkd (lint): Service sets EnableTransactions=false and EnablePressuredExit=true, which makes no sense. Enabling Transactions.
+May  3 19:40:04 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.system): Service tried to register a port for an endpoint declared in its launchd.plist(5): service = com.apple.ManagedClient, endpoint = com.apple.mcxd
+May  3 19:40:04 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.SecurityAgent.255): Path not allowed in target domain: type = uid, path = /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServices/ViewBridgeAuxiliary.xpc/Contents/MacOS/ViewBridgeAuxiliary error = 1: Operation not permitted, origin = /System/Library/Frameworks/Security.framework/Versions/A/MachServices/SecurityAgent.bundle
+May  3 19:40:04 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.SecurityAgent.255): Path not allowed in target domain: type = uid, path = /System/Library/PrivateFrameworks/FamilyControls.framework/Versions/A/XPCServices/com.apple.FCiCloudPrefUpdater.xpc/Contents/MacOS/com.apple.FCiCloudPrefUpdater error = 1: Operation not permitted, origin = /System/Library/Frameworks/Security.framework/Versions/A/MachServices/SecurityAgent.bundle
+May  3 19:40:04 shoichi kcm[262]: DEPRECATED USE in libdispatch client: Setting timer interval to 0 requests a 1ns timer, did you mean FOREVER (a one-shot timer)?; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:40:04 shoichi Installer Progress[76]: Progress app is loading…
+May  3 19:40:04 shoichi Installer Progress[76]: Progress app is running…
+May  3 19:40:04 shoichi Installer Progress[76]: Showing Progress UI
+May  3 19:40:04 shoichi Installer Progress[76]: _LSSetMetaApplicationInformationItem add to frontmost list success
+May  3 19:40:05 shoichi Installer Progress[76]: Showing the windows
+May  3 19:40:05 shoichi Installer Progress[76]: Created CG Shield Window
+May  3 19:40:05 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.55): com.apple.pluginkit.pkd (lint): Service sets EnableTransactions=false and EnablePressuredExit=true, which makes no sense. Enabling Transactions.
+May  3 19:40:05 shoichi Installer Progress[76]: There are 0 window(s) and 1 display(s), 1 window(s) will be added
+May  3 19:40:06 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.501): com.apple.pluginkit.pkd (lint): Service sets EnableTransactions=false and EnablePressuredExit=true, which makes no sense. Enabling Transactions.
+May  3 19:40:06 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.89): com.apple.pluginkit.pkd (lint): Service sets EnableTransactions=false and EnablePressuredExit=true, which makes no sense. Enabling Transactions.
+May  3 19:40:06 shoichi Installer Progress[76]: Created a window at {{0, 0}, {1280, 800}}
+May  3 19:40:07 shoichi loginwindow[101]: USER_PROCESS: 101 console
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.preference.displays.MirrorDisplays): Service only ran for 0 seconds. Pushing respawn out by 10 seconds.
+May  3 19:40:07 shoichi airportd[149]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): com.apple.AirPlayUIAgent (lint): EnablePressuredExit is not compatible with KeepAlive=true. Ignoring EnablePressuredExit.
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.AirPlayUIAgent): This service is defined to be constantly running and is inherently inefficient.
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.usernoted): This service is defined to be constantly running and is inherently inefficient.
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): com.apple.quicklook.ui.helper (lint): The HideUntilCheckIn property is an architectural performance issue. Please transition away from it.
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.UserEventAgent-Aqua): This service is defined to be constantly running and is inherently inefficient.
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.routined): This service is defined to be constantly running and is inherently inefficient.
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.routined): Unknown key for Boolean: EnabledPressuredExit
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.imklaunchagent): This service is defined to be constantly running and is inherently inefficient.
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.coreservices.UASharedPasteboardProgressUI): Unknown key for Boolean: DrainMessagesAfterFailedInit
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): com.apple.scopedbookmarksagent.xpc (lint): Unknown key for array: com.apple.private.tcc.allow
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): Could not import service from caller: path = /System/Library/LaunchAgents/com.apple.PCIESlotCheck.plist, caller = loginwindow.101, error = 138: Service cannot be loaded on this hardware
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): Caller tried to import service with same label as an existing service: path = /System/Library/LaunchAgents/com.apple.pluginkit.pkd.plist, caller = loginwindow.101
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): com.apple.notificationcenterui.agent (lint): The HideUntilCheckIn property is an architectural performance issue. Please transition away from it.
+May  3 19:40:08 --- last message repeated 3 times ---
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.notificationcenterui.agent): This service is defined to be constantly running and is inherently inefficient.
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.diagnostics_agent): This service is defined to be constantly running and is inherently inefficient.
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.PubSub.Agent): The ServiceIPC key is no longer respected. Please remove it.
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): com.apple.Dock.agent (lint): The HideUntilCheckIn property is an architectural performance issue. Please transition away from it.
+May  3 19:40:08 --- last message repeated 7 times ---
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): Could not import service from caller: path = /System/Library/LaunchAgents/com.apple.eospreflightagent.plist, caller = loginwindow.101, error = 138: Service cannot be loaded on this hardware
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): com.apple.universalaccessd (lint): The HideUntilCheckIn property is an architectural performance issue. Please transition away from it.
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): com.apple.VoiceOver (lint): The HideUntilCheckIn property is an architectural performance issue. Please transition away from it.
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): Caller tried to import service with same label as an existing service: path = /System/Library/LaunchAgents/com.apple.ctkd.plist, caller = loginwindow.101
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): com.apple.ReportCrash (lint): Unrecognized MachService property: DrainMessagesOnCrash
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.soagent): Invalid type for event events
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.soagent): Invalid type for event bundleid
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): Caller tried to import service with same label as an existing service: path = /System/Library/LaunchAgents/com.apple.storeinstallagent.plist, caller = loginwindow.101
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): com.apple.AssistiveControl (lint): The HideUntilCheckIn property is an architectural performance issue. Please transition away from it.
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.passd): Unknown key for string: com.apple.application-identifier
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.colorsync.useragent): Unknown key for string: RunLoopType
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): Caller tried to import service with same label as an existing service: path = /System/Library/LaunchAgents/com.apple.trustd.agent.plist, caller = loginwindow.101
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.sharingd): This service is defined to be constantly running and is inherently inefficient.
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): com.apple.corespeechd (lint): EnablePressuredExit is not compatible with KeepAlive=true. Ignoring EnablePressuredExit.
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.corespeechd): This service is defined to be constantly running and is inherently inefficient.
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): com.apple.ReportCrash.Self (lint): Unrecognized MachService property: DrainMessagesOnCrash
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): com.apple.warmd_agent (lint): Assuming EnablePressuredExit=false given EnableTransactions=false.
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): com.apple.DwellControl (lint): The HideUntilCheckIn property is an architectural performance issue. Please transition away from it.
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.gamed): The ServiceIPC key is no longer respected. Please remove it.
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): com.apple.universalaccesscontrol (lint): The HideUntilCheckIn property is an architectural performance issue. Please transition away from it.
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.icdd): This service is defined to be constantly running and is inherently inefficient.
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.corespotlightd): Unknown key for dictionary: NoEnvironmentVariables
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): com.apple.midiserver (lint): The HideUntilCheckIn property is an architectural performance issue. Please transition away from it.
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.ap.adprivacyd): Unknown key for double: StartInterval
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.voicememod): Unknown key for Boolean: EnabledPressuredExit
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): com.apple.noticeboard.agent (lint): EnablePressuredExit is not compatible with KeepAlive=true. Ignoring EnablePressuredExit.
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.noticeboard.agent): This service is defined to be constantly running and is inherently inefficient.
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): com.apple.tiswitcher (lint): The HideUntilCheckIn property is an architectural performance issue. Please transition away from it.
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): com.apple.SystemUIServer.agent (lint): The HideUntilCheckIn property is an architectural performance issue. Please transition away from it.
+May  3 19:40:08 --- last message repeated 6 times ---
+May  3 19:40:07 shoichi com.apple.xpc.launchd[1] (com.apple.coreservices.useractivityd): Unknown key for Boolean: DrainMessagesAfterFailedInit
+May  3 19:40:08 shoichi CommCenter[284]: objc[284]: Class CTAsciiAddress is implemented in both /System/Library/Frameworks/CoreTelephony.framework/Versions/A/CoreTelephony (0x7fff9409a470) and /System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter (0x10e92a1a0). One of the two will be used. Which one is undefined.
+May  3 19:40:08 shoichi CommCenter[284]: objc[284]: Class CTPhoneNumber is implemented in both /System/Library/Frameworks/CoreTelephony.framework/Versions/A/CoreTelephony (0x7fff9409a600) and /System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter (0x10e92a3d0). One of the two will be used. Which one is undefined.
+May  3 19:40:08 shoichi CommCenter[284]: objc[284]: Class CTSimLabel is implemented in both /System/Library/Frameworks/CoreTelephony.framework/Versions/A/CoreTelephony (0x7fff9409a5b0) and /System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter (0x10e92b410). One of the two will be used. Which one is undefined.
+May  3 19:40:08 shoichi secd[291]: objc[291]: Class SOSCachedNotification is implemented in both /System/Library/Frameworks/Security.framework/Versions/A/Security (0x7fff95553110) and /usr/libexec/secd (0x1064f1600). One of the two will be used. Which one is undefined.
+May  3 19:40:08 shoichi secd[291]: objc[291]: Class SecSOSStatus is implemented in both /System/Library/Frameworks/Security.framework/Versions/A/Security (0x7fff95552ff8) and /usr/libexec/secd (0x1064f1a88). One of the two will be used. Which one is undefined.
+May  3 19:40:08 shoichi secd[291]: objc[291]: Class SecKeyProxyTarget is implemented in both /System/Library/Frameworks/Security.framework/Versions/A/Security (0x7fff95553048) and /usr/libexec/secd (0x1064f1ad8). One of the two will be used. Which one is undefined.
+May  3 19:40:08 shoichi secd[291]: objc[291]: Class SecKeyProxy is implemented in both /System/Library/Frameworks/Security.framework/Versions/A/Security (0x7fff95553098) and /usr/libexec/secd (0x1064f1b28). One of the two will be used. Which one is undefined.
+May  3 19:40:09 shoichi UserEventAgent[280]: objc[280]: Class NPUtilities is implemented in both /System/Library/PrivateFrameworks/NetworkServiceProxy.framework/Versions/A/NetworkServiceProxy (0x7fff9884dd40) and /System/Library/UserEventPlugins/com.apple.netsvcproxy.plugin/Contents/MacOS/com.apple.netsvcproxy (0x10fe84760). One of the two will be used. Which one is undefined.
+May  3 19:40:09 shoichi UserEventAgent[280]: objc[280]: Class NSPConnectionInfo is implemented in both /System/Library/PrivateFrameworks/NetworkServiceProxy.framework/Versions/A/NetworkServiceProxy (0x7fff9884de08) and /System/Library/UserEventPlugins/com.apple.netsvcproxy.plugin/Contents/MacOS/com.apple.netsvcproxy (0x10fe84850). One of the two will be used. Which one is undefined.
+May  3 19:40:10 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.205): com.apple.pluginkit.pkd (lint): Service sets EnableTransactions=false and EnablePressuredExit=true, which makes no sense. Enabling Transactions.
+May  3 19:40:10 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 19:40:10 --- last message repeated 3 times ---
+May  3 19:40:10 shoichi xpcproxy[340]: libcoreservices: _dirhelper_userdir: 529: bootstrap_look_up returned (ipc/send) invalid destination port
+May  3 19:40:10 shoichi usernoted[339]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:40:10 shoichi ksinstall[348]: 2019-05-03 19:40:10.941 ksinstall[348/0x10ae30580] [lvl=2] -[KeystoneInstallTool main] Google Software Update installer started.
+May  3 19:40:10 shoichi NotificationCenter[344]: objc[344]: Class NCJSONTransformer is implemented in both /System/Library/Frameworks/NotificationCenter.framework/Versions/A/NotificationCenter (0x7fff94959410) and /System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/NotificationCenter (0x10f398000). One of the two will be used. Which one is undefined.
+May  3 19:40:10 shoichi NotificationCenter[344]: objc[344]: Class NCMaterialLayer is implemented in both /System/Library/Frameworks/NotificationCenter.framework/Versions/A/NotificationCenter (0x7fff94959460) and /System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/NotificationCenter (0x10f3987a8). One of the two will be used. Which one is undefined.
+May  3 19:40:10 shoichi ksinstall[348]: 2019-05-03 19:40:10.950 ksinstall[348/0x10ae30580] [lvl=2] -[KeystoneInstallTool main] Google Software Update installer starting Installation.
+May  3 19:40:10 shoichi ksinstall[348]: 2019-05-03 19:40:10.952 ksinstall[348/0x10ae30580] [lvl=2] -[KeystoneInstallBackend install] Google Software Update attempting to install.
+May  3 19:40:11 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 19:40:12 --- last message repeated 1 time ---
+May  3 19:40:11 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.501): Service "com.apple.rapportd" tried to register for endpoint "com.apple.private.alloy.nearby-idswake" already registered by owner: com.apple.sharingd
+May  3 19:40:11 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 19:40:11 shoichi Dock[310]: DEPRECATED USE in libdispatch client: Setting timer interval to 0 requests a 1ns timer, did you mean FOREVER (a one-shot timer)?; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:40:12 shoichi SystemUIServer[311]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:40:12 shoichi NotificationCenter[344]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:40:12 shoichi Spotlight[357]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:40:13 shoichi xpcproxy[374]: libcoreservices: _dirhelper_userdir: 529: bootstrap_look_up returned (ipc/send) invalid destination port
+May  3 19:40:13 shoichi SystemUIServer[311]: DEPRECATED USE in libdispatch client: Setting timer interval to 0 requests a 1ns timer, did you mean FOREVER (a one-shot timer)?; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:40:14 shoichi loginwindow[101]: client 0x600001ee9f80: phaseName = "loginwindow Boot"
+May  3 19:40:14 shoichi loginwindow[101]: ISAP: Done with Phase "loginwindow Boot"
+May  3 19:40:14 shoichi Finder[313]: assertion failed: 18A384a: libxpc.dylib + 92361 [C0F92150-919C-33FB-9182-7DAAE5AA2EEA]: 0x89
+May  3 19:40:15 shoichi login[385]: USER_PROCESS: 385 ttys000
+May  3 19:40:16 shoichi ksinstall[348]: 2019-05-03 19:40:16.401 ksinstall[348/0x10ae30580] [lvl=2] -[KeystoneInstallBackend shouldInstallWithVersion:error:] System Google Software Update installed, but user level installation requested. This user installation will be skipped.
+May  3 19:40:16 shoichi ksinstall[348]: 2019-05-03 19:40:16.404 ksinstall[348/0x10ae30580] [lvl=2] -[KeystoneInstallTool main] Google Software Update installer ran successfully.
+May  3 19:40:16 shoichi Activity Monitor[302]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:40:17 shoichi Keychain Access[296]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:40:17 shoichi Console[295]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:40:17 shoichi com.apple.ncplugin.stocks[388]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:40:17 shoichi login[406]: USER_PROCESS: 406 ttys001
+May  3 19:40:17 shoichi login[407]: USER_PROCESS: 407 ttys002
+May  3 19:40:17 shoichi login[412]: USER_PROCESS: 412 ttys003
+May  3 19:40:17 shoichi com.apple.preference.security.remoteservice[413]: objc[413]: Class AWDSecurityPrefAutoUnlockSetup is implemented in both /System/Library/PreferencePanes/Security.prefPane/Contents/XPCServices/com.apple.preference.security.remoteservice.xpc/Contents/MacOS/com.apple.preference.security.remoteservice (0x1096488e0) and /System/Library/PreferencePanes/Security.prefPane/Contents/MacOS/Security (0x109db4210). One of the two will be used. Which one is undefined.
+May  3 19:40:18 shoichi suhelperd[617]: objc[617]: Class SUDevKey is implemented in both /System/Library/PrivateFrameworks/SoftwareUpdate.framework/Versions/A/SoftwareUpdate (0x7fff99f11298) and /System/Library/CoreServices/Software Update.app/Contents/Resources/suhelperd (0x103a8a470). One of the two will be used. Which one is undefined.
+May  3 19:40:18 shoichi suhelperd[617]: objc[617]: Class SUReachabilityMonitor is implemented in both /System/Library/PrivateFrameworks/SoftwareUpdate.framework/Versions/A/SoftwareUpdate (0x7fff99f11590) and /System/Library/CoreServices/Software Update.app/Contents/Resources/suhelperd (0x103a8a4c0). One of the two will be used. Which one is undefined.
+May  3 19:40:18 shoichi suhelperd[617]: objc[617]: Class SUPrinterScan is implemented in both /System/Library/PrivateFrameworks/SoftwareUpdate.framework/Versions/A/SoftwareUpdate (0x7fff99f12260) and /System/Library/CoreServices/Software Update.app/Contents/Resources/suhelperd (0x103a8a588). One of the two will be used. Which one is undefined.
+May  3 19:40:18 shoichi suhelperd[617]: objc[617]: Class SUSharedPrefs is implemented in both /System/Library/PrivateFrameworks/SoftwareUpdate.framework/Versions/A/SoftwareUpdate (0x7fff99f11658) and /System/Library/CoreServices/Software Update.app/Contents/Resources/suhelperd (0x103a8a5b0). One of the two will be used. Which one is undefined.
+May  3 19:40:18 shoichi suhelperd[617]: objc[617]: Class SUPublicKey is implemented in both /System/Library/PrivateFrameworks/SoftwareUpdate.framework/Versions/A/SoftwareUpdate (0x7fff99f12120) and /System/Library/CoreServices/Software Update.app/Contents/Resources/suhelperd (0x103a8a628). One of the two will be used. Which one is undefined.
+May  3 19:40:18 shoichi suhelperd[617]: objc[617]: Class SUSignedFlatPkg is implemented in both /System/Library/PrivateFrameworks/SoftwareUpdate.framework/Versions/A/SoftwareUpdate (0x7fff99f120d0) and /System/Library/CoreServices/Software Update.app/Contents/Resources/suhelperd (0x103a8a678). One of the two will be used. Which one is undefined.
+May  3 19:40:18 shoichi suhelperd[617]: objc[617]: Class SUPowerAssertionManager is implemented in both /System/Library/PrivateFrameworks/SoftwareUpdate.framework/Versions/A/SoftwareUpdate (0x7fff99f114a0) and /System/Library/CoreServices/Software Update.app/Contents/Resources/suhelperd (0x103a8a6a0). One of the two will be used. Which one is undefined.
+May  3 19:40:18 shoichi suhelperd[617]: objc[617]: Class SUPowerSourceMonitor is implemented in both /System/Library/PrivateFrameworks/SoftwareUpdate.framework/Versions/A/SoftwareUpdate (0x7fff99f114c8) and /System/Library/CoreServices/Software Update.app/Contents/Resources/suhelperd (0x103a8a6f0). One of the two will be used. Which one is undefined.
+May  3 19:40:18 shoichi suhelperd[617]: objc[617]: Class SUURLConnection is implemented in both /System/Library/PrivateFrameworks/SoftwareUpdate.framework/Versions/A/SoftwareUpdate (0x7fff99f11720) and /System/Library/CoreServices/Software Update.app/Contents/Resources/suhelperd (0x103a8a740). One of the two will be used. Which one is undefined.
+May  3 19:40:18 shoichi suhelperd[617]: objc[617]: Class KeychainMasterHandler is implemented in both /usr/lib/libIASAuthReboot.dylib (0x7fff9a9cb110) and /System/Library/CoreServices/Software Update.app/Contents/Resources/suhelperd (0x103a8a7e0). One of the two will be used. Which one is undefined.
+May  3 19:40:18 shoichi Terminal[294]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:40:19 shoichi com.apple.ncplugin.weather[387]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:40:22 shoichi loginwindow[101]: client 0x600001ee9f80: phaseName = "loginwindow Boot" is already done
+May  3 19:40:23 shoichi Sourcetree[287]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:40:23 shoichi Google Chrome[290]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:40:24 shoichi com.apple.xpc.launchd[1] (com.apple.quicklook[360]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+May  3 19:40:24 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 19:40:24 --- last message repeated 8 times ---
+May  3 19:40:24 shoichi com.apple.xpc.launchd[1] (com.adobe.accmac.ACCFinderSync.7924519A-7C3C-4A4F-99C8-EB6F50996BB9[384]): Caller wanted oneshot behavior for pre-existing instance: caller = Finder
+May  3 19:40:24 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 19:40:24 --- last message repeated 1 time ---
+May  3 19:40:24 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.200): com.apple.pluginkit.pkd (lint): Service sets EnableTransactions=false and EnablePressuredExit=true, which makes no sense. Enabling Transactions.
+May  3 19:40:24 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 19:40:24 shoichi com.apple.xpc.launchd[1] (com.apple.CoreLocationAgent[537]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.CoreLocation.agent
+May  3 19:40:24 shoichi timed[89]: settimeofday({0x5ccc1a98,0xafce5}) == 0
+May  3 19:40:24 shoichi loginwindow[101]: client 0x600001ee9f80: phaseName = "loginwindow Boot"
+May  3 19:40:24 shoichi loginwindow[101]: ISAP: hide progress UI called
+May  3 19:40:24 shoichi loginwindow[101]: client 0x600001ee9f80: phaseName = loginwindow Boot
+May  3 19:40:24 shoichi loginwindow[101]: Releasing Connection
+May  3 19:40:25 shoichi System Preferences[299]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:40:27 shoichi xpcproxy[1115]: libcoreservices: _dirhelper_userdir: 529: bootstrap_look_up returned (ipc/send) invalid destination port
+May  3 19:40:27 shoichi com.apple.preference.security.remoteservice[413]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:40:31 shoichi Finder[313]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:40:31 shoichi networkserviceproxy[1315]: objc[1315]: Class NSPFlowDivert is implemented in both /System/Library/PrivateFrameworks/NetworkServiceProxy.framework/Versions/A/NetworkServiceProxy (0x7fff9884ded0) and /usr/libexec/networkserviceproxy (0x1003298f0). One of the two will be used. Which one is undefined.
+May  3 19:40:33 shoichi familycircled[1337]: objc[1337]: Class FAFamilyCloudKitProperties is implemented in both /System/Library/PrivateFrameworks/FamilyCircle.framework/Versions/A/FamilyCircle (0x7fff974761e8) and /System/Library/PrivateFrameworks/FamilyCircle.framework/Versions/A/Resources/familycircled (0x10d0eccd0). One of the two will be used. Which one is undefined.
+May  3 19:40:33 shoichi familycircled[1337]: objc[1337]: Class FAFamilyMember is implemented in both /System/Library/PrivateFrameworks/FamilyCircle.framework/Versions/A/FamilyCircle (0x7fff97476008) and /System/Library/PrivateFrameworks/FamilyCircle.framework/Versions/A/Resources/familycircled (0x10d0ecdc0). One of the two will be used. Which one is undefined.
+May  3 19:40:33 shoichi familycircled[1337]: objc[1337]: Class FAFamilyCircle is implemented in both /System/Library/PrivateFrameworks/FamilyCircle.framework/Versions/A/FamilyCircle (0x7fff97476198) and /System/Library/PrivateFrameworks/FamilyCircle.framework/Versions/A/Resources/familycircled (0x10d0ecf00). One of the two will be used. Which one is undefined.
+May  3 19:40:34 shoichi Finder[313]: objc[313]: Class FIFinderSyncExtensionHost is implemented in both /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder (0x103ef6b80) and /System/Library/PrivateFrameworks/FileProvider.framework/OverrideBundles/FinderSyncCollaborationFileProviderOverride.bundle/Contents/MacOS/FinderSyncCollaborationFileProviderOverride (0x1040bedc8). One of the two will be used. Which one is undefined.
+May  3 19:40:37 shoichi SidecarRelay[1353]: objc[1353]: Class SidecarMapTable is implemented in both /System/Library/PrivateFrameworks/SidecarCore.framework/Versions/A/SidecarCore (0x7fff99ca6870) and /usr/libexec/SidecarRelay (0x104b1b6c0). One of the two will be used. Which one is undefined.
+May  3 19:40:38 shoichi Installer Progress[76]: Status is ""
+May  3 19:40:38 shoichi Installer Progress[76]: Alternate status is ""
+May  3 19:40:39 shoichi com.apple.xpc.launchd[1] (com.apple.ncplugin.stocks[388]): Extension remained dirty for too long after trying to exit. Killing.
+May  3 19:40:40 shoichi Installer Progress[76]: Setting window alpha values to 0.0
+May  3 19:40:40 shoichi Installer Progress[76]: Ordering windows front
+May  3 19:40:40 --- last message repeated 1 time ---
+May  3 19:40:40 shoichi Installer Progress[76]: Setting window alpha values to 1.0
+May  3 19:40:40 shoichi Installer Progress[76]: Using AppKit display change notification
+May  3 19:40:40 shoichi Installer Progress[76]: Progress Updated: currentPhase = "IOKit Boot", progress = 100.0, adjusted progress = 69.0
+May  3 19:40:41 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): Attempt to re-bootstrap service from different path, will use existing: service = com.adobe.GC.Scheduler-1.0, existing = /Library/LaunchAgents/com.adobe.GC.Invoker-1.0.plist, conflicting = /Users/shoichiyamazaki/Library/LaunchAgents/com.adobe.GC.Invoker-1.0.plist
+May  3 19:40:41 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): Caller tried to import service with same label as an existing service: path = /Users/shoichiyamazaki/Library/LaunchAgents/com.adobe.GC.Invoker-1.0.plist, caller = otherbsd.281
+May  3 19:40:41 shoichi backgroundtaskmanagementagent[1369]: objc[1369]: Class BTMLoginItem is implemented in both /System/Library/PrivateFrameworks/BackgroundTaskManagement.framework/Versions/A/BackgroundTaskManagement (0x7fff961b1860) and /System/Library/CoreServices/backgroundtaskmanagementagent (0x106a8bc68). One of the two will be used. Which one is undefined.
+May  3 19:40:41 shoichi backgroundtaskmanagementagent[1369]: objc[1369]: Class BTMBackgroundItem is implemented in both /System/Library/PrivateFrameworks/BackgroundTaskManagement.framework/Versions/A/BackgroundTaskManagement (0x7fff961b17e8) and /System/Library/CoreServices/backgroundtaskmanagementagent (0x106a8be48). One of the two will be used. Which one is undefined.
+May  3 19:40:41 shoichi Evernote[297]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:40:42 shoichi Evernote[297]: +[ENBizCardManager sharedManager] <level=1> Created shared instance of ENBizCardManager
+May  3 19:40:42 shoichi Evernote[297]: Registered logger class: ENCardScanDelegateLogger
+May  3 19:40:43 shoichi nsurlstoraged[383]: DEPRECATED USE in libdispatch client: Setting timer interval to 0 requests a 1ns timer, did you mean FOREVER (a one-shot timer)?; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:40:44 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 19:40:46 shoichi Installer Progress[76]: Done with phase = "IOKit Boot"
+May  3 19:40:46 shoichi Installer Progress[76]: Progress Updated: currentPhase = "IOKit Boot", progress = 100.0, adjusted progress = 69.0
+May  3 19:40:46 shoichi Installer Progress[76]: IASSetCurrentInstallPhase: Current phase name set to "loginwindow Boot"
+May  3 19:40:46 shoichi Installer Progress[76]: Saving completion handler for phase IOKit Boot
+May  3 19:40:46 shoichi Installer Progress[76]: Unregister process 101, phaseName IOKit Boot, uuid 88B1C49A-5149-4978-9197-F128447B0335
+May  3 19:40:46 shoichi Installer Progress[76]: Connected processes = {
+	    "E8BC293E-4B9F-414D-B05C-F3279EFF7ACF" =     {
+	        CompletionHandlerKey = "<__NSMallocBlock__: 0x7fc24cd1c6a0>";
+	        "Phase Name" = "loginwindow Boot";
+	        "Process ID" = 101;
+	        UUID = "E8BC293E-4B9F-414D-B05C-F3279EFF7ACF";
+	    };
+	}
+May  3 19:40:46 shoichi Installer Progress[76]: Progress Updated: currentPhase = "loginwindow Boot", progress = 10.0, adjusted progress = 72.1
+May  3 19:40:46 shoichi Installer Progress[76]: Setting window alpha values to 1.0
+May  3 19:40:47 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): Could not import service from caller: caller = otherbsd.281, service = J8RPQ294UB.com.skitch.SkitchHelper, error = 119: Service is disabled
+May  3 19:40:47 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100007.Aqua): Could not import service from caller: caller = otherbsd.281, service = com.invisionlabs.CraftManagerHelper, error = 119: Service is disabled
+May  3 19:40:49 shoichi com.apple.xpc.launchd[1] (com.apple.preference.displays.MirrorDisplays): Service only ran for 8 seconds. Pushing respawn out by 2 seconds.
+May  3 19:40:49 shoichi iTunes[304]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:40:50 shoichi Evernote[297]: DEPRECATED USE in libdispatch client: Setting timer interval to 0 requests a 1ns timer, did you mean FOREVER (a one-shot timer)?; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:40:50 shoichi corespeechd[1393]: objc[1393]: Class CSVoiceTriggerEnabledPolicyMac is implemented in both /System/Library/PrivateFrameworks/CoreSpeech.framework/Versions/A/CoreSpeech (0x7fff96ce8130) and /System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd (0x10d81d928). One of the two will be used. Which one is undefined.
+May  3 19:40:50 shoichi corespeechd[1393]: objc[1393]: Class CSSRFUserSettingMonitor is implemented in both /System/Library/PrivateFrameworks/CoreSpeech.framework/Versions/A/CoreSpeech (0x7fff96ce9f80) and /System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd (0x10d81d978). One of the two will be used. Which one is undefined.
+May  3 19:40:50 shoichi corespeechd[1393]: objc[1393]: Class CSVoiceTriggerEnabledPolicyFactory is implemented in both /System/Library/PrivateFrameworks/CoreSpeech.framework/Versions/A/CoreSpeech (0x7fff96ce82e8) and /System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd (0x10d81da40). One of the two will be used. Which one is undefined.
+May  3 19:40:50 shoichi corespeechd[1393]: objc[1393]: Class CSEventMonitor is implemented in both /System/Library/PrivateFrameworks/CoreSpeech.framework/Versions/A/CoreSpeech (0x7fff96ce8950) and /System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd (0x10d81da68). One of the two will be used. Which one is undefined.
+May  3 19:40:50 shoichi corespeechd[1393]: objc[1393]: Class CSClamshellStateMonitor is implemented in both /System/Library/PrivateFrameworks/CoreSpeech.framework/Versions/A/CoreSpeech (0x7fff96ce8630) and /System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd (0x10d81dab8). One of the two will be used. Which one is undefined.
+May  3 19:40:55 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.501): Service "com.evernote.EvernoteHelper" tried to register for endpoint "com.evernote.ipc.helper" already registered by owner: com.apple.xpc.launchd.oneshot.0x1000000c.EvernoteHelper
+May  3 19:40:56 --- last message repeated 1 time ---
+May  3 19:40:56 shoichi AdobeReader[301]: ARM Framework Log: Starting updater process for product with registration plist com.adobe.reader.dc
+May  3 19:40:56 shoichi AdobeReader[301]: ARM Framework Log: The Updater application has been verified
+May  3 19:40:56 shoichi AdobeReader[301]: ARM Framework Log: Checking updates for the product
+May  3 19:40:56 shoichi AdobeReader[301]: The return code after checking for updates is 1
+May  3 19:40:56 shoichi AdobeReader[301]: ARM Framework Log: Starting updater process for product with registration plist com.adobe.reader.dc
+May  3 19:40:56 shoichi AdobeReader[301]: ARM Framework Log: The Updater application has been verified
+May  3 19:40:56 shoichi AdobeReader[301]: ARM Framework Log: Checking updates for the product
+May  3 19:40:56 shoichi AdobeReader[301]: ARM Framework Log: ARM Helper exit with status 0
+May  3 19:40:56 shoichi AdobeReader[301]: ARM Framework Log: Check for updates has been completed. The status returned is 0
+May  3 19:40:59 shoichi Installer Progress[76]: Progress Updated: currentPhase = "loginwindow Boot", progress = 25.0, adjusted progress = 76.8
+May  3 19:40:59 shoichi Installer Progress[76]: There are 1 window(s) and 2 display(s), 1 window(s) will be added
+May  3 19:40:59 shoichi Installer Progress[76]: Created a window at {{-345, 800}, {1920, 1080}}
+May  3 19:40:59 shoichi Installer Progress[76]: Setting window alpha values to 1.0
+May  3 19:40:59 shoichi Installer Progress[76]: Progress Updated: currentPhase = "loginwindow Boot", progress = 50.0, adjusted progress = 84.5
+May  3 19:40:59 shoichi Installer Progress[76]: Progress Updated: currentPhase = "loginwindow Boot", progress = 70.0, adjusted progress = 90.7
+May  3 19:40:59 shoichi Installer Progress[76]: Progress Updated: currentPhase = "loginwindow Boot", progress = 100.0, adjusted progress = 100.0
+May  3 19:40:59 shoichi Installer Progress[76]: Done with phase = "loginwindow Boot"
+May  3 19:40:59 shoichi Installer Progress[76]: Progress Updated: currentPhase = "loginwindow Boot", progress = 100.0, adjusted progress = 100.0
+May  3 19:40:59 shoichi Installer Progress[76]: IASClearInstallProgress: Clearing Registry
+May  3 19:40:59 shoichi Installer Progress[76]: Ignoring the progress update because "loginwindow Boot" isn't one of the phases (null)
+May  3 19:40:59 shoichi Installer Progress[76]: Hiding Progress UI
+May  3 19:40:59 shoichi Installer Progress[76]: Showing the cursor in Progress UI
+May  3 19:40:59 shoichi Installer Progress[76]: Releasing the boot windows
+May  3 19:40:59 shoichi Installer Progress[76]: Order Out CG Shield Window
+May  3 19:40:59 shoichi Installer Progress[76]: Setting window alpha values to 0.0
+May  3 19:40:59 shoichi Installer Progress[76]: _LSSetMetaApplicationInformationItem remove from frontmost list success
+May  3 19:40:59 shoichi Installer Progress[76]: Saving completion handler for phase loginwindow Boot
+May  3 19:40:59 shoichi Installer Progress[76]: Unregister process 101, phaseName loginwindow Boot, uuid E8BC293E-4B9F-414D-B05C-F3279EFF7ACF
+May  3 19:40:59 shoichi Installer Progress[76]: Connected processes = {
+	}
+May  3 19:40:59 shoichi Installer Progress[76]: Start quit timer, will attempt to quit in 1 second(s) at 19:41:00
+May  3 19:40:59 shoichi Installer Progress[76]: Ordering windows out
+May  3 19:40:59 shoichi Installer Progress[76]: Order Out CG Shield Window
+May  3 19:41:00 shoichi Installer Progress[76]: Quitting: There are no connected processes and there is no UI showing
+May  3 19:41:00 shoichi Installer Progress[76]: Quiting Progress App
+May  3 19:41:00 shoichi Installer Progress[76]: Showing the cursor in Progress UI
+May  3 19:41:00 shoichi Installer Progress[76]: Releasing the boot windows
+May  3 19:41:00 --- last message repeated 1 time ---
+May  3 19:41:00 shoichi Installer Progress[76]: Order Out CG Shield Window
+May  3 19:41:00 shoichi Installer Progress[76]: Setting window alpha values to 0.0
+May  3 19:41:00 shoichi Installer Progress[76]: Showing the cursor in Progress UI
+May  3 19:41:00 shoichi loginwindow[101]: The connection was interrupted, calling interruption handlers
+May  3 19:41:02 shoichi com.apple.xpc.launchd[1] (com.apple.FolderActionsDispatcher): This service is defined to be constantly running and is inherently inefficient.
+May  3 19:41:04 shoichi loginwindow[101]: There are still active callers
+May  3 19:41:11 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 19:41:24 shoichi loginwindow[101]: There are still active callers
+May  3 19:41:14 shoichi com.apple.xpc.launchd[1] (com.adobe.ARMDCHelper.cc24aef4a1b90ed56a725c38014c95072f92651fb65e1bf9c8e43c37a23d420d[1394]): Service exited with abnormal code: 111
+May  3 19:41:15 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.Adobe CEF Helpe.1640): Failed to bootstrap path: path = ./../CEF/Chromium Embedded Framework.framework/Chromium Embedded Framework, error = 108: Invalid path
+May  3 19:41:21 shoichi Adobe Desktop Service[1650]: objc[1650]: Class HTTPHeader is implemented in both /Library/Application Support/Adobe/Adobe Desktop Common/Core/AdobePIM.dylib (0x1057b1b70) and /Library/Application Support/Adobe/Adobe Desktop Common/Notifications/NotificationManager.dylib (0x107860b90). One of the two will be used. Which one is undefined.
+May  3 19:41:21 shoichi Adobe Desktop Service[1650]: objc[1650]: Class ProxyManager is implemented in both /Library/Application Support/Adobe/Adobe Desktop Common/Core/AdobePIM.dylib (0x1057b1bc0) and /Library/Application Support/Adobe/Adobe Desktop Common/Notifications/NotificationManager.dylib (0x107860be0). One of the two will be used. Which one is undefined.
+May  3 19:41:22 shoichi Adobe Desktop Service[1650]: objc[1650]: Class HTTPHeader is implemented in both /Library/Application Support/Adobe/Adobe Desktop Common/Core/AdobePIM.dylib (0x1057b1b70) and /Library/Application Support/Adobe/Adobe Desktop Common/ExchangePlugin/ExchangePluginDylib.dylib (0x107b17778). One of the two will be used. Which one is undefined.
+May  3 19:41:22 shoichi Adobe Desktop Service[1650]: objc[1650]: Class ProxyManager is implemented in both /Library/Application Support/Adobe/Adobe Desktop Common/Core/AdobePIM.dylib (0x1057b1bc0) and /Library/Application Support/Adobe/Adobe Desktop Common/ExchangePlugin/ExchangePluginDylib.dylib (0x107b177c8). One of the two will be used. Which one is undefined.
+May  3 19:41:26 shoichi Docker[1462]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:41:27 shoichi Adobe Desktop Service[1650]: objc[1650]: Class HTTPHeader is implemented in both /Library/Application Support/Adobe/Adobe Desktop Common/Core/AdobePIM.dylib (0x1057b1b70) and /Applications/Utilities/Adobe Creative Cloud//ACC/ContainerBL.dylib (0x108e699d8). One of the two will be used. Which one is undefined.
+May  3 19:41:27 shoichi Adobe Desktop Service[1650]: objc[1650]: Class ProxyManager is implemented in both /Library/Application Support/Adobe/Adobe Desktop Common/Core/AdobePIM.dylib (0x1057b1bc0) and /Applications/Utilities/Adobe Creative Cloud//ACC/ContainerBL.dylib (0x108e69a28). One of the two will be used. Which one is undefined.
+May  3 19:41:34 shoichi Adobe Desktop Service[1650]: objc[1650]: Class HTTPHeader is implemented in both /Library/Application Support/Adobe/Adobe Desktop Common/Core/AdobePIM.dylib (0x1057b1b70) and /Applications/Utilities/Adobe Creative Cloud/HomePanel/HomePanelBL.bundle/Contents/MacOS/HomePanelBL (0x10be41680). One of the two will be used. Which one is undefined.
+May  3 19:41:34 shoichi Adobe Desktop Service[1650]: objc[1650]: Class ProxyManager is implemented in both /Library/Application Support/Adobe/Adobe Desktop Common/Core/AdobePIM.dylib (0x1057b1bc0) and /Applications/Utilities/Adobe Creative Cloud/HomePanel/HomePanelBL.bundle/Contents/MacOS/HomePanelBL (0x10be416d0). One of the two will be used. Which one is undefined.
+May  3 19:41:39 shoichi Adobe Desktop Service[1650]: objc[1650]: Class HTTPHeader is implemented in both /Library/Application Support/Adobe/Adobe Desktop Common/Core/AdobePIM.dylib (0x1057b1b70) and /Applications/Utilities/Adobe Creative Cloud//AppsPanel/AppsPanelIL.dylib (0x10d3c6d00). One of the two will be used. Which one is undefined.
+May  3 19:41:39 shoichi Adobe Desktop Service[1650]: objc[1650]: Class ProxyManager is implemented in both /Library/Application Support/Adobe/Adobe Desktop Common/Core/AdobePIM.dylib (0x1057b1bc0) and /Applications/Utilities/Adobe Creative Cloud//AppsPanel/AppsPanelIL.dylib (0x10d3c6d50). One of the two will be used. Which one is undefined.
+May  3 19:41:39 shoichi Adobe Desktop Service[1650]: objc[1650]: Class HTTPHeader is implemented in both /Library/Application Support/Adobe/Adobe Desktop Common/Core/AdobePIM.dylib (0x1057b1b70) and /Library/Application Support/Adobe/Adobe Desktop Common/HDBox/HDPIM.dylib (0x10fd75900). One of the two will be used. Which one is undefined.
+May  3 19:41:39 shoichi Adobe Desktop Service[1650]: objc[1650]: Class ProxyManager is implemented in both /Library/Application Support/Adobe/Adobe Desktop Common/Core/AdobePIM.dylib (0x1057b1bc0) and /Library/Application Support/Adobe/Adobe Desktop Common/HDBox/HDPIM.dylib (0x10fd75950). One of the two will be used. Which one is undefined.
+May  3 19:41:48 shoichi Clipy[1418]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:42:15 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.235): com.apple.pluginkit.pkd (lint): Service sets EnableTransactions=false and EnablePressuredExit=true, which makes no sense. Enabling Transactions.
+May  3 19:42:17 shoichi diagnosticd[1791]: Posting empty stream filter
+May  3 19:42:17 shoichi diagnosticd[1791]: no EOS device present
+May  3 19:42:18 shoichi diagnosticd[1791]: allowing Console (295) access to stream due to admin status
+May  3 19:42:18 shoichi diagnosticd[1791]: Posting stream filter: "{
+	    global = 30064771083;
+	}"
+May  3 19:42:19 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 19:42:20 shoichi diagnosticd[1791]: System mode client started - Console (295) - mode: 0xb, filter: "<empty>"
+May  3 19:42:21 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 19:42:26 --- last message repeated 1 time ---
+May  3 19:42:26 shoichi systemstats[60]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:42:28 shoichi nsurlsessiond[321]: DEPRECATED USE in libdispatch client: Setting timer interval to 0 requests a 1ns timer, did you mean FOREVER (a one-shot timer)?; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:42:28 shoichi systemstats[60]: assertion failed: 18A384a: systemstats + 676784 [3D5C2DDB-7B31-382C-A0B9-DBFBDE61BBEC]: 0x7fa089537d30
+May  3 19:42:31 shoichi nsurlsessiond[180]: DEPRECATED USE in libdispatch client: Setting timer interval to 0 requests a 1ns timer, did you mean FOREVER (a one-shot timer)?; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:42:35 shoichi findmydeviced[1361]: objc[1361]: Class LocalizedUnregisterErrorKey is implemented in both /System/Library/PrivateFrameworks/FindMyDevice.framework/Versions/A/FindMyDevice (0x7fff974ab588) and /usr/libexec/findmydeviced (0x10b7f8ae8). One of the two will be used. Which one is undefined.
+May  3 19:42:51 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 19:42:53 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0C000000-0000-0000-0000-000000000000): Service only ran for 8 seconds. Pushing respawn out by 2 seconds.
+May  3 19:42:54 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.02000000-0000-0000-0000-000000000000): Service only ran for 6 seconds. Pushing respawn out by 4 seconds.
+May  3 19:42:54 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0000-0000-0000-000000000000): Service only ran for 7 seconds. Pushing respawn out by 3 seconds.
+May  3 19:42:55 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.05000000-0000-0000-0000-000000000000): Service only ran for 9 seconds. Pushing respawn out by 1 seconds.
+May  3 19:42:58 shoichi xpcproxy[1847]: libcoreservices: _dirhelper_userdir: 529: bootstrap_look_up returned (ipc/send) invalid destination port
+May  3 19:43:04 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 19:43:05 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0C000000-0000-0000-0000-000000000000): Service only ran for 9 seconds. Pushing respawn out by 1 seconds.
+May  3 19:43:05 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.02000000-0000-0000-0000-000000000000): Service only ran for 7 seconds. Pushing respawn out by 3 seconds.
+May  3 19:43:05 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0000-0000-0000-000000000000): Service only ran for 7 seconds. Pushing respawn out by 3 seconds.
+May  3 19:43:05 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.06000000-0000-0000-0000-000000000000): Service only ran for 1 seconds. Pushing respawn out by 9 seconds.
+May  3 19:43:10 shoichi ReportCrash[1863]: assertion failed: 18A384a: libxpc.dylib + 22266 [C0F92150-919C-33FB-9182-7DAAE5AA2EEA]: 0xf
+May  3 19:43:11 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 19:43:25 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.10000000-0000-0000-0000-000000000000): Service only ran for 6 seconds. Pushing respawn out by 4 seconds.
+May  3 19:43:30 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0000-0000-0000-000000000000): Service only ran for 1 seconds. Pushing respawn out by 9 seconds.
+May  3 19:43:40 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.03000000-0000-0000-0000-000000000000): Service only ran for 9 seconds. Pushing respawn out by 1 seconds.
+May  3 19:43:40 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0F000000-0000-0000-0000-000000000000): Service only ran for 9 seconds. Pushing respawn out by 1 seconds.
+May  3 19:43:41 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0000-0000-0000-000000000000): Service only ran for 1 seconds. Pushing respawn out by 9 seconds.
+May  3 19:43:41 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.07000000-0000-0000-0000-000000000000): Service only ran for 9 seconds. Pushing respawn out by 1 seconds.
+May  3 19:44:06 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0B000000-0000-0000-0000-000000000000): Service only ran for 3 seconds. Pushing respawn out by 7 seconds.
+May  3 19:44:06 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.08000000-0000-0000-0000-000000000000): Service only ran for 3 seconds. Pushing respawn out by 7 seconds.
+May  3 19:44:06 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0D000000-0000-0000-0000-000000000000): Service only ran for 4 seconds. Pushing respawn out by 6 seconds.
+May  3 19:44:07 shoichi Dock[310]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:44:08 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.04000000-0000-0000-0000-000000000000): Service only ran for 5 seconds. Pushing respawn out by 5 seconds.
+May  3 19:44:08 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.10000000-0000-0000-0000-000000000000): Service only ran for 1 seconds. Pushing respawn out by 9 seconds.
+May  3 19:44:08 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 19:44:18 shoichi Google Chrome[290]: BUG in libdispatch: 18A384a - 282 - 0xf
+May  3 19:44:20 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0000-0000-0000-000000000000): Service only ran for 1 seconds. Pushing respawn out by 9 seconds.
+May  3 19:44:20 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0E000000-0000-0000-0000-000000000000): Service only ran for 1 seconds. Pushing respawn out by 9 seconds.
+May  3 19:44:20 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.05000000-0000-0000-0000-000000000000): Service only ran for 1 seconds. Pushing respawn out by 9 seconds.
+May  3 19:44:20 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.10000000-0000-0000-0000-000000000000): Service only ran for 3 seconds. Pushing respawn out by 7 seconds.
+May  3 19:44:20 shoichi Google Chrome Helper[1953]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:44:20 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0D000000-0000-0000-0000-000000000000): Service only ran for 7 seconds. Pushing respawn out by 3 seconds.
+May  3 19:44:20 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.04000000-0000-0000-0000-000000000000): Service only ran for 7 seconds. Pushing respawn out by 3 seconds.
+May  3 19:44:23 shoichi com.apple.xpc.launchd[1] (com.apple.quicklook[1980]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+May  3 19:44:25 shoichi Google Chrome[290]: assertion failed: 18A384a: libxpc.dylib + 92361 [C0F92150-919C-33FB-9182-7DAAE5AA2EEA]: 0x89
+May  3 19:44:25 shoichi com.apple.xpc.launchd[1] (com.adobe.accmac.ACCFinderSync.8CAD517B-580C-49F7-AC87-90102A2D03B4[1986]): Caller wanted oneshot behavior for pre-existing instance: caller = Google Chrome
+May  3 19:44:32 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 19:44:41 shoichi Archive Utility[1993]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:44:56 shoichi CoreServicesUIAgent[346]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:45:02 shoichi Sourcetree[1997]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:45:10 shoichi Sourcetree[2007]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:45:16 shoichi kcm[2173]: DEPRECATED USE in libdispatch client: Setting timer interval to 0 requests a 1ns timer, did you mean FOREVER (a one-shot timer)?; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:45:22 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 19:45:53 --- last message repeated 2 times ---
+May  3 19:45:53 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.501): com.apple.iBooksX.CacheDelete (lint): _AbandonCoalition is only available to Application services.
+May  3 19:45:54 shoichi iTunesCacheExtension[2259]: objc[2259]: Class ITNSImage is implemented in both /System/Library/Frameworks/iTunesLibrary.framework/Versions/A/iTunesLibrary (0x7fff95afd568) and /Applications/iTunes.app/Contents/PlugIns/iTunesCacheExtension.appex/Contents/MacOS/iTunesCacheExtension (0x104cf23f0). One of the two will be used. Which one is undefined.
+May  3 19:45:54 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 19:45:59 --- last message repeated 1 time ---
+May  3 19:45:59 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.IDECacheDeleteAppExtension.2258): Path not allowed in target domain: type = pid, path = /Applications/Xcode.app/Contents/Frameworks/IDEKit.framework/Versions/A/XPCServices/IDETouchBarSimulatorService.xpc error = 147: The specified service did not ship in the requestor's bundle, origin = /Applications/Xcode.app/Contents/PlugIns/IDECacheDeleteAppExtension.appex
+May  3 19:46:00 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.IDECacheDeleteAppExtension.2258): Path not allowed in target domain: type = pid, path = /Applications/Xcode.app/Contents/SharedFrameworks/LLDB.framework/Versions/A/XPCServices/RootDebuggingXPCService.xpc error = 147: The specified service did not ship in the requestor's bundle, origin = /Applications/Xcode.app/Contents/PlugIns/IDECacheDeleteAppExtension.appex
+May  3 19:46:03 shoichi appstoreagent[2265]: objc[2265]: Class ASDPurchaseResult is implemented in both /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Versions/A/AppStoreDaemon (0x7fff95ed99f8) and /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Support/appstoreagent (0x1048723e8). One of the two will be used. Which one is undefined.
+May  3 19:46:12 shoichi AdobeGCClient[1578]: objc[1578]: Class HTTPHeader is implemented in both /Library/Application Support/Adobe/AdobeGCClient/AdobeGCClient.app/Contents/MacOS/AdobeGCClient (0x10631cb88) and /Library/Application Support/Adobe/AdobeGCClient/HDPIM.dylib (0x10be6d890). One of the two will be used. Which one is undefined.
+May  3 19:46:12 shoichi AdobeGCClient[1578]: objc[1578]: Class ProxyManager is implemented in both /Library/Application Support/Adobe/AdobeGCClient/AdobeGCClient.app/Contents/MacOS/AdobeGCClient (0x10631cbd8) and /Library/Application Support/Adobe/AdobeGCClient/HDPIM.dylib (0x10be6d8e0). One of the two will be used. Which one is undefined.
+May  3 19:46:29 shoichi Google Chrome Helper[2268]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:46:43 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 19:47:30 --- last message repeated 2 times ---
+May  3 19:47:43 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 19:47:44 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 19:47:46 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.IDECacheDeleteAppExtension.2516): Path not allowed in target domain: type = pid, path = /Applications/Xcode.app/Contents/Frameworks/IDEKit.framework/Versions/A/XPCServices/IDETouchBarSimulatorService.xpc error = 147: The specified service did not ship in the requestor's bundle, origin = /Applications/Xcode.app/Contents/PlugIns/IDECacheDeleteAppExtension.appex
+May  3 19:47:47 shoichi com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.IDECacheDeleteAppExtension.2516): Path not allowed in target domain: type = pid, path = /Applications/Xcode.app/Contents/SharedFrameworks/LLDB.framework/Versions/A/XPCServices/RootDebuggingXPCService.xpc error = 147: The specified service did not ship in the requestor's bundle, origin = /Applications/Xcode.app/Contents/PlugIns/IDECacheDeleteAppExtension.appex
+May  3 19:48:12 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0D000000-0000-0000-0000-000000000000): Service only ran for 6 seconds. Pushing respawn out by 4 seconds.
+May  3 19:48:12 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0F000000-0000-0000-0000-000000000000): Service only ran for 8 seconds. Pushing respawn out by 2 seconds.
+May  3 19:48:12 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.10000000-0000-0000-0000-000000000000): Service only ran for 6 seconds. Pushing respawn out by 4 seconds.
+May  3 19:48:12 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.04000000-0000-0000-0000-000000000000): Service only ran for 6 seconds. Pushing respawn out by 4 seconds.
+May  3 19:48:17 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0000-0000-0000-000000000000): Service only ran for 7 seconds. Pushing respawn out by 3 seconds.
+May  3 19:48:18 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0B000000-0000-0000-0000-000000000000): Service only ran for 8 seconds. Pushing respawn out by 2 seconds.
+May  3 19:48:21 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.04000000-0000-0000-0000-000000000000): Service only ran for 5 seconds. Pushing respawn out by 5 seconds.
+May  3 19:48:35 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.04000000-0000-0000-0000-000000000000): Service only ran for 8 seconds. Pushing respawn out by 2 seconds.
+May  3 19:48:44 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 19:49:44 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.04000000-0000-0000-0000-000000000000): Service only ran for 6 seconds. Pushing respawn out by 4 seconds.
+May  3 19:49:44 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0E000000-0000-0000-0000-000000000000): Service only ran for 6 seconds. Pushing respawn out by 4 seconds.
+May  3 19:49:50 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.08000000-0000-0000-0000-000000000000): Service only ran for 5 seconds. Pushing respawn out by 5 seconds.
+May  3 19:49:50 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.02000000-0000-0000-0000-000000000000): Service only ran for 8 seconds. Pushing respawn out by 2 seconds.
+May  3 19:49:50 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.06000000-0000-0000-0000-000000000000): Service only ran for 7 seconds. Pushing respawn out by 3 seconds.
+May  3 19:49:50 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0E000000-0000-0000-0000-000000000000): Service only ran for 2 seconds. Pushing respawn out by 8 seconds.
+May  3 19:49:50 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0000-0000-0000-000000000000): Service only ran for 6 seconds. Pushing respawn out by 4 seconds.
+May  3 19:49:51 shoichi Console[295]: BUG in libdispatch client: vnode, monitored resource vanished before the source cancel handler was invoked { 0x6000038f5e80[source], ident: 9 / 0x9, handler: 0x7fff4e7296d3 }
+May  3 19:49:51 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0D000000-0000-0000-0000-000000000000): Service only ran for 2 seconds. Pushing respawn out by 8 seconds.
+May  3 19:49:51 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.04000000-0000-0000-0000-000000000000): Service only ran for 2 seconds. Pushing respawn out by 8 seconds.
+May  3 19:49:52 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0C000000-0000-0000-0000-000000000000): Service only ran for 3 seconds. Pushing respawn out by 7 seconds.
+May  3 19:49:55 shoichi com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+May  3 19:49:59 shoichi syslogd[48]: ASL Sender Statistics
+May  3 19:50:14 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.08000000-0000-0000-0000-000000000000): Service only ran for 2 seconds. Pushing respawn out by 8 seconds.
+May  3 19:50:14 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.07000000-0000-0000-0000-000000000000): Service only ran for 2 seconds. Pushing respawn out by 8 seconds.
+May  3 19:50:14 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.02000000-0000-0000-0000-000000000000): Service only ran for 2 seconds. Pushing respawn out by 8 seconds.
+May  3 19:50:14 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0E000000-0000-0000-0000-000000000000): Service only ran for 2 seconds. Pushing respawn out by 8 seconds.
+May  3 19:50:14 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.05000000-0000-0000-0000-000000000000): Service only ran for 3 seconds. Pushing respawn out by 7 seconds.
+May  3 19:50:16 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.04000000-0000-0000-0000-000000000000): Service only ran for 4 seconds. Pushing respawn out by 6 seconds.
+May  3 19:50:17 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0B000000-0000-0000-0000-000000000000): Service only ran for 5 seconds. Pushing respawn out by 5 seconds.
+May  3 19:50:17 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0A000000-0000-0000-0000-000000000000): Service only ran for 6 seconds. Pushing respawn out by 4 seconds.
+May  3 19:50:23 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0C000000-0000-0000-0000-000000000000): Service only ran for 9 seconds. Pushing respawn out by 1 seconds.
+May  3 19:50:24 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.08000000-0000-0000-0000-000000000000): Service only ran for 2 seconds. Pushing respawn out by 8 seconds.
+May  3 19:50:24 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.07000000-0000-0000-0000-000000000000): Service only ran for 2 seconds. Pushing respawn out by 8 seconds.
+May  3 19:50:25 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.05000000-0000-0000-0000-000000000000): Service only ran for 4 seconds. Pushing respawn out by 6 seconds.
+May  3 19:50:25 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0F000000-0000-0000-0000-000000000000): Service only ran for 8 seconds. Pushing respawn out by 2 seconds.
+May  3 19:50:26 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0B000000-0000-0000-0000-000000000000): Service only ran for 4 seconds. Pushing respawn out by 6 seconds.
+May  3 19:50:27 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0E000000-0000-0000-0000-000000000000): Service only ran for 5 seconds. Pushing respawn out by 5 seconds.
+May  3 19:50:28 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0D000000-0000-0000-0000-000000000000): Service only ran for 3 seconds. Pushing respawn out by 7 seconds.
+May  3 19:50:28 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.02000000-0000-0000-0000-000000000000): Service only ran for 6 seconds. Pushing respawn out by 4 seconds.
+May  3 19:50:29 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.04000000-0000-0000-0000-000000000000): Service only ran for 6 seconds. Pushing respawn out by 4 seconds.
+May  3 19:50:32 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.03000000-0000-0000-0000-000000000000): Service only ran for 6 seconds. Pushing respawn out by 4 seconds.
+May  3 19:50:34 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0B000000-0000-0000-0000-000000000000): Service only ran for 2 seconds. Pushing respawn out by 8 seconds.
+May  3 19:50:34 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0000-0000-0000-000000000000): Service only ran for 9 seconds. Pushing respawn out by 1 seconds.
+May  3 19:50:34 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.05000000-0000-0000-0000-000000000000): Service only ran for 2 seconds. Pushing respawn out by 8 seconds.
+May  3 19:50:34 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0E000000-0000-0000-0000-000000000000): Service only ran for 1 seconds. Pushing respawn out by 9 seconds.
+May  3 19:50:34 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.02000000-0000-0000-0000-000000000000): Service only ran for 1 seconds. Pushing respawn out by 9 seconds.
+May  3 19:50:34 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0C000000-0000-0000-0000-000000000000): Service only ran for 9 seconds. Pushing respawn out by 1 seconds.
+May  3 19:50:36 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0F000000-0000-0000-0000-000000000000): Service only ran for 8 seconds. Pushing respawn out by 2 seconds.
+May  3 19:50:36 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0D000000-0000-0000-0000-000000000000): Service only ran for 1 seconds. Pushing respawn out by 9 seconds.
+May  3 19:51:38 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.02000000-0000-0000-0000-000000000000): Service only ran for 6 seconds. Pushing respawn out by 4 seconds.
+May  3 19:51:40 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0B000000-0000-0000-0000-000000000000): Service only ran for 8 seconds. Pushing respawn out by 2 seconds.
+May  3 19:51:40 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.04000000-0000-0000-0000-000000000000): Service only ran for 8 seconds. Pushing respawn out by 2 seconds.
+May  3 19:51:42 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.10000000-0000-0000-0000-000000000000): Service only ran for 4 seconds. Pushing respawn out by 6 seconds.
+May  3 19:51:45 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0000-0000-0000-000000000000): Service only ran for 5 seconds. Pushing respawn out by 5 seconds.
+May  3 19:51:45 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.08000000-0000-0000-0000-000000000000): Service only ran for 4 seconds. Pushing respawn out by 6 seconds.
+May  3 19:51:45 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.02000000-0000-0000-0000-000000000000): Service only ran for 2 seconds. Pushing respawn out by 8 seconds.
+May  3 19:51:45 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0B000000-0000-0000-0000-000000000000): Service only ran for 3 seconds. Pushing respawn out by 7 seconds.
+May  3 19:51:45 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.04000000-0000-0000-0000-000000000000): Service only ran for 3 seconds. Pushing respawn out by 7 seconds.
+May  3 19:51:46 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0000-0000-0000-000000000000): Service only ran for 3 seconds. Pushing respawn out by 7 seconds.
+May  3 19:51:46 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.05000000-0000-0000-0000-000000000000): Service only ran for 9 seconds. Pushing respawn out by 1 seconds.
+May  3 19:51:47 shoichi com.apple.siri-distributed-evaluation[3093]: objc[3093]: Class DESDeviceIdentifierStore is implemented in both /System/Library/PrivateFrameworks/DistributedEvaluation.framework/Versions/A/DistributedEvaluation (0x7fff970edf28) and /System/Library/PrivateFrameworks/DistributedEvaluation.framework/Versions/A/XPCServices/com.apple.siri-distributed-evaluation.xpc/Contents/MacOS/com.apple.siri-distributed-evaluation (0x10e6158d8). One of the two will be used. Which one is undefined.
+May  3 19:51:47 shoichi awdd[188]: Diagnostics Report
+May  3 19:51:50 --- last message repeated 1 time ---
+May  3 19:51:50 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.07000000-0000-0000-0000-000000000000): Service only ran for 7 seconds. Pushing respawn out by 3 seconds.
+May  3 19:51:50 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0E000000-0000-0000-0000-000000000000): Service only ran for 5 seconds. Pushing respawn out by 5 seconds.
+May  3 19:51:52 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0C000000-0000-0000-0000-000000000000): Service only ran for 9 seconds. Pushing respawn out by 1 seconds.
+May  3 19:51:53 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0F000000-0000-0000-0000-000000000000): Service only ran for 4 seconds. Pushing respawn out by 6 seconds.
+May  3 19:51:53 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.10000000-0000-0000-0000-000000000000): Service only ran for 5 seconds. Pushing respawn out by 5 seconds.
+May  3 19:51:53 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.05000000-0000-0000-0000-000000000000): Service only ran for 6 seconds. Pushing respawn out by 4 seconds.
+May  3 19:51:54 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.03000000-0000-0000-0000-000000000000): Service only ran for 7 seconds. Pushing respawn out by 3 seconds.
+May  3 19:51:58 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.08000000-0000-0000-0000-000000000000): Service only ran for 6 seconds. Pushing respawn out by 4 seconds.
+May  3 19:51:58 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.04000000-0000-0000-0000-000000000000): Service only ran for 5 seconds. Pushing respawn out by 5 seconds.
+May  3 19:51:58 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.07000000-0000-0000-0000-000000000000): Service only ran for 5 seconds. Pushing respawn out by 5 seconds.
+May  3 19:51:58 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0000-0000-0000-000000000000): Service only ran for 4 seconds. Pushing respawn out by 6 seconds.
+May  3 19:51:58 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0B000000-0000-0000-0000-000000000000): Service only ran for 5 seconds. Pushing respawn out by 5 seconds.
+May  3 19:52:00 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.02000000-0000-0000-0000-000000000000): Service only ran for 6 seconds. Pushing respawn out by 4 seconds.
+May  3 19:52:01 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0A000000-0000-0000-0000-000000000000): Service only ran for 0 seconds. Pushing respawn out by 10 seconds.
+May  3 19:52:01 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.03000000-0000-0000-0000-000000000000): Service only ran for 4 seconds. Pushing respawn out by 6 seconds.
+May  3 19:52:04 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.10000000-0000-0000-0000-000000000000): Service only ran for 5 seconds. Pushing respawn out by 5 seconds.
+May  3 19:52:04 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.06000000-0000-0000-0000-000000000000): Service only ran for 3 seconds. Pushing respawn out by 7 seconds.
+May  3 19:52:04 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0E000000-0000-0000-0000-000000000000): Service only ran for 9 seconds. Pushing respawn out by 1 seconds.
+May  3 19:52:05 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0B000000-0000-0000-0000-000000000000): Service only ran for 1 seconds. Pushing respawn out by 9 seconds.
+May  3 19:52:05 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.07000000-0000-0000-0000-000000000000): Service only ran for 2 seconds. Pushing respawn out by 8 seconds.
+May  3 19:52:05 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0000-0000-0000-000000000000): Service only ran for 1 seconds. Pushing respawn out by 9 seconds.
+May  3 19:52:07 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.02000000-0000-0000-0000-000000000000): Service only ran for 3 seconds. Pushing respawn out by 7 seconds.
+May  3 19:52:08 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.08000000-0000-0000-0000-000000000000): Service only ran for 6 seconds. Pushing respawn out by 4 seconds.
+May  3 19:52:11 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.04000000-0000-0000-0000-000000000000): Service only ran for 8 seconds. Pushing respawn out by 2 seconds.
+May  3 19:52:14 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.10000000-0000-0000-0000-000000000000): Service only ran for 5 seconds. Pushing respawn out by 5 seconds.
+May  3 19:52:17 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0A000000-0000-0000-0000-000000000000): Service only ran for 6 seconds. Pushing respawn out by 4 seconds.
+May  3 19:52:17 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.02000000-0000-0000-0000-000000000000): Service only ran for 2 seconds. Pushing respawn out by 8 seconds.
+May  3 19:52:17 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.06000000-0000-0000-0000-000000000000): Service only ran for 6 seconds. Pushing respawn out by 4 seconds.
+May  3 19:52:21 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.04000000-0000-0000-0000-000000000000): Service only ran for 8 seconds. Pushing respawn out by 2 seconds.
+May  3 19:52:21 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0000-0000-0000-000000000000): Service only ran for 7 seconds. Pushing respawn out by 3 seconds.
+May  3 19:52:22 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0B000000-0000-0000-0000-000000000000): Service only ran for 8 seconds. Pushing respawn out by 2 seconds.
+May  3 19:52:23 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.03000000-0000-0000-0000-000000000000): Service only ran for 6 seconds. Pushing respawn out by 4 seconds.
+May  3 19:53:00 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0E000000-0000-0000-0000-000000000000): Service only ran for 1 seconds. Pushing respawn out by 9 seconds.
+May  3 19:53:27 shoichi SecurityAgent[3183]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug
+May  3 19:53:35 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0F000000-0000-0000-0000-000000000000): Service only ran for 1 seconds. Pushing respawn out by 9 seconds.
+May  3 19:53:35 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0E000000-0000-0000-0000-000000000000): Service only ran for 1 seconds. Pushing respawn out by 9 seconds.
+May  3 19:53:35 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.08000000-0000-0000-0000-000000000000): Service only ran for 1 seconds. Pushing respawn out by 9 seconds.
+May  3 19:53:46 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0F000000-0000-0000-0000-000000000000): Service only ran for 2 seconds. Pushing respawn out by 8 seconds.
+May  3 19:53:46 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0E000000-0000-0000-0000-000000000000): Service only ran for 2 seconds. Pushing respawn out by 8 seconds.
+May  3 19:53:46 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.08000000-0000-0000-0000-000000000000): Service only ran for 2 seconds. Pushing respawn out by 8 seconds.
+May  3 19:53:48 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0A000000-0000-0000-0000-000000000000): Service only ran for 2 seconds. Pushing respawn out by 8 seconds.
+May  3 19:53:48 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.05000000-0000-0000-0000-000000000000): Service only ran for 2 seconds. Pushing respawn out by 8 seconds.
+May  3 19:53:48 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0D000000-0000-0000-0000-000000000000): Service only ran for 2 seconds. Pushing respawn out by 8 seconds.
+May  3 19:53:49 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0B000000-0000-0000-0000-000000000000): Service only ran for 2 seconds. Pushing respawn out by 8 seconds.
+May  3 19:53:52 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.02000000-0000-0000-0000-000000000000): Service only ran for 4 seconds. Pushing respawn out by 6 seconds.
+May  3 19:53:55 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0000-0000-0000-000000000000): Service only ran for 9 seconds. Pushing respawn out by 1 seconds.
+May  3 19:54:00 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0B000000-0000-0000-0000-000000000000): Service only ran for 3 seconds. Pushing respawn out by 7 seconds.
+May  3 19:54:00 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0F000000-0000-0000-0000-000000000000): Service only ran for 5 seconds. Pushing respawn out by 5 seconds.
+May  3 19:54:00 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.05000000-0000-0000-0000-000000000000): Service only ran for 3 seconds. Pushing respawn out by 7 seconds.
+May  3 19:54:00 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0D000000-0000-0000-0000-000000000000): Service only ran for 3 seconds. Pushing respawn out by 7 seconds.
+May  3 19:54:00 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0000-0000-0000-000000000000): Service only ran for 3 seconds. Pushing respawn out by 7 seconds.
+May  3 19:54:00 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.02000000-0000-0000-0000-000000000000): Service only ran for 1 seconds. Pushing respawn out by 9 seconds.
+May  3 19:54:02 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0E000000-0000-0000-0000-000000000000): Service only ran for 7 seconds. Pushing respawn out by 3 seconds.
+May  3 19:54:02 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.03000000-0000-0000-0000-000000000000): Service only ran for 2 seconds. Pushing respawn out by 8 seconds.
+May  3 19:54:09 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0F000000-0000-0000-0000-000000000000): Service only ran for 4 seconds. Pushing respawn out by 6 seconds.
+May  3 19:54:09 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0B000000-0000-0000-0000-000000000000): Service only ran for 2 seconds. Pushing respawn out by 8 seconds.
+May  3 19:54:10 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.05000000-0000-0000-0000-000000000000): Service only ran for 2 seconds. Pushing respawn out by 8 seconds.
+May  3 19:54:10 shoichi com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0D000000-0000-0000-0000-000000000000): Service only ran for 2 seconds. Pushing respawn out by 8 seconds.
+May  3 19:54:21 shoichi SecurityAgent[3235]: DEPRECATED USE in libdispatch client: dispatch source activated with no event handler set; set a breakpoint on _dispatch_bug_deprecated to debug

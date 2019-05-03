@@ -1,0 +1,1530 @@
+
+/dev/rdisk1s1: fsck_apfs started at Sat Sep 15 13:44:36 2018
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Sat Sep 15 13:44:36 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Sat Sep 15 13:44:36 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Sat Sep 15 13:44:36 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Sat Sep 15 13:44:36 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Sat Sep 15 13:44:36 2018
+
+
+/dev/rdisk1s4: fsck_apfs started at Sat Sep 15 13:44:36 2018
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Sat Sep 15 13:44:36 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Sat Sep 15 13:44:44 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Sat Sep 15 13:44:44 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Sat Sep 15 13:45:14 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Sat Sep 15 13:45:14 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Sat Sep 15 13:45:44 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Sat Sep 15 13:45:44 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Sat Sep 15 13:57:21 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Sat Sep 15 13:57:21 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Sat Sep 15 13:57:33 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Sat Sep 15 13:57:33 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Sat Sep 15 13:58:47 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Sat Sep 15 13:58:47 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Sat Sep 15 14:08:57 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Sat Sep 15 14:08:57 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Sat Sep 15 14:09:13 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Sat Sep 15 14:09:13 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Sat Sep 15 14:09:13 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Sat Sep 15 14:09:13 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Sat Sep 15 14:09:39 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Sat Sep 15 14:09:39 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Sat Sep 15 14:09:39 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Sat Sep 15 14:09:39 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Mon Sep 24 01:42:30 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Mon Sep 24 01:42:30 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Mon Sep 24 01:55:27 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Mon Sep 24 01:55:27 2018
+
+
+/dev/rdisk1s1: fsck_apfs started at Mon Sep 24 01:56:28 2018
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Mon Sep 24 01:56:28 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Mon Sep 24 01:56:28 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Mon Sep 24 01:56:28 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Mon Sep 24 01:56:28 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Mon Sep 24 01:56:28 2018
+
+
+/dev/rdisk1s4: fsck_apfs started at Mon Sep 24 01:56:29 2018
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Mon Sep 24 01:56:29 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Mon Sep 24 01:58:37 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Mon Sep 24 01:58:37 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Mon Sep 24 02:12:27 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Mon Sep 24 02:12:27 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Mon Sep 24 02:12:42 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Mon Sep 24 02:12:42 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Mon Sep 24 02:12:50 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Mon Sep 24 02:12:50 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Mon Sep 24 02:13:14 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Mon Sep 24 02:13:14 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Mon Sep 24 02:13:14 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Mon Sep 24 02:13:14 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Mon Sep 24 02:13:26 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Mon Sep 24 02:13:26 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Mon Sep 24 02:13:26 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Mon Sep 24 02:13:26 2018
+
+
+/dev/rdisk1s1: fsck_apfs started at Sat Sep 29 06:58:34 2018
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Sat Sep 29 06:58:34 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Sat Sep 29 06:58:34 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Sat Sep 29 06:58:34 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Sat Sep 29 06:58:34 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Sat Sep 29 06:58:34 2018
+
+
+/dev/rdisk1s4: fsck_apfs started at Sat Sep 29 06:58:34 2018
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Sat Sep 29 06:58:34 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Sat Sep 29 07:02:10 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Sat Sep 29 07:02:10 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Mon Oct  1 13:25:12 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Mon Oct  1 13:25:12 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Mon Oct  1 13:25:23 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Mon Oct  1 13:25:23 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Mon Oct  1 13:25:51 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Mon Oct  1 13:25:51 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Mon Oct  1 13:25:51 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Mon Oct  1 13:25:51 2018
+
+
+/dev/rdisk1s1: fsck_apfs started at Thu Oct  4 11:02:48 2018
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Thu Oct  4 11:02:48 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Thu Oct  4 11:02:48 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Thu Oct  4 11:02:48 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Thu Oct  4 11:02:48 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Thu Oct  4 11:02:48 2018
+
+
+/dev/rdisk1s4: fsck_apfs started at Thu Oct  4 11:02:48 2018
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Thu Oct  4 11:02:48 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Thu Oct  4 11:11:30 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Thu Oct  4 11:11:30 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Sat Oct  6 13:36:33 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Sat Oct  6 13:36:33 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Sat Oct  6 13:36:34 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Sat Oct  6 13:36:34 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Wed Oct 10 22:09:02 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Wed Oct 10 22:09:02 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Wed Oct 10 22:09:34 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Wed Oct 10 22:09:34 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Wed Oct 10 22:09:42 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Wed Oct 10 22:09:42 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Wed Oct 10 22:09:42 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Wed Oct 10 22:09:42 2018
+
+
+/dev/rdisk1s1: fsck_apfs started at Thu Oct 11 08:07:36 2018
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Thu Oct 11 08:07:36 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Thu Oct 11 08:07:36 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Thu Oct 11 08:07:36 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Thu Oct 11 08:07:36 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Thu Oct 11 08:07:36 2018
+
+
+/dev/rdisk1s4: fsck_apfs started at Thu Oct 11 08:07:36 2018
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Thu Oct 11 08:07:36 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Thu Oct 11 08:11:37 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Thu Oct 11 08:11:37 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Wed Oct 17 16:19:31 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Wed Oct 17 16:19:31 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Wed Oct 17 16:19:43 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Wed Oct 17 16:19:43 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Wed Oct 17 16:20:29 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Wed Oct 17 16:20:29 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Wed Oct 17 16:20:29 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Wed Oct 17 16:20:29 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Wed Oct 17 19:53:11 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Wed Oct 17 19:53:11 2018
+
+
+/dev/rdisk1s1: fsck_apfs started at Wed Oct 24 20:21:09 2018
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Wed Oct 24 20:21:09 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Wed Oct 24 20:21:09 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Wed Oct 24 20:21:09 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Wed Oct 24 20:21:09 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Wed Oct 24 20:21:09 2018
+
+
+/dev/rdisk1s4: fsck_apfs started at Wed Oct 24 20:21:09 2018
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Wed Oct 24 20:21:09 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Wed Oct 24 20:28:21 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Wed Oct 24 20:28:21 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Sun Oct 28 19:55:23 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Sun Oct 28 19:55:23 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Sun Oct 28 19:58:54 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Sun Oct 28 19:58:54 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Sun Oct 28 19:58:54 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Sun Oct 28 19:58:54 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Wed Oct 31 09:06:44 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Wed Oct 31 09:06:44 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Wed Oct 31 09:06:57 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Wed Oct 31 09:06:57 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Wed Oct 31 09:07:46 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Wed Oct 31 09:07:46 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Wed Oct 31 09:07:46 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Wed Oct 31 09:07:46 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Wed Oct 31 09:10:13 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Wed Oct 31 09:10:13 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Thu Nov  1 17:36:13 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Thu Nov  1 17:36:13 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Thu Nov  1 17:36:14 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Thu Nov  1 17:36:14 2018
+
+
+/dev/rdisk1s1: fsck_apfs started at Tue Nov  6 12:36:10 2018
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Tue Nov  6 12:36:10 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Tue Nov  6 12:36:10 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Tue Nov  6 12:36:10 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Tue Nov  6 12:36:10 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Tue Nov  6 12:36:10 2018
+
+
+/dev/rdisk1s4: fsck_apfs started at Tue Nov  6 12:36:10 2018
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Tue Nov  6 12:36:10 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Tue Nov  6 12:44:14 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Tue Nov  6 12:44:14 2018
+
+
+/dev/rdisk1s1: fsck_apfs started at Fri Nov  9 15:45:16 2018
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Fri Nov  9 15:45:16 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Fri Nov  9 15:45:16 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Fri Nov  9 15:45:16 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Fri Nov  9 15:45:16 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Fri Nov  9 15:45:16 2018
+
+
+/dev/rdisk1s4: fsck_apfs started at Fri Nov  9 15:45:16 2018
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Fri Nov  9 15:45:16 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Fri Nov  9 15:52:06 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Fri Nov  9 15:52:06 2018
+
+
+/dev/rdisk1s1: fsck_apfs started at Sun Nov 11 19:45:31 2018
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Sun Nov 11 19:45:31 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Sun Nov 11 19:45:31 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Sun Nov 11 19:45:31 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Sun Nov 11 19:45:31 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Sun Nov 11 19:45:31 2018
+
+
+/dev/rdisk1s4: fsck_apfs started at Sun Nov 11 19:45:31 2018
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Sun Nov 11 19:45:31 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Sun Nov 11 19:51:13 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Sun Nov 11 19:51:13 2018
+
+
+/dev/rdisk1s1: fsck_apfs started at Mon Nov 12 08:14:51 2018
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Mon Nov 12 08:14:51 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Mon Nov 12 08:14:51 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Mon Nov 12 08:14:51 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Mon Nov 12 08:14:51 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Mon Nov 12 08:14:51 2018
+
+
+/dev/rdisk1s4: fsck_apfs started at Mon Nov 12 08:14:51 2018
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Mon Nov 12 08:14:51 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Mon Nov 12 08:19:36 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Mon Nov 12 08:19:36 2018
+
+
+/dev/rdisk1s1: fsck_apfs started at Tue Nov 27 14:17:51 2018
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Tue Nov 27 14:17:51 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Tue Nov 27 14:17:51 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Tue Nov 27 14:17:51 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Tue Nov 27 14:17:51 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Tue Nov 27 14:17:51 2018
+
+
+/dev/rdisk1s4: fsck_apfs started at Tue Nov 27 14:17:51 2018
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Tue Nov 27 14:17:51 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Tue Nov 27 14:19:52 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Tue Nov 27 14:19:52 2018
+
+
+/dev/rdisk1s1: fsck_apfs started at Sat Dec  1 13:06:17 2018
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Sat Dec  1 13:06:17 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Sat Dec  1 13:06:17 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Sat Dec  1 13:06:17 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Sat Dec  1 13:06:17 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Sat Dec  1 13:06:17 2018
+
+
+/dev/rdisk1s4: fsck_apfs started at Sat Dec  1 13:06:17 2018
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Sat Dec  1 13:06:17 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Sat Dec  1 13:08:53 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Sat Dec  1 13:08:53 2018
+
+
+/dev/rdisk1s1: fsck_apfs started at Mon Dec  3 09:30:52 2018
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Mon Dec  3 09:30:52 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Mon Dec  3 09:30:52 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Mon Dec  3 09:30:52 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Mon Dec  3 09:30:52 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Mon Dec  3 09:30:52 2018
+
+
+/dev/rdisk1s4: fsck_apfs started at Mon Dec  3 09:30:52 2018
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Mon Dec  3 09:30:52 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Mon Dec  3 09:32:57 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Mon Dec  3 09:32:57 2018
+
+
+/dev/rdisk1s1: fsck_apfs started at Mon Dec  3 13:31:24 2018
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Mon Dec  3 13:31:24 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Mon Dec  3 13:31:24 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Mon Dec  3 13:31:24 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Mon Dec  3 13:31:24 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Mon Dec  3 13:31:24 2018
+
+
+/dev/rdisk1s4: fsck_apfs started at Mon Dec  3 13:31:24 2018
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Mon Dec  3 13:31:24 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Mon Dec  3 13:33:55 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Mon Dec  3 13:33:55 2018
+
+
+/dev/rdisk1s1: fsck_apfs started at Fri Dec  7 10:02:08 2018
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Fri Dec  7 10:02:08 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Fri Dec  7 10:02:09 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Fri Dec  7 10:02:09 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Fri Dec  7 10:02:09 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Fri Dec  7 10:02:09 2018
+
+
+/dev/rdisk1s4: fsck_apfs started at Fri Dec  7 10:02:09 2018
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Fri Dec  7 10:02:09 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Fri Dec  7 10:13:48 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Fri Dec  7 10:13:48 2018
+
+
+/dev/rdisk1s1: fsck_apfs started at Mon Dec 10 09:06:06 2018
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Mon Dec 10 09:06:06 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Mon Dec 10 09:06:06 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Mon Dec 10 09:06:06 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Mon Dec 10 09:06:06 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Mon Dec 10 09:06:06 2018
+
+
+/dev/rdisk1s4: fsck_apfs started at Mon Dec 10 09:06:06 2018
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Mon Dec 10 09:06:06 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Mon Dec 10 09:13:45 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Mon Dec 10 09:13:45 2018
+
+
+/dev/rdisk1s1: fsck_apfs started at Tue Dec 11 10:12:57 2018
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Tue Dec 11 10:12:57 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Tue Dec 11 10:12:57 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Tue Dec 11 10:12:57 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Tue Dec 11 10:12:57 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Tue Dec 11 10:12:57 2018
+
+
+/dev/rdisk1s4: fsck_apfs started at Tue Dec 11 10:12:57 2018
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Tue Dec 11 10:12:57 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Tue Dec 11 10:13:27 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Tue Dec 11 10:13:27 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Wed Dec 19 11:01:22 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Wed Dec 19 11:01:23 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Wed Dec 19 11:01:59 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Wed Dec 19 11:01:59 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Wed Dec 19 11:02:13 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Wed Dec 19 11:02:13 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Wed Dec 19 19:50:36 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Wed Dec 19 19:50:36 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Wed Dec 19 19:50:50 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Wed Dec 19 19:50:51 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Wed Dec 19 19:50:59 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Wed Dec 19 19:50:59 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Wed Dec 19 19:51:43 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Wed Dec 19 19:51:43 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Wed Dec 19 19:52:05 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Wed Dec 19 19:52:05 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Wed Dec 19 19:52:28 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Wed Dec 19 19:52:28 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Wed Dec 19 19:52:28 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Wed Dec 19 19:52:28 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Wed Dec 19 19:57:45 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Wed Dec 19 19:57:45 2018
+
+
+/dev/rdisk1s1: fsck_apfs started at Fri Dec 21 15:06:17 2018
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Fri Dec 21 15:06:17 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Fri Dec 21 15:06:17 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Fri Dec 21 15:06:17 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Fri Dec 21 15:06:17 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Fri Dec 21 15:06:17 2018
+
+
+/dev/rdisk1s4: fsck_apfs started at Fri Dec 21 15:06:17 2018
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Fri Dec 21 15:06:17 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Fri Dec 21 15:08:52 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Fri Dec 21 15:08:52 2018
+
+
+/dev/rdisk1s1: fsck_apfs started at Sun Dec 23 08:39:10 2018
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Sun Dec 23 08:39:10 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Sun Dec 23 08:39:10 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Sun Dec 23 08:39:10 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Sun Dec 23 08:39:10 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Sun Dec 23 08:39:10 2018
+
+
+/dev/rdisk1s4: fsck_apfs started at Sun Dec 23 08:39:10 2018
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Sun Dec 23 08:39:10 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Sun Dec 23 08:42:31 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Sun Dec 23 08:42:31 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Thu Jan 10 07:45:08 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Thu Jan 10 07:45:08 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Sun Jan 13 15:49:34 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Sun Jan 13 15:49:34 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Sun Jan 13 15:50:05 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Sun Jan 13 15:50:05 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Sun Jan 13 15:50:16 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Sun Jan 13 15:50:16 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Sun Jan 13 15:51:11 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Sun Jan 13 15:51:11 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Sun Jan 13 15:51:33 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Sun Jan 13 15:51:33 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Sun Jan 13 15:52:49 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Sun Jan 13 15:52:49 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Sun Jan 13 15:52:50 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Sun Jan 13 15:52:50 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Sun Jan 13 16:55:36 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Sun Jan 13 16:55:36 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Sun Jan 13 17:32:24 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Sun Jan 13 17:32:24 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Sun Jan 13 17:32:46 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Sun Jan 13 17:32:46 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Sun Jan 13 17:33:31 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Sun Jan 13 17:33:31 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Sun Jan 13 17:33:32 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Sun Jan 13 17:33:32 2019
+
+
+/dev/rdisk1s1: fsck_apfs started at Sun Jan 13 17:40:22 2019
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Sun Jan 13 17:40:22 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Sun Jan 13 17:40:23 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Sun Jan 13 17:40:23 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Sun Jan 13 17:40:23 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Sun Jan 13 17:40:23 2019
+
+
+/dev/rdisk1s4: fsck_apfs started at Sun Jan 13 17:40:23 2019
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Sun Jan 13 17:40:23 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Sun Jan 13 17:40:51 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Sun Jan 13 17:40:51 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Sun Jan 13 17:40:55 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Sun Jan 13 17:40:55 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Sun Jan 13 17:40:58 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Sun Jan 13 17:40:58 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Sun Jan 13 17:40:58 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Sun Jan 13 17:40:58 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Sun Jan 13 17:41:45 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Sun Jan 13 17:41:45 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Sun Jan 13 17:41:45 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Sun Jan 13 17:41:45 2019
+
+
+/dev/rdisk1s1: fsck_apfs started at Sun Jan 13 17:48:56 2019
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Sun Jan 13 17:48:56 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Sun Jan 13 17:48:56 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Sun Jan 13 17:48:56 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Sun Jan 13 17:48:56 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Sun Jan 13 17:48:56 2019
+
+
+/dev/rdisk1s4: fsck_apfs started at Sun Jan 13 17:48:56 2019
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Sun Jan 13 17:48:56 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Sun Jan 13 17:51:23 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Sun Jan 13 17:51:23 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Tue Jan 15 09:33:03 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Tue Jan 15 09:33:03 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Tue Jan 15 09:33:15 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Tue Jan 15 09:33:15 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Tue Jan 15 09:33:47 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Tue Jan 15 09:33:47 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Tue Jan 15 09:33:56 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Tue Jan 15 09:33:56 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Tue Jan 15 09:34:07 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Tue Jan 15 09:34:07 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Tue Jan 15 09:34:20 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Tue Jan 15 09:34:20 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Tue Jan 15 09:34:20 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Tue Jan 15 09:34:20 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Thu Jan 17 21:05:37 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Thu Jan 17 21:05:37 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Fri Jan 18 08:16:32 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Fri Jan 18 08:16:32 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Fri Jan 18 14:26:59 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Fri Jan 18 14:26:59 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Fri Jan 18 19:10:12 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Fri Jan 18 19:10:12 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Sat Jan 19 11:36:17 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Sat Jan 19 11:36:17 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Sat Jan 19 13:20:03 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Sat Jan 19 13:20:03 2019
+
+
+/dev/rdisk1s1: fsck_apfs started at Sun Jan 20 09:12:16 2019
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Sun Jan 20 09:12:16 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Sun Jan 20 09:12:16 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Sun Jan 20 09:12:16 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Sun Jan 20 09:12:16 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Sun Jan 20 09:12:16 2019
+
+
+/dev/rdisk1s4: fsck_apfs started at Sun Jan 20 09:12:16 2019
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Sun Jan 20 09:12:16 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Sun Jan 20 09:16:30 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Sun Jan 20 09:16:30 2019
+
+
+/dev/rdisk1s1: fsck_apfs started at Tue Jan 22 08:58:23 2019
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Tue Jan 22 08:58:23 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Tue Jan 22 08:58:23 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Tue Jan 22 08:58:23 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Tue Jan 22 08:58:23 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Tue Jan 22 08:58:23 2019
+
+
+/dev/rdisk1s4: fsck_apfs started at Tue Jan 22 08:58:23 2019
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Tue Jan 22 08:58:23 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Tue Jan 22 09:00:52 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Tue Jan 22 09:00:52 2019
+
+
+/dev/rdisk1s1: fsck_apfs started at Thu Jan 24 16:41:31 2019
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Thu Jan 24 16:41:31 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Thu Jan 24 16:41:31 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Thu Jan 24 16:41:31 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Thu Jan 24 16:41:31 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Thu Jan 24 16:41:31 2019
+
+
+/dev/rdisk1s4: fsck_apfs started at Thu Jan 24 16:41:31 2019
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Thu Jan 24 16:41:31 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Thu Jan 24 16:45:00 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Thu Jan 24 16:45:00 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Thu Jan 24 16:50:06 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Thu Jan 24 16:50:06 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Thu Jan 24 16:50:06 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Thu Jan 24 16:50:06 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Tue Jan 29 09:25:46 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Tue Jan 29 09:25:46 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Tue Jan 29 09:27:30 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Tue Jan 29 09:27:30 2019
+
+
+/dev/rdisk1s1: fsck_apfs started at Thu Feb  7 14:48:00 2019
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Thu Feb  7 14:48:00 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Thu Feb  7 14:48:00 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Thu Feb  7 14:48:00 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Thu Feb  7 14:48:00 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Thu Feb  7 14:48:00 2019
+
+
+/dev/rdisk1s4: fsck_apfs started at Thu Feb  7 14:48:00 2019
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Thu Feb  7 14:48:00 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Thu Feb  7 14:51:49 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Thu Feb  7 14:51:49 2019
+
+
+/dev/rdisk1s1: fsck_apfs started at Sat Feb  9 07:58:40 2019
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Sat Feb  9 07:58:40 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Sat Feb  9 07:58:40 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Sat Feb  9 07:58:40 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Sat Feb  9 07:58:40 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Sat Feb  9 07:58:40 2019
+
+
+/dev/rdisk1s4: fsck_apfs started at Sat Feb  9 07:58:40 2019
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Sat Feb  9 07:58:40 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Sat Feb  9 07:59:34 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Sat Feb  9 07:59:34 2019
+
+
+/dev/rdisk1s1: fsck_apfs started at Wed Feb 13 11:08:51 2019
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Wed Feb 13 11:08:51 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Wed Feb 13 11:08:51 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Wed Feb 13 11:08:51 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Wed Feb 13 11:08:51 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Wed Feb 13 11:08:51 2019
+
+
+/dev/rdisk1s4: fsck_apfs started at Wed Feb 13 11:08:51 2019
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Wed Feb 13 11:08:51 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Wed Feb 13 11:32:06 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Wed Feb 13 11:32:06 2019
+
+
+/dev/rdisk1s1: fsck_apfs started at Mon Feb 18 08:31:50 2019
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Mon Feb 18 08:31:50 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Mon Feb 18 08:31:50 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Mon Feb 18 08:31:50 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Mon Feb 18 08:31:50 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Mon Feb 18 08:31:50 2019
+
+
+/dev/rdisk1s4: fsck_apfs started at Mon Feb 18 08:31:50 2019
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Mon Feb 18 08:31:50 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Mon Feb 18 08:35:11 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Mon Feb 18 08:35:11 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Mon Feb 18 20:47:35 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Mon Feb 18 20:47:35 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Mon Feb 18 20:49:11 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Mon Feb 18 20:49:11 2019
+
+
+/dev/rdisk1s1: fsck_apfs started at Mon Feb 18 20:54:52 2019
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Mon Feb 18 20:54:52 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Mon Feb 18 20:54:52 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Mon Feb 18 20:54:52 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Mon Feb 18 20:54:52 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Mon Feb 18 20:54:52 2019
+
+
+/dev/rdisk1s4: fsck_apfs started at Mon Feb 18 20:54:52 2019
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Mon Feb 18 20:54:52 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Mon Feb 18 20:58:07 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Mon Feb 18 20:58:07 2019
+
+
+/dev/rdisk1s1: fsck_apfs started at Thu Feb 21 11:35:22 2019
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Thu Feb 21 11:35:22 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Thu Feb 21 11:35:22 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Thu Feb 21 11:35:22 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Thu Feb 21 11:35:22 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Thu Feb 21 11:35:22 2019
+
+
+/dev/rdisk1s4: fsck_apfs started at Thu Feb 21 11:35:22 2019
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Thu Feb 21 11:35:22 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Thu Feb 21 11:38:42 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Thu Feb 21 11:38:42 2019
+
+
+/dev/rdisk1s1: fsck_apfs started at Thu Feb 28 23:45:06 2019
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Thu Feb 28 23:45:06 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Thu Feb 28 23:45:06 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Thu Feb 28 23:45:06 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Thu Feb 28 23:45:06 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Thu Feb 28 23:45:06 2019
+
+
+/dev/rdisk1s4: fsck_apfs started at Thu Feb 28 23:45:06 2019
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Thu Feb 28 23:45:06 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Thu Feb 28 23:49:47 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Thu Feb 28 23:49:47 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Fri Mar  8 07:41:17 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Fri Mar  8 07:41:17 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Sat Mar  9 11:29:37 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Sat Mar  9 11:29:37 2019
+
+
+/dev/rdisk1s1: fsck_apfs started at Sun Mar 10 08:37:35 2019
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Sun Mar 10 08:37:35 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Sun Mar 10 08:37:35 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Sun Mar 10 08:37:35 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Sun Mar 10 08:37:36 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Sun Mar 10 08:37:36 2019
+
+
+/dev/rdisk1s4: fsck_apfs started at Sun Mar 10 08:37:36 2019
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Sun Mar 10 08:37:36 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Sun Mar 10 08:43:46 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Sun Mar 10 08:43:46 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Fri Mar 29 10:27:05 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Fri Mar 29 10:27:05 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Sat Mar 30 20:17:13 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Sat Mar 30 20:17:13 2019
+
+
+/dev/rdisk1s1: fsck_apfs started at Mon Jan  1 10:50:07 2018
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Mon Jan  1 10:50:07 2018
+
+
+/dev/rdisk1s2: fsck_apfs started at Mon Jan  1 10:50:07 2018
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Mon Jan  1 10:50:07 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Mon Jan  1 10:50:07 2018
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Mon Jan  1 10:50:07 2018
+
+
+/dev/rdisk1s4: fsck_apfs started at Mon Jan  1 10:50:07 2018
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Mon Jan  1 10:50:07 2018
+
+
+/dev/rdisk1s3: fsck_apfs started at Fri Apr  5 19:55:21 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Fri Apr  5 19:55:21 2019
+
+
+/dev/rdisk1s1: fsck_apfs started at Mon Apr  8 14:20:54 2019
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Mon Apr  8 14:20:54 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Mon Apr  8 14:20:54 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Mon Apr  8 14:20:54 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Mon Apr  8 14:20:54 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Mon Apr  8 14:20:54 2019
+
+
+/dev/rdisk1s4: fsck_apfs started at Mon Apr  8 14:20:54 2019
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Mon Apr  8 14:20:54 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Mon Apr  8 14:22:21 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Mon Apr  8 14:22:21 2019
+
+
+/dev/rdisk1s1: fsck_apfs started at Wed Apr 10 10:50:52 2019
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Wed Apr 10 10:50:52 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Wed Apr 10 10:50:52 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Wed Apr 10 10:50:52 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Wed Apr 10 10:50:52 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Wed Apr 10 10:50:52 2019
+
+
+/dev/rdisk1s4: fsck_apfs started at Wed Apr 10 10:50:52 2019
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Wed Apr 10 10:50:52 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Wed Apr 10 10:51:12 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Wed Apr 10 10:51:12 2019
+
+
+/dev/rdisk1s1: fsck_apfs started at Wed Apr 10 19:32:25 2019
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Wed Apr 10 19:32:25 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Wed Apr 10 19:32:25 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Wed Apr 10 19:32:25 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Wed Apr 10 19:32:25 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Wed Apr 10 19:32:25 2019
+
+
+/dev/rdisk1s4: fsck_apfs started at Wed Apr 10 19:32:25 2019
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Wed Apr 10 19:32:25 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Wed Apr 10 19:35:06 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Wed Apr 10 19:35:06 2019
+
+
+/dev/rdisk1s1: fsck_apfs started at Mon Apr 15 09:49:10 2019
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Mon Apr 15 09:49:10 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Mon Apr 15 09:49:10 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Mon Apr 15 09:49:10 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Mon Apr 15 09:49:10 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Mon Apr 15 09:49:10 2019
+
+
+/dev/rdisk1s4: fsck_apfs started at Mon Apr 15 09:49:10 2019
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Mon Apr 15 09:49:10 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Mon Apr 15 09:50:03 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Mon Apr 15 09:50:03 2019
+
+
+/dev/rdisk1s1: fsck_apfs started at Mon Apr 15 11:29:52 2019
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Mon Apr 15 11:29:52 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Mon Apr 15 11:29:52 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Mon Apr 15 11:29:52 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Mon Apr 15 11:29:52 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Mon Apr 15 11:29:52 2019
+
+
+/dev/rdisk1s4: fsck_apfs started at Mon Apr 15 11:29:52 2019
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Mon Apr 15 11:29:52 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Mon Apr 15 11:32:00 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Mon Apr 15 11:32:00 2019
+
+
+/dev/rdisk1s1: fsck_apfs started at Mon Apr 15 13:14:32 2019
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Mon Apr 15 13:14:32 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Mon Apr 15 13:14:32 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Mon Apr 15 13:14:32 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Mon Apr 15 13:14:32 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Mon Apr 15 13:14:32 2019
+
+
+/dev/rdisk1s4: fsck_apfs started at Mon Apr 15 13:14:32 2019
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Mon Apr 15 13:14:32 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Mon Apr 15 13:16:54 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Mon Apr 15 13:16:54 2019
+
+
+/dev/rdisk1s1: fsck_apfs started at Tue Apr 23 00:43:10 2019
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Tue Apr 23 00:43:10 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Tue Apr 23 00:43:10 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Tue Apr 23 00:43:10 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Tue Apr 23 00:43:11 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Tue Apr 23 00:43:11 2019
+
+
+/dev/rdisk1s4: fsck_apfs started at Tue Apr 23 00:43:11 2019
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Tue Apr 23 00:43:11 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Tue Apr 23 00:45:50 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Tue Apr 23 00:45:50 2019
+
+
+/dev/rdisk1s1: fsck_apfs started at Tue Apr 23 07:55:40 2019
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Tue Apr 23 07:55:40 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Tue Apr 23 07:55:40 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Tue Apr 23 07:55:40 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Tue Apr 23 07:55:40 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Tue Apr 23 07:55:40 2019
+
+
+/dev/rdisk1s4: fsck_apfs started at Tue Apr 23 07:55:40 2019
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Tue Apr 23 07:55:40 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Tue Apr 23 07:57:00 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Tue Apr 23 07:57:00 2019
+
+
+/dev/rdisk1s1: fsck_apfs started at Fri May  3 19:39:59 2019
+/dev/rdisk1s1: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s1: fsck_apfs completed at Fri May  3 19:39:59 2019
+
+
+/dev/rdisk1s2: fsck_apfs started at Fri May  3 19:39:59 2019
+/dev/rdisk1s2: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s2: fsck_apfs completed at Fri May  3 19:39:59 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Fri May  3 19:40:00 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Fri May  3 19:40:00 2019
+
+
+/dev/rdisk1s4: fsck_apfs started at Fri May  3 19:40:00 2019
+/dev/rdisk1s4: error: container /dev/rdisk1 is mounted with write access; please re-run with -l.
+/dev/rdisk1s4: fsck_apfs completed at Fri May  3 19:40:00 2019
+
+
+/dev/rdisk1s3: fsck_apfs started at Fri May  3 19:43:04 2019
+/dev/rdisk1s3: QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk1s3: fsck_apfs completed at Fri May  3 19:43:04 2019
+

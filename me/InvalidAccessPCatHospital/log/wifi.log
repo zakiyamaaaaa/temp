@@ -1,0 +1,953 @@
+May  3 00:35:14 shoichi newsyslog[8284]: logfile turned over
+Fri May  3 00:36:45.095 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 00:36:45.096 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 01:05:14.554 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Fri May  3 01:05:14.554 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.7
+Fri May  3 01:05:14.554 <kernel> wl0: setup_keepalive: Remote IP: 17.242.28.6
+Fri May  3 01:05:14.554 <kernel> wl0: setup_keepalive: Local port: 49174, Remote port: 5223
+Fri May  3 01:05:14.554 <kernel> wl0: setup_keepalive: Seq: 1913657512, Ack: 2509495172, Win size: 2048
+Fri May  3 01:05:14.554 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.7
+Fri May  3 01:05:14.554 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:79:ecc7:64fa:eba9
+Fri May  3 01:05:14.554 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:18c3:5713:ee80:b2c5
+Fri May  3 01:05:14.554 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:d1ae:5a7a:9d1c:af88
+Fri May  3 01:05:14.554 <kernel> wl0: MDNS: 2 SRV Recs, 3 TXT Recs
+Fri May  3 01:05:14.554 <kernel> wl0: MDNS: 2 TCP ports:  49250  3689 
+Fri May  3 01:31:10.053 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 01:31:10.053 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Fri May  3 01:31:10.053 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 1913657512, Ack: 2509495172, Win size: 2048
+Fri May  3 01:31:10.053 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 1913657565, Ack 2509495241, Win size 720
+Fri May  3 01:31:10.053 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Fri May  3 01:31:10.053 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Fri May  3 01:31:10.053 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Fri May  3 01:31:10.514 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 01:31:10.854 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 01:31:55.568 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Fri May  3 01:31:55.568 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.7
+Fri May  3 01:31:55.568 <kernel> wl0: setup_keepalive: Remote IP: 17.242.28.6
+Fri May  3 01:31:55.568 <kernel> wl0: setup_keepalive: Local port: 49174, Remote port: 5223
+Fri May  3 01:31:55.568 <kernel> wl0: setup_keepalive: Seq: 1913657740, Ack: 2509495294, Win size: 2048
+Fri May  3 01:31:55.568 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.7
+Fri May  3 01:31:55.568 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:79:ecc7:64fa:eba9
+Fri May  3 01:31:55.568 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:18c3:5713:ee80:b2c5
+Fri May  3 01:31:55.568 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:d1ae:5a7a:9d1c:af88
+Fri May  3 01:31:55.568 <kernel> wl0: MDNS: 2 SRV Recs, 3 TXT Recs
+Fri May  3 01:31:55.568 <kernel> wl0: MDNS: 2 TCP ports:  49250  3689 
+Fri May  3 01:34:45.044 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 01:34:45.044 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Fri May  3 01:34:45.044 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 1913657740, Ack: 2509495294, Win size: 2048
+Fri May  3 01:34:45.044 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 1913657740, Ack 2509495294, Win size 720
+Fri May  3 01:34:45.044 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Fri May  3 01:34:45.044 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Fri May  3 01:34:45.044 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Fri May  3 01:34:45.503 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 01:35:30.555 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Fri May  3 01:35:30.555 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.7
+Fri May  3 01:35:30.555 <kernel> wl0: setup_keepalive: Remote IP: 17.242.28.6
+Fri May  3 01:35:30.555 <kernel> wl0: setup_keepalive: Local port: 49174, Remote port: 5223
+Fri May  3 01:35:30.555 <kernel> wl0: setup_keepalive: Seq: 1913657915, Ack: 2509495347, Win size: 2048
+Fri May  3 01:35:30.555 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.7
+Fri May  3 01:35:30.555 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:79:ecc7:64fa:eba9
+Fri May  3 01:35:30.555 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:18c3:5713:ee80:b2c5
+Fri May  3 01:35:30.555 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:d1ae:5a7a:9d1c:af88
+Fri May  3 01:35:30.555 <kernel> wl0: MDNS: 2 SRV Recs, 3 TXT Recs
+Fri May  3 01:35:30.555 <kernel> wl0: MDNS: 2 TCP ports:  49250  3689 
+Fri May  3 01:36:05.039 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 01:36:05.039 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Fri May  3 01:36:05.039 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 1913657915, Ack: 2509495347, Win size: 2048
+Fri May  3 01:36:05.039 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 1913657915, Ack 2509495347, Win size 720
+Fri May  3 01:36:05.039 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Fri May  3 01:36:05.039 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Fri May  3 01:36:05.039 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Fri May  3 01:36:05.507 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 01:36:50.555 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Fri May  3 01:36:50.555 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.7
+Fri May  3 01:36:50.555 <kernel> wl0: setup_keepalive: Remote IP: 17.242.28.6
+Fri May  3 01:36:50.555 <kernel> wl0: setup_keepalive: Local port: 49174, Remote port: 5223
+Fri May  3 01:36:50.555 <kernel> wl0: setup_keepalive: Seq: 1913658090, Ack: 2509495400, Win size: 2048
+Fri May  3 01:36:50.555 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.7
+Fri May  3 01:36:50.555 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:79:ecc7:64fa:eba9
+Fri May  3 01:36:50.555 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:18c3:5713:ee80:b2c5
+Fri May  3 01:36:50.555 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:d1ae:5a7a:9d1c:af88
+Fri May  3 01:36:50.555 <kernel> wl0: MDNS: 2 SRV Recs, 3 TXT Recs
+Fri May  3 01:36:50.555 <kernel> wl0: MDNS: 2 TCP ports:  49250  3689 
+Fri May  3 02:25:45.052 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 02:25:45.052 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Fri May  3 02:25:45.052 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 1913658090, Ack: 2509495400, Win size: 2048
+Fri May  3 02:25:45.052 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 1913658090, Ack 2509495400, Win size 720
+Fri May  3 02:25:45.052 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Fri May  3 02:25:45.052 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Fri May  3 02:25:45.052 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Fri May  3 02:25:45.500 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 02:25:45.831 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 02:26:37.713 <kernel> en0: Received EAPOL packet (length = 145)
+Fri May  3 02:26:37.713 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Fri May  3 02:26:37.713 <kernel> inputEAPOLFrame: decrypting key data
+Fri May  3 02:26:37.713 <kernel> inputEAPOLFrame: Received message 1 of 2
+Fri May  3 02:26:37.713 <kernel> installGTK: setting cipher key (flags = 0x0)
+Fri May  3 02:26:37.713 <kernel> GTK-RSC:
+Fri May  3 02:26:37.713 [00000000] 11 0D 33 00 00 00 
+Fri May  3 02:26:37.714 <kernel> GTK:
+Fri May  3 02:26:37.714 [00000000] C2 9A D5 06 7F 7F BB 2B 54 04 AD 19 5B 9E 1A B9 
+Fri May  3 02:26:37.714 <kernel> installGTK: GTK installed
+Fri May  3 02:55:46.173 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Fri May  3 02:55:46.174 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.7
+Fri May  3 02:55:46.174 <kernel> wl0: setup_keepalive: Remote IP: 17.242.28.6
+Fri May  3 02:55:46.174 <kernel> wl0: setup_keepalive: Local port: 49174, Remote port: 5223
+Fri May  3 02:55:46.174 <kernel> wl0: setup_keepalive: Seq: 1913658840, Ack: 2509495644, Win size: 2048
+Fri May  3 02:55:46.174 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.7
+Fri May  3 02:55:46.174 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:79:ecc7:64fa:eba9
+Fri May  3 02:55:46.174 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:18c3:5713:ee80:b2c5
+Fri May  3 02:55:46.174 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:d1ae:5a7a:9d1c:af88
+Fri May  3 02:55:46.174 <kernel> wl0: MDNS: 2 SRV Recs, 3 TXT Recs
+Fri May  3 02:55:46.174 <kernel> wl0: MDNS: 2 TCP ports:  49250  3689 
+Fri May  3 03:22:46.049 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 03:22:46.049 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Fri May  3 03:22:46.050 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 1913658840, Ack: 2509495644, Win size: 2048
+Fri May  3 03:22:46.050 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 1913658893, Ack 2509495713, Win size 739
+Fri May  3 03:22:46.050 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Fri May  3 03:22:46.050 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Fri May  3 03:22:46.050 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Fri May  3 03:22:46.499 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 03:26:16.780 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 03:26:16.809 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 03:26:21.193 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 03:26:21.220 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 03:26:38.894 <kernel> en0: Received EAPOL packet (length = 145)
+Fri May  3 03:26:38.894 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Fri May  3 03:26:38.894 <kernel> inputEAPOLFrame: decrypting key data
+Fri May  3 03:26:38.894 <kernel> inputEAPOLFrame: Received message 1 of 2
+Fri May  3 03:26:38.894 <kernel> installGTK: setting cipher key (flags = 0x0)
+Fri May  3 03:26:38.894 <kernel> GTK-RSC:
+Fri May  3 03:26:38.894 [00000000] 21 1A 33 00 00 00 
+Fri May  3 03:26:38.894 <kernel> GTK:
+Fri May  3 03:26:38.894 [00000000] F6 41 33 00 32 16 7D 81 20 59 07 E5 FD C4 4B 5F 
+Fri May  3 03:26:38.894 <kernel> installGTK: GTK installed
+Fri May  3 03:52:46.520 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Fri May  3 03:52:46.552 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.7
+Fri May  3 03:52:46.552 <kernel> wl0: setup_keepalive: Remote IP: 17.252.236.144
+Fri May  3 03:52:46.552 <kernel> wl0: setup_keepalive: Local port: 51533, Remote port: 5223
+Fri May  3 03:52:46.553 <kernel> wl0: setup_keepalive: Seq: 998108075, Ack: 2650752911, Win size: 2048
+Fri May  3 03:52:46.553 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.7
+Fri May  3 03:52:46.553 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:79:ecc7:64fa:eba9
+Fri May  3 03:52:46.553 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:18c3:5713:ee80:b2c5
+Fri May  3 03:52:46.553 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:d1ae:5a7a:9d1c:af88
+Fri May  3 03:52:46.553 <kernel> wl0: MDNS: 2 SRV Recs, 3 TXT Recs
+Fri May  3 03:52:46.553 <kernel> wl0: MDNS: 2 TCP ports:  49250  3689 
+Fri May  3 03:58:42.052 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 03:58:42.052 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Fri May  3 03:58:42.052 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 998108075, Ack: 2650752911, Win size: 2048
+Fri May  3 03:58:42.052 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 998108128, Ack 2650752980, Win size 269
+Fri May  3 03:58:42.052 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Fri May  3 03:58:42.052 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Fri May  3 03:58:42.052 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Fri May  3 03:58:42.501 <kernel> en0: link down event, informing supplicant.
+Fri May  3 03:58:42.562 <kernel> AirPort_BrcmNIC::getSSIDData(): Get failure: APPLE80211_IOC_SSID: 6
+Fri May  3 03:58:42.562 <kernel> ARPT: Wake Reason: Wake on Scan offload; Disconnect reason: Deauthentication beacuse sending STA is leaving (or has left) IBSS or ESS
+Fri May  3 03:58:42.634 <kernel> ARPT: Wake Reason: Wake on Scan offload; Disconnect reason: Deauthentication beacuse sending STA is leaving (or has left) IBSS or ESS
+Fri May  3 03:58:42.634 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 03:58:42.808 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 03:58:42.808 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 03:58:42.811 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Fri May  3 03:58:43.543 <kernel> en0: Terminating supplicant.
+Fri May  3 03:58:43.543 <kernel> RSNSupplicant: Releasing authenticator for 86:af:ec:57:28:50
+Fri May  3 03:58:43.543 <kernel> parseRSNIE: groupCipherType = 5 pairwiseCipherType = 5 authSel = 2
+Fri May  3 03:58:43.543 <kernel> initWithInterfaceAndIE: _myMacAddress 18:65:90:d0:5a:99
+Fri May  3 03:58:43.543 <kernel> setPMK: PMK SET!
+Fri May  3 03:58:43.785 <kernel> Unexpected payload found for message 9, dataLen 0
+Fri May  3 03:58:43.795 <kernel> en0: Received EAPOL packet (length = 113)
+Fri May  3 03:58:43.795 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Fri May  3 03:58:43.795 <kernel> inputEAPOLFrame: Received message 1 of 4
+Fri May  3 03:58:43.795 <kernel> FULL RSN IE FOUND:
+Fri May  3 03:58:43.795 [00000000] 30 14 01 00 00 0F AC 04 01 00 00 0F AC 04 01 00 00 0F AC 02 00 00 
+Fri May  3 03:58:43.795 <kernel> storeFullRSNIE: getAP_IE_LIST returned 0
+Fri May  3 03:58:43.795 <kernel> PMK:
+Fri May  3 03:58:43.795 [00000000] E0 FF 05 30 3B A5 D6 F3 7E 16 19 F2 A6 15 E3 1A 69 3C 6B 37 6B 99 82 49 DB AB 7E 0E B2 44 
+Fri May  3 03:58:43.795 [0000001E] CB EA 
+Fri May  3 03:58:43.795 <kernel> TPTK:
+Fri May  3 03:58:43.795 [00000000] 82 54 6D 28 0B 11 CC 07 72 08 B8 43 F0 8B 87 5A FB F0 B2 0C 6B 3E 20 06 76 E0 67 03 B0 6F 
+Fri May  3 03:58:43.795 [0000001E] 5B 4F 99 EE 26 96 04 E9 18 26 EB E0 A5 2A C5 F8 13 E0 00 00 00 00 00 00 00 00 00 00 00 00 
+Fri May  3 03:58:43.795 [0000003C] 00 00 00 00 
+Fri May  3 03:58:43.795 <kernel> KEY MIC:
+Fri May  3 03:58:43.795 [00000000] 74 52 B7 9B 99 A9 5C A8 25 72 7F EB 5F 4C F8 D4 
+Fri May  3 03:58:43.795 <kernel> process1of4: sending replyPacket 135 bytes
+Fri May  3 03:58:43.801 <kernel> en0: Received EAPOL packet (length = 169)
+Fri May  3 03:58:43.801 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Fri May  3 03:58:43.801 <kernel> inputEAPOLFrame: decrypting key data
+Fri May  3 03:58:43.801 <kernel> inputEAPOLFrame: Received message 3 of 4
+Fri May  3 03:58:43.801 <kernel> process3of4: Performing IE check.
+Fri May  3 03:58:43.801 <kernel> process3of4: sending replyPacket ( len = 113 ).
+Fri May  3 03:58:43.801 <kernel> process3of4: received pairwise GTK
+Fri May  3 03:58:43.804 <kernel> PTK Install Timer: Installing PTK
+Fri May  3 03:58:43.804 <kernel> PTK:
+Fri May  3 03:58:43.804 [00000000] 99 EE 26 96 04 E9 18 26 EB E0 A5 2A C5 F8 13 E0 
+Fri May  3 03:58:43.804 <kernel> PTK Install Timer: Installing GTK
+Fri May  3 03:58:43.804 <kernel> installGTK: setting cipher key (flags = 0x0)
+Fri May  3 03:58:43.804 <kernel> GTK-RSC:
+Fri May  3 03:58:43.804 [00000000] 8B 21 33 00 00 00 
+Fri May  3 03:58:43.804 <kernel> GTK:
+Fri May  3 03:58:43.804 [00000000] F6 41 33 00 32 16 7D 81 20 59 07 E5 FD C4 4B 5F 
+Fri May  3 03:58:43.804 <kernel> installGTK: GTK installed
+Fri May  3 03:58:43.904 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 03:58:44.132 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 03:58:45.575 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Fri May  3 03:58:51.986 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 03:58:51.997 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 03:59:02.441 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 03:59:02.479 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 03:59:27.630 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Fri May  3 03:59:27.630 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.7
+Fri May  3 03:59:27.630 <kernel> wl0: setup_keepalive: Remote IP: 17.252.236.163
+Fri May  3 03:59:27.630 <kernel> wl0: setup_keepalive: Local port: 54830, Remote port: 5223
+Fri May  3 03:59:27.630 <kernel> wl0: setup_keepalive: Seq: 2831142849, Ack: 123199931, Win size: 2048
+Fri May  3 03:59:27.630 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.7
+Fri May  3 03:59:27.630 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:79:ecc7:64fa:eba9
+Fri May  3 03:59:27.630 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:18c3:5713:ee80:b2c5
+Fri May  3 03:59:27.630 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:40c9:6dcb:1245:9930
+Fri May  3 03:59:27.630 <kernel> wl0: MDNS: 2 SRV Recs, 3 TXT Recs
+Fri May  3 03:59:27.630 <kernel> wl0: MDNS: 2 TCP ports:  49250  3689 
+Fri May  3 04:12:42.048 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 04:12:42.048 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Fri May  3 04:12:42.048 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 2831142849, Ack: 123199931, Win size: 2048
+Fri May  3 04:12:42.048 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 2831142849, Ack 123199931, Win size 250
+Fri May  3 04:12:42.048 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Fri May  3 04:12:42.048 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Fri May  3 04:12:42.048 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Fri May  3 04:12:42.509 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 04:13:27.984 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Fri May  3 04:13:27.984 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.7
+Fri May  3 04:13:27.984 <kernel> wl0: setup_keepalive: Remote IP: 17.252.236.163
+Fri May  3 04:13:27.984 <kernel> wl0: setup_keepalive: Local port: 54830, Remote port: 5223
+Fri May  3 04:13:27.984 <kernel> wl0: setup_keepalive: Seq: 2831143024, Ack: 123199984, Win size: 2048
+Fri May  3 04:13:27.984 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.7
+Fri May  3 04:13:27.984 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:79:ecc7:64fa:eba9
+Fri May  3 04:13:27.984 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:18c3:5713:ee80:b2c5
+Fri May  3 04:13:27.984 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:40c9:6dcb:1245:9930
+Fri May  3 04:13:27.984 <kernel> wl0: MDNS: 2 SRV Recs, 3 TXT Recs
+Fri May  3 04:13:27.984 <kernel> wl0: MDNS: 2 TCP ports:  49250  3689 
+Fri May  3 04:14:53.051 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 04:14:53.051 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Fri May  3 04:14:53.102 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 2831143024, Ack: 123199984, Win size: 2048
+Fri May  3 04:14:53.102 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 2831143024, Ack 123199984, Win size 250
+Fri May  3 04:14:53.102 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Fri May  3 04:14:53.102 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Fri May  3 04:14:53.102 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Fri May  3 04:14:53.509 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 04:15:38.744 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Fri May  3 04:15:38.744 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.7
+Fri May  3 04:15:38.744 <kernel> wl0: setup_keepalive: Remote IP: 17.252.236.163
+Fri May  3 04:15:38.744 <kernel> wl0: setup_keepalive: Local port: 54830, Remote port: 5223
+Fri May  3 04:15:38.744 <kernel> wl0: setup_keepalive: Seq: 2831143199, Ack: 123200037, Win size: 2048
+Fri May  3 04:15:38.744 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.7
+Fri May  3 04:15:38.744 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:79:ecc7:64fa:eba9
+Fri May  3 04:15:38.744 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:18c3:5713:ee80:b2c5
+Fri May  3 04:15:38.744 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:40c9:6dcb:1245:9930
+Fri May  3 04:15:38.745 <kernel> wl0: MDNS: 2 SRV Recs, 3 TXT Recs
+Fri May  3 04:15:38.745 <kernel> wl0: MDNS: 2 TCP ports:  49250  3689 
+Fri May  3 04:54:41.259 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 04:54:41.259 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Fri May  3 04:54:41.259 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 2831143199, Ack: 123200037, Win size: 2048
+Fri May  3 04:54:41.259 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 2831143199, Ack 123200037, Win size 250
+Fri May  3 04:54:41.259 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Fri May  3 04:54:41.259 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Fri May  3 04:54:41.259 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Fri May  3 04:54:41.511 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 04:54:41.877 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 05:24:41.680 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Fri May  3 05:24:41.714 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.7
+Fri May  3 05:24:41.715 <kernel> wl0: setup_keepalive: Remote IP: 17.252.236.163
+Fri May  3 05:24:41.715 <kernel> wl0: setup_keepalive: Local port: 54830, Remote port: 5223
+Fri May  3 05:24:41.715 <kernel> wl0: setup_keepalive: Seq: 2831145292, Ack: 123200894, Win size: 2048
+Fri May  3 05:24:41.715 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.7
+Fri May  3 05:24:41.715 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:79:ecc7:64fa:eba9
+Fri May  3 05:24:41.715 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:18c3:5713:ee80:b2c5
+Fri May  3 05:24:41.715 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:40c9:6dcb:1245:9930
+Fri May  3 05:24:41.715 <kernel> wl0: MDNS: 2 SRV Recs, 3 TXT Recs
+Fri May  3 05:24:41.715 <kernel> wl0: MDNS: 2 TCP ports:  49250  3689 
+Fri May  3 05:25:00.052 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 05:25:00.052 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Fri May  3 05:25:00.052 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 2831145292, Ack: 123200894, Win size: 2048
+Fri May  3 05:25:00.053 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 2831145345, Ack 123200963, Win size 287
+Fri May  3 05:25:00.053 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Fri May  3 05:25:00.053 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Fri May  3 05:25:00.053 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Fri May  3 05:25:00.509 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 05:25:45.786 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Fri May  3 05:25:45.786 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.7
+Fri May  3 05:25:45.786 <kernel> wl0: setup_keepalive: Remote IP: 17.252.236.163
+Fri May  3 05:25:45.786 <kernel> wl0: setup_keepalive: Local port: 54830, Remote port: 5223
+Fri May  3 05:25:45.786 <kernel> wl0: setup_keepalive: Seq: 2831145520, Ack: 123201016, Win size: 2048
+Fri May  3 05:25:45.787 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.7
+Fri May  3 05:25:45.787 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:79:ecc7:64fa:eba9
+Fri May  3 05:25:45.787 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:18c3:5713:ee80:b2c5
+Fri May  3 05:25:45.787 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:40c9:6dcb:1245:9930
+Fri May  3 05:25:45.787 <kernel> wl0: MDNS: 2 SRV Recs, 3 TXT Recs
+Fri May  3 05:25:45.787 <kernel> wl0: MDNS: 2 TCP ports:  49250  3689 
+Fri May  3 05:31:24.048 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 05:31:24.048 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Fri May  3 05:31:24.048 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 2831145520, Ack: 123201016, Win size: 2048
+Fri May  3 05:31:24.048 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 2831145520, Ack 123201016, Win size 287
+Fri May  3 05:31:24.048 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Fri May  3 05:31:24.048 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Fri May  3 05:31:24.048 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Fri May  3 05:31:24.513 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 05:32:09.996 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Fri May  3 05:32:09.996 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.7
+Fri May  3 05:32:09.996 <kernel> wl0: setup_keepalive: Remote IP: 17.252.236.163
+Fri May  3 05:32:09.996 <kernel> wl0: setup_keepalive: Local port: 54830, Remote port: 5223
+Fri May  3 05:32:09.996 <kernel> wl0: setup_keepalive: Seq: 2831145695, Ack: 123201069, Win size: 2048
+Fri May  3 05:32:09.996 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.7
+Fri May  3 05:32:09.996 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:79:ecc7:64fa:eba9
+Fri May  3 05:32:09.996 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:18c3:5713:ee80:b2c5
+Fri May  3 05:32:09.996 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:40c9:6dcb:1245:9930
+Fri May  3 05:32:09.996 <kernel> wl0: MDNS: 2 SRV Recs, 3 TXT Recs
+Fri May  3 05:32:09.996 <kernel> wl0: MDNS: 2 TCP ports:  49250  3689 
+Fri May  3 05:34:22.050 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 05:34:22.051 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Fri May  3 05:34:22.051 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 2831145695, Ack: 123201069, Win size: 2048
+Fri May  3 05:34:22.051 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 2831145695, Ack 123201069, Win size 287
+Fri May  3 05:34:22.051 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Fri May  3 05:34:22.051 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Fri May  3 05:34:22.051 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Fri May  3 05:34:22.512 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 05:35:07.557 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Fri May  3 05:35:07.558 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.7
+Fri May  3 05:35:07.558 <kernel> wl0: setup_keepalive: Remote IP: 17.252.236.163
+Fri May  3 05:35:07.558 <kernel> wl0: setup_keepalive: Local port: 54830, Remote port: 5223
+Fri May  3 05:35:07.558 <kernel> wl0: setup_keepalive: Seq: 2831145870, Ack: 123201122, Win size: 2048
+Fri May  3 05:35:07.558 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.7
+Fri May  3 05:35:07.558 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:79:ecc7:64fa:eba9
+Fri May  3 05:35:07.558 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:18c3:5713:ee80:b2c5
+Fri May  3 05:35:07.558 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:40c9:6dcb:1245:9930
+Fri May  3 05:35:07.558 <kernel> wl0: MDNS: 2 SRV Recs, 3 TXT Recs
+Fri May  3 05:35:07.558 <kernel> wl0: MDNS: 2 TCP ports:  49250  3689 
+Fri May  3 05:35:34.310 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 05:35:34.310 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Fri May  3 05:35:34.310 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 2831145870, Ack: 123201122, Win size: 2048
+Fri May  3 05:35:34.310 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 2831145870, Ack 123201122, Win size 287
+Fri May  3 05:35:34.310 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Fri May  3 05:35:34.310 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Fri May  3 05:35:34.310 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Fri May  3 05:35:34.779 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 05:35:35.018 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 05:36:19.833 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Fri May  3 05:36:19.833 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.7
+Fri May  3 05:36:19.834 <kernel> wl0: setup_keepalive: Remote IP: 17.252.236.163
+Fri May  3 05:36:19.834 <kernel> wl0: setup_keepalive: Local port: 54830, Remote port: 5223
+Fri May  3 05:36:19.834 <kernel> wl0: setup_keepalive: Seq: 2831146045, Ack: 123201175, Win size: 2048
+Fri May  3 05:36:19.834 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.7
+Fri May  3 05:36:19.834 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:79:ecc7:64fa:eba9
+Fri May  3 05:36:19.834 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:18c3:5713:ee80:b2c5
+Fri May  3 05:36:19.834 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:40c9:6dcb:1245:9930
+Fri May  3 05:36:19.834 <kernel> wl0: MDNS: 2 SRV Recs, 3 TXT Recs
+Fri May  3 05:36:19.834 <kernel> wl0: MDNS: 2 TCP ports:  49250  3689 
+Fri May  3 05:50:46.068 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 05:50:46.068 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Fri May  3 05:50:46.068 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 2831146045, Ack: 123201175, Win size: 2048
+Fri May  3 05:50:46.068 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 2831146045, Ack 123201175, Win size 287
+Fri May  3 05:50:46.068 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Fri May  3 05:50:46.068 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Fri May  3 05:50:46.068 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Fri May  3 05:50:47.859 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 05:51:25.681 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Fri May  3 05:51:25.681 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.7
+Fri May  3 05:51:25.681 <kernel> wl0: setup_keepalive: Remote IP: 17.252.236.163
+Fri May  3 05:51:25.682 <kernel> wl0: setup_keepalive: Local port: 54830, Remote port: 5223
+Fri May  3 05:51:25.682 <kernel> wl0: setup_keepalive: Seq: 2831146220, Ack: 123201228, Win size: 2048
+Fri May  3 05:51:25.682 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.7
+Fri May  3 05:51:25.682 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:79:ecc7:64fa:eba9
+Fri May  3 05:51:25.682 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:18c3:5713:ee80:b2c5
+Fri May  3 05:51:25.682 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:40c9:6dcb:1245:9930
+Fri May  3 05:51:25.682 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Fri May  3 05:51:25.682 <kernel> wl0: MDNS: 2 TCP ports:  49250  3689 
+Fri May  3 06:31:10.062 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 06:31:10.062 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Fri May  3 06:31:10.062 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 2831146220, Ack: 123201228, Win size: 2048
+Fri May  3 06:31:10.062 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 2831146220, Ack 123201228, Win size 287
+Fri May  3 06:31:10.062 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Fri May  3 06:31:10.062 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Fri May  3 06:31:10.062 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Fri May  3 06:31:11.735 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 06:31:14.909 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Fri May  3 06:31:14.909 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.7
+Fri May  3 06:31:14.909 <kernel> wl0: setup_keepalive: Remote IP: 17.252.236.163
+Fri May  3 06:31:14.909 <kernel> wl0: setup_keepalive: Local port: 54830, Remote port: 5223
+Fri May  3 06:31:14.909 <kernel> wl0: setup_keepalive: Seq: 2831146395, Ack: 123201281, Win size: 2048
+Fri May  3 06:31:14.909 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.7
+Fri May  3 06:31:14.910 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:79:ecc7:64fa:eba9
+Fri May  3 06:31:14.910 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:18c3:5713:ee80:b2c5
+Fri May  3 06:31:14.910 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:40c9:6dcb:1245:9930
+Fri May  3 06:31:14.910 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Fri May  3 06:31:14.910 <kernel> wl0: MDNS: 2 TCP ports:  49250  3689 
+Fri May  3 06:35:09.066 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 06:35:09.066 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Fri May  3 06:35:09.066 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 2831146395, Ack: 123201281, Win size: 2048
+Fri May  3 06:35:09.066 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 2831146395, Ack 123201281, Win size 287
+Fri May  3 06:35:09.066 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Fri May  3 06:35:09.066 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Fri May  3 06:35:09.066 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Fri May  3 06:35:10.722 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 06:35:13.911 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Fri May  3 06:35:13.912 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.7
+Fri May  3 06:35:13.912 <kernel> wl0: setup_keepalive: Remote IP: 17.252.236.163
+Fri May  3 06:35:13.912 <kernel> wl0: setup_keepalive: Local port: 54830, Remote port: 5223
+Fri May  3 06:35:13.912 <kernel> wl0: setup_keepalive: Seq: 2831146570, Ack: 123201334, Win size: 2048
+Fri May  3 06:35:13.912 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.7
+Fri May  3 06:35:13.912 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:79:ecc7:64fa:eba9
+Fri May  3 06:35:13.912 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:18c3:5713:ee80:b2c5
+Fri May  3 06:35:13.912 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:40c9:6dcb:1245:9930
+Fri May  3 06:35:13.912 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Fri May  3 06:35:13.912 <kernel> wl0: MDNS: 2 TCP ports:  49250  3689 
+Fri May  3 06:36:18.078 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 06:36:18.078 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Fri May  3 06:36:18.078 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 2831146570, Ack: 123201334, Win size: 2048
+Fri May  3 06:36:18.078 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 2831146570, Ack 123201334, Win size 287
+Fri May  3 06:36:18.078 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Fri May  3 06:36:18.078 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Fri May  3 06:36:18.078 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Fri May  3 06:36:19.729 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 06:36:22.915 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Fri May  3 06:36:22.915 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.7
+Fri May  3 06:36:22.915 <kernel> wl0: setup_keepalive: Remote IP: 17.252.236.163
+Fri May  3 06:36:22.915 <kernel> wl0: setup_keepalive: Local port: 54830, Remote port: 5223
+Fri May  3 06:36:22.915 <kernel> wl0: setup_keepalive: Seq: 2831146745, Ack: 123201387, Win size: 2048
+Fri May  3 06:36:22.915 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.7
+Fri May  3 06:36:22.915 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:79:ecc7:64fa:eba9
+Fri May  3 06:36:22.915 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:18c3:5713:ee80:b2c5
+Fri May  3 06:36:22.915 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:40c9:6dcb:1245:9930
+Fri May  3 06:36:22.915 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Fri May  3 06:36:22.915 <kernel> wl0: MDNS: 2 TCP ports:  49250  3689 
+Fri May  3 07:51:33.094 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 07:51:33.094 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Fri May  3 07:51:33.094 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 2831146745, Ack: 123201387, Win size: 2048
+Fri May  3 07:51:33.094 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 2831146745, Ack 123201387, Win size 287
+Fri May  3 07:51:33.094 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Fri May  3 07:51:33.094 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Fri May  3 07:51:33.094 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Fri May  3 07:51:34.859 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 07:51:35.164 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 07:51:35.168 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 07:51:38.053 <kernel> wl0: TCPKEEP: locate_keepalive_data_new_uc: No IPV4 addrs, keepalive not started.
+Fri May  3 07:51:38.053 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:79:ecc7:64fa:eba9
+Fri May  3 07:51:38.053 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:18c3:5713:ee80:b2c5
+Fri May  3 07:51:38.053 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:40c9:6dcb:1245:9930
+Fri May  3 07:51:38.053 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Fri May  3 07:51:38.053 <kernel> wl0: MDNS: 2 TCP ports:  49250  3689 
+Fri May  3 07:51:42.993 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 07:51:42.993 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 08:45:45.415 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 08:45:45.662 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Fri May  3 08:45:45.662 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Fri May  3 08:45:45.662 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Fri May  3 08:45:45.663 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Fri May  3 08:45:45.663 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 08:46:12.836 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Fri May  3 08:46:12.836 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.5
+Fri May  3 08:46:12.836 <kernel> wl0: setup_keepalive: Remote IP: 17.252.140.98
+Fri May  3 08:46:12.836 <kernel> wl0: setup_keepalive: Local port: 59590, Remote port: 5223
+Fri May  3 08:46:12.837 <kernel> wl0: setup_keepalive: Seq: 2136289133, Ack: 3870456084, Win size: 2048
+Fri May  3 08:46:12.837 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.5
+Fri May  3 08:46:12.837 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:79:ecc7:64fa:eba9
+Fri May  3 08:46:12.837 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:18c3:5713:ee80:b2c5
+Fri May  3 08:46:12.837 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:40c9:6dcb:1245:9930
+Fri May  3 08:46:12.837 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Fri May  3 08:46:12.837 <kernel> wl0: MDNS: 2 TCP ports:  49250  3689 
+Fri May  3 08:51:12.934 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 08:51:12.936 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Fri May  3 08:51:12.936 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 2136289133, Ack: 3870456084, Win size: 2048
+Fri May  3 08:51:12.937 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 2136289133, Ack 3870456084, Win size 250
+Fri May  3 08:51:12.937 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Fri May  3 08:51:12.937 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Fri May  3 08:51:12.937 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Fri May  3 08:51:12.937 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 08:51:17.849 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Fri May  3 08:51:17.849 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.5
+Fri May  3 08:51:17.849 <kernel> wl0: setup_keepalive: Remote IP: 17.252.140.98
+Fri May  3 08:51:17.849 <kernel> wl0: setup_keepalive: Local port: 59590, Remote port: 5223
+Fri May  3 08:51:17.849 <kernel> wl0: setup_keepalive: Seq: 2136289308, Ack: 3870456137, Win size: 2048
+Fri May  3 08:51:17.849 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.5
+Fri May  3 08:51:17.849 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:79:ecc7:64fa:eba9
+Fri May  3 08:51:17.849 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:18c3:5713:ee80:b2c5
+Fri May  3 08:51:17.849 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:40c9:6dcb:1245:9930
+Fri May  3 08:51:17.849 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Fri May  3 08:51:17.849 <kernel> wl0: MDNS: 2 TCP ports:  49250  3689 
+Fri May  3 08:52:43.335 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 08:52:43.885 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Fri May  3 08:52:43.905 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 08:52:43.905 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 2136289308, Ack: 3870456137, Win size: 2048
+Fri May  3 08:52:43.905 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 2136289308, Ack 3870456137, Win size 250
+Fri May  3 08:52:43.905 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Fri May  3 08:52:43.905 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Fri May  3 08:52:43.905 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Fri May  3 08:52:43.905 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 08:52:49.627 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Fri May  3 08:52:49.627 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.5
+Fri May  3 08:52:54.564 <kernel> wl0: setup_keepalive: Remote IP: 17.252.140.98
+Fri May  3 08:52:54.564 <kernel> wl0: setup_keepalive: Local port: 59590, Remote port: 5223
+Fri May  3 08:52:54.564 <kernel> wl0: setup_keepalive: Seq: 2136289483, Ack: 3870456190, Win size: 2047
+Fri May  3 08:52:54.564 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.5
+Fri May  3 08:52:54.564 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:79:ecc7:64fa:eba9
+Fri May  3 08:52:54.564 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:18c3:5713:ee80:b2c5
+Fri May  3 08:52:54.564 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:40c9:6dcb:1245:9930
+Fri May  3 08:52:54.564 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Fri May  3 08:52:54.564 <kernel> wl0: MDNS: 2 TCP ports:  49250  3689 
+Fri May  3 10:52:57.491 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 10:52:57.517 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Fri May  3 10:52:57.518 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 10:52:57.518 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 2136289483, Ack: 3870456190, Win size: 2047
+Fri May  3 10:52:57.518 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 2136289483, Ack 3870456190, Win size 250
+Fri May  3 10:52:57.518 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Fri May  3 10:52:57.518 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Fri May  3 10:52:57.518 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Fri May  3 10:52:57.518 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 10:53:02.941 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Fri May  3 10:53:02.941 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.4
+Fri May  3 10:53:02.941 <kernel> wl0: setup_keepalive: Remote IP: 17.242.28.79
+Fri May  3 10:53:02.941 <kernel> wl0: setup_keepalive: Local port: 59830, Remote port: 5223
+Fri May  3 10:53:02.941 <kernel> wl0: setup_keepalive: Seq: 3159531244, Ack: 3502929464, Win size: 2047
+Fri May  3 10:53:02.941 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.4
+Fri May  3 10:53:02.941 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:79:ecc7:64fa:eba9
+Fri May  3 10:53:02.941 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:18c3:5713:ee80:b2c5
+Fri May  3 10:53:02.941 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:40c9:6dcb:1245:9930
+Fri May  3 10:53:02.941 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Fri May  3 10:53:02.941 <kernel> wl0: MDNS: 2 TCP ports:  49250  3689 
+Fri May  3 10:53:07.576 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 10:53:07.576 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 10:53:07.610 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 10:53:07.610 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 11:47:03.254 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 11:47:03.765 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Fri May  3 11:47:03.765 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 3159531244, Ack: 3502929464, Win size: 2047
+Fri May  3 11:47:03.765 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 3159531244, Ack 3502929464, Win size 250
+Fri May  3 11:47:03.765 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Fri May  3 11:47:03.765 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Fri May  3 11:47:03.765 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Fri May  3 11:47:03.765 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 11:47:08.382 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Fri May  3 11:47:08.382 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.4
+Fri May  3 11:47:08.382 <kernel> wl0: setup_keepalive: Remote IP: 17.242.28.79
+Fri May  3 11:47:08.382 <kernel> wl0: setup_keepalive: Local port: 59830, Remote port: 5223
+Fri May  3 11:47:08.382 <kernel> wl0: setup_keepalive: Seq: 3159531419, Ack: 3502929517, Win size: 2048
+Fri May  3 11:47:08.382 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.4
+Fri May  3 11:47:08.382 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:79:ecc7:64fa:eba9
+Fri May  3 11:47:08.382 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:18c3:5713:ee80:b2c5
+Fri May  3 11:47:08.382 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:40c9:6dcb:1245:9930
+Fri May  3 11:47:08.382 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Fri May  3 11:47:08.382 <kernel> wl0: MDNS: 2 TCP ports:  49250  3689 
+Fri May  3 11:56:32.345 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 11:56:32.383 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Fri May  3 11:56:32.383 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 11:56:32.383 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 3159531419, Ack: 3502929517, Win size: 2048
+Fri May  3 11:56:32.383 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 3159531419, Ack 3502929517, Win size 250
+Fri May  3 11:56:32.383 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Fri May  3 11:56:32.383 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Fri May  3 11:56:32.383 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Fri May  3 11:56:32.404 <kernel> en0: link down event, informing supplicant.
+Fri May  3 11:56:32.404 <kernel> AirPort_BrcmNIC::getSSIDData(): Get failure: APPLE80211_IOC_SSID: 6
+Fri May  3 11:56:32.404 <kernel> ARPT: Wake Reason: Wake on Scan offload
+Fri May  3 11:56:32.404 <kernel> ARPT: Wake Reason: Wake on Scan offload
+Fri May  3 11:56:32.404 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 11:56:33.231 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 11:56:33.231 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 11:56:43.067 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Fri May  3 11:56:43.778 <kernel> en0: Terminating supplicant.
+Fri May  3 11:56:43.778 <kernel> RSNSupplicant: Releasing authenticator for 86:af:ec:57:28:50
+Fri May  3 11:56:43.778 <kernel> parseRSNIE: groupCipherType = 5 pairwiseCipherType = 5 authSel = 2
+Fri May  3 11:56:43.778 <kernel> initWithInterfaceAndIE: _myMacAddress 18:65:90:d0:5a:99
+Fri May  3 11:56:43.778 <kernel> setPMK: PMK SET!
+Fri May  3 11:56:43.924 <kernel> Unexpected payload found for message 9, dataLen 0
+Fri May  3 11:56:44.018 <kernel> en0: Received EAPOL packet (length = 113)
+Fri May  3 11:56:44.019 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Fri May  3 11:56:44.019 <kernel> inputEAPOLFrame: Received message 1 of 4
+Fri May  3 11:56:44.019 <kernel> FULL RSN IE FOUND:
+Fri May  3 11:56:44.019 [00000000] 30 14 01 00 00 0F AC 04 01 00 00 0F AC 04 01 00 00 0F AC 02 00 00 
+Fri May  3 11:56:44.019 <kernel> storeFullRSNIE: getAP_IE_LIST returned 0
+Fri May  3 11:56:44.019 <kernel> PMK:
+Fri May  3 11:56:44.019 [00000000] E0 FF 05 30 3B A5 D6 F3 7E 16 19 F2 A6 15 E3 1A 69 3C 6B 37 6B 99 82 49 DB AB 7E 0E B2 44 
+Fri May  3 11:56:44.019 [0000001E] CB EA 
+Fri May  3 11:56:44.019 <kernel> TPTK:
+Fri May  3 11:56:44.019 [00000000] 08 6E 79 99 47 6D 8B 9C 5B CE 6A 7D 8C 6C 7A DE 8F 29 7F F5 08 94 85 B2 12 90 61 24 3B E6 
+Fri May  3 11:56:44.019 [0000001E] 5F 99 DE 64 DE 8A BB 71 BC F0 30 74 CA 79 D8 42 36 AC 00 00 00 00 00 00 00 00 00 00 00 00 
+Fri May  3 11:56:44.019 [0000003C] 00 00 00 00 
+Fri May  3 11:56:44.019 <kernel> KEY MIC:
+Fri May  3 11:56:44.019 [00000000] D3 AA 2B BC 1A 60 E7 3C F9 EC 3E 1C CC 65 BB E7 
+Fri May  3 11:56:44.019 <kernel> process1of4: sending replyPacket 135 bytes
+Fri May  3 11:56:44.030 <kernel> en0: Received EAPOL packet (length = 169)
+Fri May  3 11:56:44.030 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Fri May  3 11:56:44.030 <kernel> inputEAPOLFrame: decrypting key data
+Fri May  3 11:56:44.030 <kernel> inputEAPOLFrame: Received message 3 of 4
+Fri May  3 11:56:44.030 <kernel> process3of4: Performing IE check.
+Fri May  3 11:56:44.030 <kernel> process3of4: sending replyPacket ( len = 113 ).
+Fri May  3 11:56:44.030 <kernel> process3of4: received pairwise GTK
+Fri May  3 11:56:44.039 <kernel> PTK Install Timer: Installing PTK
+Fri May  3 11:56:44.039 <kernel> PTK:
+Fri May  3 11:56:44.039 [00000000] DE 64 DE 8A BB 71 BC F0 30 74 CA 79 D8 42 36 AC 
+Fri May  3 11:56:44.039 <kernel> PTK Install Timer: Installing GTK
+Fri May  3 11:56:44.039 <kernel> installGTK: setting cipher key (flags = 0x0)
+Fri May  3 11:56:44.039 <kernel> GTK-RSC:
+Fri May  3 11:56:44.039 [00000000] BF 87 33 00 00 00 
+Fri May  3 11:56:44.039 <kernel> GTK:
+Fri May  3 11:56:44.039 [00000000] E0 49 8B A2 47 F6 81 7A F8 8A 36 A3 D8 68 59 C8 
+Fri May  3 11:56:44.039 <kernel> installGTK: GTK installed
+Fri May  3 11:56:44.190 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Fri May  3 11:56:45.505 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 11:56:45.609 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 11:56:54.973 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 11:56:55.295 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 11:57:04.240 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Fri May  3 11:57:04.564 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.4
+Fri May  3 11:57:04.564 <kernel> wl0: setup_keepalive: Remote IP: 17.252.140.213
+Fri May  3 11:57:04.564 <kernel> wl0: setup_keepalive: Local port: 59999, Remote port: 5223
+Fri May  3 11:57:04.564 <kernel> wl0: setup_keepalive: Seq: 1013350176, Ack: 3926835243, Win size: 2048
+Fri May  3 11:57:04.564 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.4
+Fri May  3 11:57:04.564 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:79:ecc7:64fa:eba9
+Fri May  3 11:57:04.564 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:18c3:5713:ee80:b2c5
+Fri May  3 11:57:04.564 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:9ced:4a93:b79b:1b3f
+Fri May  3 11:57:04.564 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Fri May  3 11:57:04.564 <kernel> wl0: MDNS: 2 TCP ports:  49250  3689 
+Fri May  3 12:50:54.306 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 12:50:54.671 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Fri May  3 12:50:54.716 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 1013350176, Ack: 3926835243, Win size: 2048
+Fri May  3 12:50:54.716 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 1013350176, Ack 3926835243, Win size 250
+Fri May  3 12:50:54.716 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Fri May  3 12:50:54.716 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Fri May  3 12:50:54.716 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Fri May  3 12:50:54.716 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 12:51:00.691 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Fri May  3 12:51:00.691 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.4
+Fri May  3 12:51:00.691 <kernel> wl0: setup_keepalive: Remote IP: 17.252.140.213
+Fri May  3 12:51:00.691 <kernel> wl0: setup_keepalive: Local port: 59999, Remote port: 5223
+Fri May  3 12:51:00.691 <kernel> wl0: setup_keepalive: Seq: 1013350351, Ack: 3926835296, Win size: 2048
+Fri May  3 12:51:00.691 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.4
+Fri May  3 12:51:00.691 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:79:ecc7:64fa:eba9
+Fri May  3 12:51:00.691 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:18c3:5713:ee80:b2c5
+Fri May  3 12:51:00.691 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:9ced:4a93:b79b:1b3f
+Fri May  3 12:51:00.691 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Fri May  3 12:51:00.691 <kernel> wl0: MDNS: 2 TCP ports:  49250  3689 
+Fri May  3 12:56:18.349 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 12:56:18.495 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Fri May  3 12:56:18.495 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 1013350351, Ack: 3926835296, Win size: 2048
+Fri May  3 12:56:18.495 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 1013350351, Ack 3926835296, Win size 250
+Fri May  3 12:56:18.495 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Fri May  3 12:56:18.495 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Fri May  3 12:56:18.495 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Fri May  3 12:56:18.546 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 12:56:23.873 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Fri May  3 12:56:23.873 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.4
+Fri May  3 12:56:23.873 <kernel> wl0: setup_keepalive: Remote IP: 17.252.140.213
+Fri May  3 12:56:23.873 <kernel> wl0: setup_keepalive: Local port: 59999, Remote port: 5223
+Fri May  3 12:56:23.873 <kernel> wl0: setup_keepalive: Seq: 1013350526, Ack: 3926835349, Win size: 2048
+Fri May  3 12:56:23.873 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.4
+Fri May  3 12:56:23.873 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:79:ecc7:64fa:eba9
+Fri May  3 12:56:23.874 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:18c3:5713:ee80:b2c5
+Fri May  3 12:56:23.874 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:9ced:4a93:b79b:1b3f
+Fri May  3 12:56:23.874 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Fri May  3 12:56:23.874 <kernel> wl0: MDNS: 2 TCP ports:  49250  3689 
+Fri May  3 12:57:46.327 <kernel> en0: Received EAPOL packet (length = 145)
+Fri May  3 12:57:47.003 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Fri May  3 12:57:47.003 <kernel> inputEAPOLFrame: decrypting key data
+Fri May  3 12:57:47.003 <kernel> inputEAPOLFrame: Received message 1 of 2
+Fri May  3 12:57:47.003 <kernel> installGTK: setting cipher key (flags = 0x0)
+Fri May  3 12:57:47.003 <kernel> GTK-RSC:
+Fri May  3 12:57:47.003 [00000000] 83 95 33 00 00 00 
+Fri May  3 12:57:47.003 <kernel> GTK:
+Fri May  3 12:57:47.003 [00000000] 67 8F 82 A9 62 01 AE 64 EF 09 63 13 6C F8 63 76 
+Fri May  3 12:57:47.003 <kernel> installGTK: GTK installed
+Fri May  3 12:57:47.004 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 12:57:47.004 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Fri May  3 12:57:47.004 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 1013350526, Ack: 3926835349, Win size: 2048
+Fri May  3 12:57:47.004 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 1013350526, Ack 3926835349, Win size 250
+Fri May  3 12:57:47.004 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Fri May  3 12:57:47.004 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Fri May  3 12:57:47.004 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Fri May  3 12:57:47.004 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 12:57:51.976 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Fri May  3 12:57:51.976 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.4
+Fri May  3 12:57:51.976 <kernel> wl0: setup_keepalive: Remote IP: 17.252.140.213
+Fri May  3 12:57:52.323 <kernel> wl0: setup_keepalive: Local port: 59999, Remote port: 5223
+Fri May  3 12:57:52.323 <kernel> wl0: setup_keepalive: Seq: 1013350701, Ack: 3926835402, Win size: 2048
+Fri May  3 12:57:52.323 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.4
+Fri May  3 12:57:52.323 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:79:ecc7:64fa:eba9
+Fri May  3 12:57:52.323 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:18c3:5713:ee80:b2c5
+Fri May  3 12:57:52.323 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:9ced:4a93:b79b:1b3f
+Fri May  3 12:57:52.323 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Fri May  3 12:57:52.323 <kernel> wl0: MDNS: 2 TCP ports:  49250  3689 
+Fri May  3 14:57:59.380 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 14:57:59.381 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Fri May  3 14:57:59.403 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 1013350701, Ack: 3926835402, Win size: 2048
+Fri May  3 14:57:59.403 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 1013350701, Ack 3926835402, Win size 250
+Fri May  3 14:57:59.403 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Fri May  3 14:57:59.403 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Fri May  3 14:57:59.403 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Fri May  3 14:57:59.403 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 14:58:04.717 <kernel> wl0: TCPKEEP: locate_keepalive_data_new_uc: No IPV4 addrs, keepalive not started.
+Fri May  3 14:58:04.718 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:79:ecc7:64fa:eba9
+Fri May  3 14:58:04.718 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:18c3:5713:ee80:b2c5
+Fri May  3 14:58:04.718 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:9ced:4a93:b79b:1b3f
+Fri May  3 14:58:04.718 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Fri May  3 14:58:04.718 <kernel> wl0: MDNS: 2 TCP ports:  49250  3689 
+Fri May  3 14:58:06.974 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 14:58:06.974 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 15:30:03.279 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 15:30:03.308 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Fri May  3 15:30:03.338 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Fri May  3 15:30:03.339 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Fri May  3 15:30:03.339 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Fri May  3 15:30:03.466 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 15:30:04.605 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 15:30:09.280 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Fri May  3 15:30:09.281 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.4
+Fri May  3 15:30:09.281 <kernel> wl0: setup_keepalive: Remote IP: 17.252.141.4
+Fri May  3 15:30:09.281 <kernel> wl0: setup_keepalive: Local port: 60257, Remote port: 5223
+Fri May  3 15:30:09.281 <kernel> wl0: setup_keepalive: Seq: 1847968912, Ack: 4192637775, Win size: 2048
+Fri May  3 15:30:09.281 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.4
+Fri May  3 15:30:09.281 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:79:ecc7:64fa:eba9
+Fri May  3 15:30:09.281 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:18c3:5713:ee80:b2c5
+Fri May  3 15:30:09.281 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:9ced:4a93:b79b:1b3f
+Fri May  3 15:30:09.281 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Fri May  3 15:30:09.281 <kernel> wl0: MDNS: 2 TCP ports:  49250  3689 
+Fri May  3 16:24:06.034 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 16:24:06.034 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Fri May  3 16:24:07.008 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 1847968912, Ack: 4192637775, Win size: 2048
+Fri May  3 16:24:07.008 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 1847968912, Ack 4192637775, Win size 250
+Fri May  3 16:24:07.008 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Fri May  3 16:24:07.008 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Fri May  3 16:24:07.008 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Fri May  3 16:24:15.437 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Fri May  3 16:24:32.888 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 16:24:32.926 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Fri May  3 16:24:43.634 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Fri May  3 16:24:43.634 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.4
+Fri May  3 16:24:43.634 <kernel> wl0: setup_keepalive: Remote IP: 17.252.141.4
+Fri May  3 16:24:43.634 <kernel> wl0: setup_keepalive: Local port: 60257, Remote port: 5223
+Fri May  3 16:24:43.634 <kernel> wl0: setup_keepalive: Seq: 1847969087, Ack: 4192637828, Win size: 2048
+Fri May  3 16:24:43.634 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.4
+Fri May  3 16:24:43.634 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:79:ecc7:64fa:eba9
+Fri May  3 16:24:43.634 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:18c3:5713:ee80:b2c5
+Fri May  3 16:24:43.634 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:9ced:4a93:b79b:1b3f
+Fri May  3 16:24:43.634 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Fri May  3 16:24:43.634 <kernel> wl0: MDNS: 2 TCP ports:  49250  3689 
+Fri May  3 16:29:33.050 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 16:29:33.050 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Fri May  3 16:29:33.050 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 1847969087, Ack: 4192637828, Win size: 2048
+Fri May  3 16:29:33.050 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 1847969087, Ack 4192637828, Win size 250
+Fri May  3 16:29:33.050 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Fri May  3 16:29:33.050 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Fri May  3 16:29:33.050 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Fri May  3 16:29:33.513 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 16:29:38.364 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Fri May  3 16:29:38.377 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.4
+Fri May  3 16:29:38.377 <kernel> wl0: setup_keepalive: Remote IP: 17.252.141.4
+Fri May  3 16:29:38.377 <kernel> wl0: setup_keepalive: Local port: 60257, Remote port: 5223
+Fri May  3 16:29:38.377 <kernel> wl0: setup_keepalive: Seq: 1847969262, Ack: 4192637881, Win size: 2047
+Fri May  3 16:29:38.377 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.4
+Fri May  3 16:29:38.377 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:79:ecc7:64fa:eba9
+Fri May  3 16:29:38.377 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:18c3:5713:ee80:b2c5
+Fri May  3 16:29:38.377 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:9ced:4a93:b79b:1b3f
+Fri May  3 16:29:38.377 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Fri May  3 16:29:38.377 <kernel> wl0: MDNS: 2 TCP ports:  49250  3689 
+Fri May  3 16:30:43.047 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 16:30:43.047 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Fri May  3 16:30:43.047 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 1847969262, Ack: 4192637881, Win size: 2047
+Fri May  3 16:30:43.047 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 1847969262, Ack 4192637881, Win size 250
+Fri May  3 16:30:43.047 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Fri May  3 16:30:43.047 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Fri May  3 16:30:43.047 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Fri May  3 16:30:43.519 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 16:30:55.820 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Fri May  3 16:30:55.820 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.4
+Fri May  3 16:30:55.820 <kernel> wl0: setup_keepalive: Remote IP: 17.252.141.4
+Fri May  3 16:30:55.820 <kernel> wl0: setup_keepalive: Local port: 60257, Remote port: 5223
+Fri May  3 16:30:55.820 <kernel> wl0: setup_keepalive: Seq: 1847969437, Ack: 4192637934, Win size: 2048
+Fri May  3 16:30:55.821 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.4
+Fri May  3 16:30:55.821 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:79:ecc7:64fa:eba9
+Fri May  3 16:30:55.821 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:18c3:5713:ee80:b2c5
+Fri May  3 16:30:55.821 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:9ced:4a93:b79b:1b3f
+Fri May  3 16:30:55.821 <kernel> wl0: MDNS: 0 SRV Recs, 0 TXT Recs
+Fri May  3 16:30:55.821 <kernel> wl0: MDNS: 2 TCP ports:  49250  3689 
+Fri May  3 17:04:54.053 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 17:04:54.053 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Fri May  3 17:04:54.053 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 1847969437, Ack: 4192637934, Win size: 2048
+Fri May  3 17:04:54.053 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 1847969437, Ack 4192637934, Win size 250
+Fri May  3 17:04:54.053 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Fri May  3 17:04:54.053 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Fri May  3 17:04:54.053 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Fri May  3 17:04:54.504 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 17:04:54.744 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 17:04:54.780 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 17:04:58.963 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 17:04:58.982 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 17:06:14.906 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Fri May  3 17:06:16.115 <kernel> AWDL Sync Enabled 1, data path state[1]
+Fri May  3 17:06:23.198 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Fri May  3 17:06:23.198 <kernel> AWDL Sync Enabled 0, data path state[1]
+Fri May  3 17:06:25.719 <kernel> AWDL Sync Enabled 1, data path state[1]
+Fri May  3 17:06:30.920 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Fri May  3 17:06:30.920 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.4
+Fri May  3 17:06:30.920 <kernel> wl0: setup_keepalive: Remote IP: 17.242.28.98
+Fri May  3 17:06:30.920 <kernel> wl0: setup_keepalive: Local port: 60535, Remote port: 5223
+Fri May  3 17:06:30.920 <kernel> wl0: setup_keepalive: Seq: 4034259506, Ack: 726301990, Win size: 2048
+Fri May  3 17:06:30.920 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.4
+Fri May  3 17:06:30.920 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:79:ecc7:64fa:eba9
+Fri May  3 17:06:30.920 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:18c3:5713:ee80:b2c5
+Fri May  3 17:06:30.920 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:9ced:4a93:b79b:1b3f
+Fri May  3 17:06:30.920 <kernel> wl0: MDNS: 3 SRV Recs, 4 TXT Recs
+Fri May  3 17:06:30.920 <kernel> wl0: MDNS: 3 TCP ports:  49250  3689  60703 
+Fri May  3 17:06:33.896 <kernel> AWDL Sync Enabled 0, data path state[1]
+Fri May  3 17:06:48.042 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 17:06:48.042 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Fri May  3 17:06:48.051 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 4034259506, Ack: 726301990, Win size: 2048
+Fri May  3 17:06:48.051 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 4034259559, Ack 726302059, Win size 287
+Fri May  3 17:06:48.051 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Fri May  3 17:06:48.051 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Fri May  3 17:06:48.051 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Fri May  3 17:06:48.499 <kernel> ARPT: Wake Reason: Wake on MDNS Service
+Fri May  3 17:06:48.501 <kernel> ARPT: Wake Reason: Wake on MDNS Service
+Fri May  3 17:06:48.502 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 17:07:33.503 <kernel> wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10
+Fri May  3 17:07:33.503 <kernel> wl0: setup_keepalive: Local IP: 192.168.0.4
+Fri May  3 17:07:33.503 <kernel> wl0: setup_keepalive: Remote IP: 17.242.28.98
+Fri May  3 17:07:33.503 <kernel> wl0: setup_keepalive: Local port: 60535, Remote port: 5223
+Fri May  3 17:07:33.503 <kernel> wl0: setup_keepalive: Seq: 4034259734, Ack: 726302112, Win size: 2048
+Fri May  3 17:07:33.503 <kernel> wl0: MDNS: IPV4 Addr: 192.168.0.4
+Fri May  3 17:07:33.503 <kernel> wl0: MDNS: IPV6 Addr: fe80:0:0:0:79:ecc7:64fa:eba9
+Fri May  3 17:07:33.503 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:18c3:5713:ee80:b2c5
+Fri May  3 17:07:33.503 <kernel> wl0: MDNS: IPV6 Addr: 240f:50:326:1:9ced:4a93:b79b:1b3f
+Fri May  3 17:07:33.503 <kernel> wl0: MDNS: 2 SRV Recs, 3 TXT Recs
+Fri May  3 17:07:33.503 <kernel> wl0: MDNS: 2 TCP ports:  49250  3689 
+Fri May  3 17:07:41.052 <kernel> IO80211VirtualInterface::controllerWillChangePowerState : Bringing down link
+Fri May  3 17:07:41.052 <kernel> IO80211VirtualInterface::handleSIOCSIFFLAGS : Source controllerWillChangePowerState calling peerManager->disable
+Fri May  3 17:07:41.052 <kernel> wl0: wl_update_tcpkeep_seq: Original Seq: 4034259734, Ack: 726302112, Win size: 2048
+Fri May  3 17:07:41.052 <kernel> wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 4034259734, Ack 726302112, Win size 287
+Fri May  3 17:07:41.052 <kernel> wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.
+Fri May  3 17:07:41.052 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[enable], in_fatal_err[0]
+Fri May  3 17:07:41.052 <kernel> AirPort_Brcm43xx::syncPowerState: WWEN[enabled]
+Fri May  3 17:07:41.519 <kernel> AirPort_Brcm43xx::platformWoWEnable: WWEN[disable], in_fatal_err[0]
+Fri May  3 17:18:57.936 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Fri May  3 17:18:58.771 <kernel> AWDL Sync Enabled 1, data path state[1]
+Fri May  3 17:19:22.954 <kernel> AWDL Sync Enabled 0, data path state[1]
+Fri May  3 17:19:41.756 <kernel> AWDL Sync Enabled 1, data path state[1]
+Fri May  3 17:20:00.945 <kernel> AWDL Sync Enabled 0, data path state[1]
+Fri May  3 17:29:06.568 <kernel> AWDL Sync Enabled 1, data path state[1]
+Fri May  3 17:29:43.774 <kernel> AWDL Sync Enabled 0, data path state[1]
+Fri May  3 17:34:57.064 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 17:35:19.713 <kernel> en0: roam event, sending supplicant link down message.
+Fri May  3 17:35:19.854 <kernel> en0: Received EAPOL packet (length = 113)
+Fri May  3 17:35:19.854 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Fri May  3 17:35:19.854 <kernel> inputEAPOLFrame: Received message 1 of 4
+Fri May  3 17:35:19.854 <kernel> FULL RSN IE FOUND:
+Fri May  3 17:35:19.854 [00000000] 30 14 01 00 00 0F AC 04 01 00 00 0F AC 04 01 00 00 0F AC 02 00 00 
+Fri May  3 17:35:19.854 <kernel> storeFullRSNIE: getAP_IE_LIST returned 0
+Fri May  3 17:35:19.854 <kernel> PMK:
+Fri May  3 17:35:19.854 [00000000] E0 FF 05 30 3B A5 D6 F3 7E 16 19 F2 A6 15 E3 1A 69 3C 6B 37 6B 99 82 49 DB AB 7E 0E B2 44 
+Fri May  3 17:35:19.854 [0000001E] CB EA 
+Fri May  3 17:35:19.854 <kernel> TPTK:
+Fri May  3 17:35:19.855 [00000000] 47 95 2B B7 E2 B0 1E 30 DD 60 32 4D 7F 2D FE 38 19 3E A1 51 08 2A C1 B0 8F A1 C8 01 25 21 
+Fri May  3 17:35:19.855 [0000001E] 62 37 34 6A 36 C1 26 EA 95 F9 66 3B 54 48 DB 9D D1 7E 00 00 00 00 00 00 00 00 00 00 00 00 
+Fri May  3 17:35:19.855 [0000003C] 00 00 00 00 
+Fri May  3 17:35:19.855 <kernel> KEY MIC:
+Fri May  3 17:35:19.855 [00000000] 96 5D 8F 46 16 45 0C 40 82 03 64 8B 78 63 06 24 
+Fri May  3 17:35:19.855 <kernel> process1of4: sending replyPacket 135 bytes
+Fri May  3 17:35:19.862 <kernel> en0: Received EAPOL packet (length = 169)
+Fri May  3 17:35:19.862 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Fri May  3 17:35:19.862 <kernel> inputEAPOLFrame: decrypting key data
+Fri May  3 17:35:19.862 <kernel> inputEAPOLFrame: Received message 3 of 4
+Fri May  3 17:35:19.863 <kernel> process3of4: Performing IE check.
+Fri May  3 17:35:19.863 <kernel> process3of4: sending replyPacket ( len = 113 ).
+Fri May  3 17:35:19.863 <kernel> process3of4: received pairwise GTK
+Fri May  3 17:35:19.867 <kernel> PTK Install Timer: Installing PTK
+Fri May  3 17:35:19.867 <kernel> PTK:
+Fri May  3 17:35:19.867 [00000000] 34 6A 36 C1 26 EA 95 F9 66 3B 54 48 DB 9D D1 7E 
+Fri May  3 17:35:19.867 <kernel> PTK Install Timer: Installing GTK
+Fri May  3 17:35:19.867 <kernel> installGTK: setting cipher key (flags = 0x0)
+Fri May  3 17:35:19.867 <kernel> GTK-RSC:
+Fri May  3 17:35:19.867 [00000000] E4 D3 33 00 00 00 
+Fri May  3 17:35:19.867 <kernel> GTK:
+Fri May  3 17:35:19.868 [00000000] FE 09 94 C6 50 78 9D E5 F1 07 CE A6 EA 20 C3 9F 
+Fri May  3 17:35:19.868 <kernel> installGTK: GTK installed
+Fri May  3 17:35:28.253 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 17:35:28.323 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 17:35:39.975 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 17:35:40.032 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 17:56:51.337 <kernel> en0: Received EAPOL packet (length = 145)
+Fri May  3 17:56:51.338 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Fri May  3 17:56:51.338 <kernel> inputEAPOLFrame: decrypting key data
+Fri May  3 17:56:51.338 <kernel> inputEAPOLFrame: Received message 1 of 2
+Fri May  3 17:56:51.339 <kernel> installGTK: setting cipher key (flags = 0x0)
+Fri May  3 17:56:51.339 <kernel> GTK-RSC:
+Fri May  3 17:56:51.339 [00000000] 90 DA 33 00 00 00 
+Fri May  3 17:56:51.339 <kernel> GTK:
+Fri May  3 17:56:51.339 [00000000] 73 85 AB 8E 10 54 A5 43 5D 80 0A E1 0D 3C 0D 78 
+Fri May  3 17:56:51.339 <kernel> installGTK: GTK installed
+Fri May  3 18:16:53.435 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 18:26:20.727 <kernel> AWDL Sync Enabled 1, data path state[1]
+Fri May  3 18:26:38.905 <kernel> AWDL Sync Enabled 0, data path state[1]
+Fri May  3 18:46:53.651 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 18:56:52.492 <kernel> en0: Received EAPOL packet (length = 145)
+Fri May  3 18:56:52.578 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Fri May  3 18:56:52.578 <kernel> inputEAPOLFrame: decrypting key data
+Fri May  3 18:56:52.578 <kernel> inputEAPOLFrame: Received message 1 of 2
+Fri May  3 18:56:52.578 <kernel> installGTK: setting cipher key (flags = 0x0)
+Fri May  3 18:56:52.578 <kernel> GTK-RSC:
+Fri May  3 18:56:52.578 [00000000] EB EA 33 00 00 00 
+Fri May  3 18:56:52.578 <kernel> GTK:
+Fri May  3 18:56:52.578 [00000000] 39 B4 AD AA 93 98 A4 38 C6 EE B6 35 A4 D4 30 DE 
+Fri May  3 18:56:52.578 <kernel> installGTK: GTK installed
+Fri May  3 19:28:08.616 <airportd[147]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 19:40:00.771 ***Starting Up***
+Fri May  3 19:40:01.028 <kernel> IO80211Controller::addSubscriptionForThisReporterFetchedOnTimer() Failed to addSubscription for group Interface p2p0 subgroup Data Packets driver 0xeeeda74f968bdba3 - data underrun
+Fri May  3 19:40:01.028 <kernel> IO80211InterfaceMonitor::configureSubscriptions() failed to add subscription
+Fri May  3 19:40:01.347 <kernel>  Creating all peerManager reporters
+Fri May  3 19:40:01.374 <airportd[149]> airportdProcessDLILEvent: en0 attached (up)
+Fri May  3 19:40:01.395 <kernel> wl0: setAWDL_PEER_TRAFFIC_REGISTRATION: active 0, roam_off: 0, err 0 roam_start_set 0 forced_roam_set 0
+Fri May  3 19:40:01.560 <kernel> Setting BTCoex Profile: band:8
+Fri May  3 19:40:01.560 <kernel> Profile[0]: mode:7; desense:0; desense_level:0; chain_power_offset:<kernel> 0,<kernel> 0,<kernel> 0,<kernel> 0,<kernel> 
+Fri May  3 19:40:01.560 <kernel> Profile[1]: mode:7; desense:0; desense_level:0; chain_power_offset:<kernel> 0,<kernel> 0,<kernel> -7,<kernel> 0,<kernel> 
+Fri May  3 19:40:01.560 <kernel> Profile[2]: mode:7; desense:1; desense_level:3; chain_power_offset:<kernel> 0,<kernel> 0,<kernel> -7,<kernel> 0,<kernel> 
+Fri May  3 19:40:01.560 <kernel> Setting BTCoex Profile: band:2
+Fri May  3 19:40:01.560 <kernel> Profile[0]: mode:0; desense:0; desense_level:0; chain_power_offset:<kernel> 0,<kernel> 0,<kernel> 0,<kernel> 0,<kernel> 
+Fri May  3 19:40:01.560 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Fri May  3 19:40:07.327 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Fri May  3 19:40:11.392 <kernel> parseRSNIE: groupCipherType = 5 pairwiseCipherType = 5 authSel = 2
+Fri May  3 19:40:11.392 <kernel> initWithInterfaceAndIE: _myMacAddress 18:65:90:d0:5a:99
+Fri May  3 19:40:11.392 <kernel> setPMK: PMK SET!
+Fri May  3 19:40:11.632 <kernel> Unexpected payload found for message 9, dataLen 0
+Fri May  3 19:40:11.632 <kernel> en0: Received EAPOL packet (length = 113)
+Fri May  3 19:40:11.632 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Fri May  3 19:40:11.632 <kernel> inputEAPOLFrame: Received message 1 of 4
+Fri May  3 19:40:11.632 <kernel> FULL RSN IE FOUND:
+Fri May  3 19:40:11.632 [00000000] 30 14 01 00 00 0F AC 04 01 00 00 0F AC 04 01 00 00 0F AC 02 00 00 
+Fri May  3 19:40:11.632 <kernel> storeFullRSNIE: getAP_IE_LIST returned 0
+Fri May  3 19:40:11.632 <kernel> PMK:
+Fri May  3 19:40:11.632 [00000000] E0 FF 05 30 3B A5 D6 F3 7E 16 19 F2 A6 15 E3 1A 69 3C 6B 37 6B 99 82 49 DB AB 7E 0E B2 44 
+Fri May  3 19:40:11.632 [0000001E] CB EA 
+Fri May  3 19:40:11.632 <kernel> TPTK:
+Fri May  3 19:40:11.632 [00000000] 49 28 D4 94 B0 37 38 A5 9D 65 AC D6 D5 C5 97 BB 3C BE 5A 9A 3E A4 8B 9B B5 BA C9 F7 1E 64 
+Fri May  3 19:40:11.632 [0000001E] 1C 84 86 20 08 5E 0E 05 48 E5 32 B9 F8 1A 14 7B 99 2D 00 00 00 00 00 00 00 00 00 00 00 00 
+Fri May  3 19:40:11.632 [0000003C] 00 00 00 00 
+Fri May  3 19:40:11.633 <kernel> KEY MIC:
+Fri May  3 19:40:11.633 [00000000] 93 67 AE 72 E5 94 5E CE 6F 6F 73 C7 E7 9F CA 4E 
+Fri May  3 19:40:11.633 <kernel> process1of4: sending replyPacket 135 bytes
+Fri May  3 19:40:11.640 <kernel> en0: Received EAPOL packet (length = 169)
+Fri May  3 19:40:11.642 <kernel> inputEAPOLFrame: 0 extra bytes present in EAPOL frame.
+Fri May  3 19:40:11.642 <kernel> inputEAPOLFrame: decrypting key data
+Fri May  3 19:40:11.642 <kernel> inputEAPOLFrame: Received message 3 of 4
+Fri May  3 19:40:11.642 <kernel> process3of4: Performing IE check.
+Fri May  3 19:40:11.642 <kernel> process3of4: sending replyPacket ( len = 113 ).
+Fri May  3 19:40:11.642 <kernel> process3of4: received pairwise GTK
+Fri May  3 19:40:11.642 <kernel> PTK Install Timer: Installing PTK
+Fri May  3 19:40:11.642 <kernel> PTK:
+Fri May  3 19:40:11.642 [00000000] 86 20 08 5E 0E 05 48 E5 32 B9 F8 1A 14 7B 99 2D 
+Fri May  3 19:40:11.642 <kernel> PTK Install Timer: Installing GTK
+Fri May  3 19:40:11.642 <kernel> installGTK: setting cipher key (flags = 0x0)
+Fri May  3 19:40:11.642 <kernel> GTK-RSC:
+Fri May  3 19:40:11.642 [00000000] 5F F5 33 00 00 00 
+Fri May  3 19:40:11.642 <kernel> GTK:
+Fri May  3 19:40:11.642 [00000000] 39 B4 AD AA 93 98 A4 38 C6 EE B6 35 A4 D4 30 DE 
+Fri May  3 19:40:11.642 <kernel> installGTK: GTK installed
+Fri May  3 19:40:14.392 <kernel> Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0
+Fri May  3 19:40:20.952 <kernel> AWDL Sync Enabled 1, data path state[1]
+Fri May  3 19:40:22.669 <airportd[149]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 19:40:24.427 <airportd[149]> _processIPv4Changes: ARP/NDP offloads disabled, not programming the offload
+Fri May  3 19:41:25.748 <kernel> AWDL Sync Enabled 0, data path state[1]
+Fri May  3 19:48:25.047 <kernel> AWDL Sync Enabled 1, data path state[1]
+Fri May  3 19:48:42.216 <kernel> AWDL Sync Enabled 0, data path state[1]

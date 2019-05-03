@@ -1,0 +1,1967 @@
+2018/10/09 11:31:04: Log created
+2018/10/09 11:31:04 [com.adobe.ARMDC.Communicator]: Launched ARMCommunicator...
+2018/10/09 11:31:04 [com.adobe.ARMDC.Communicator]: verifying with identifier com.adobe.ARMDC, trusted+generic apple certificate and adobe signatures
+2018/10/09 11:31:04 [com.adobe.ARMDC.Communicator]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier com.adobe.ARMDC and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app"
+)}
+2018/10/09 11:31:04 [com.adobe.ARMDC.SMJobBlessHelper]: Launched SMJobBlessHelper...
+2018/10/09 11:31:04 [com.adobe.ARMDC.SMJobBlessHelper]: ARM process found.
+2018/10/09 11:31:04 [com.adobe.ARMDC.SMJobBlessHelper]: Adobe ARM app-path is /Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app
+2018/10/09 11:31:04 [com.adobe.ARMDC.SMJobBlessHelper]: Adobe ARM id is 67929
+2018/10/09 11:31:04 [com.adobe.ARMDC.SMJobBlessHelper]: About to check for item existence at path /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2018/10/09 11:31:04 [com.adobe.ARMDC.SMJobBlessHelper]: Keeping a lookout for running ARM (pid:67929)
+2018/10/09 11:31:04 [com.adobe.ARMDC.SMJobBlessHelper]: moveToTemp returned /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2018/10/09 11:31:04 [com.adobe.ARMDC.SMJobBlessHelper]: CageFiles: attributes of directory {/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download} (before changing): {
+    NSFileCreationDate = "2018-10-09 02:30:58 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2018-10-09 02:31:03 +0000";
+    NSFileOwnerAccountID = 501;
+    NSFileOwnerAccountName = shoichiyamazaki;
+    NSFilePosixPermissions = 448;
+    NSFileReferenceCount = 6;
+    NSFileSize = 192;
+    NSFileSystemFileNumber = 8598242136;
+    NSFileSystemNumber = 16777220;
+    NSFileType = NSFileTypeDirectory;
+}
+2018/10/09 11:31:04 [com.adobe.ARMDC.SMJobBlessHelper]: CageFiles: new attributes of directory {/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download} (after changing): {
+    NSFileCreationDate = "2018-10-09 02:30:58 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2018-10-09 02:31:03 +0000";
+    NSFileOwnerAccountID = 4294967294;
+    NSFileOwnerAccountName = nobody;
+    NSFilePosixPermissions = 256;
+    NSFileReferenceCount = 6;
+    NSFileSize = 192;
+    NSFileSystemFileNumber = 8598242136;
+    NSFileSystemNumber = 16777220;
+    NSFileType = NSFileTypeDirectory;
+}
+2018/10/09 11:31:04 [com.adobe.ARMDC.SMJobBlessHelper]: cage files returned 1
+2018/10/09 11:31:04 [com.adobe.ARMDC.SMJobBlessHelper]: verifying with identifier ARMDCHammer, trusted+generic apple certificate and adobe signatures
+2018/10/09 11:31:04 [com.adobe.ARMDC.SMJobBlessHelper]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier ARMDCHammer and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer"
+)}
+2018/10/09 11:31:04 [com.adobe.ARMDC.SMJobBlessHelper]: codesign termination status:0, reason:1
+2018/10/09 11:31:04 [com.adobe.ARMDC.SMJobBlessHelper]: validate ARMHammer binary returned 1
+2018/10/09 11:31:04 [com.adobe.ARMDC.SMJobBlessHelper]: Launching hammer with path: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer
+2018/10/09 11:31:04 [com.adobe.ARMDC.SMJobBlessHelper]: About to launch task
+2018/10/09 11:31:04 [com.adobe.ARMDC.SMJobBlessHelper]: Launched ARMHammer task
+2018/10/09 11:31:04 [ARMDCHammer]: Launched ARMHammer...
+2018/10/09 11:31:04 [com.adobe.ARMDC.SMJobBlessHelper]: launch ARMHammer binary returned 1
+2018/10/09 11:31:04 [ARMDCHammer]: Launched tool from /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download with arguments : 1
+2018/10/09 11:31:04 [ARMDCHammer]: current directory path /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2018/10/09 11:31:04 [ARMDCHammer]: manifestDirectory: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests
+2018/10/09 11:31:04 [ARMDCHammer]: ARM process found.
+2018/10/09 11:31:04 [ARMDCHammer]: Adobe ARM app-path is /Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app
+2018/10/09 11:31:04 [ARMDCHammer]: manifestDirectory: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests
+2018/10/09 11:31:04 [ARMDCHammer]: Keeping a lookout for running ARM (pid:67929)
+2018/10/09 11:31:04 [ARMDCHammer]: Got one productManifest arm file {com.adobe.reader.dc.arm} .
+2018/10/09 11:31:04 [com.adobe.ARMDC.Communicator]: codesign termination status:0, reason:1
+2018/10/09 11:31:04 [ARMDCHammer]: Signing information of the updater : 
+
+2018/10/09 11:31:04 [ARMDCHammer]: Package "com.adobe.reader.dc.arm":
+   Status: signed by a certificate trusted by Mac OS X
+   Certificate Chain:
+    1. Developer ID Installer: Adobe Systems, Inc. (JQ525L2MZD)
+       SHA1 fingerprint: F8 32 AC 81 E4 A3 FE A7 19 8E 1C 00 34 A2 F5 B4 F1 A2 BB 55
+       -----------------------------------------------------------------------------
+    2. Developer ID Certification Authority
+       SHA1 fingerprint: 3B 16 6C 3B 7D C4 B7 51 C9 FE 2A FA B9 13 56 41 E3 88 E1 86
+       -----------------------------------------------------------------------------
+    3. Apple Root CA
+       SHA1 fingerprint: 61 1E 5B 66 2C 59 3A 08 FF 58 D1 4A E2 24 52 D1 98 DF 6C 60
+
+
+2018/10/09 11:31:04 [ARMDCHammer]: Signing verification Successful.
+2018/10/09 11:31:05 [ARMDCHammer]: Asset to be extracted: ReaderManifest.xml .
+2018/10/09 11:31:05 [ARMDCHammer]: ARMManifestSchemaParser starts parsing...
+2018/10/09 11:31:05 [ARMDCHammer]: ARMManifestSchemaParser ends parsing...
+2018/10/09 11:31:05 [ARMDCHammer]: Product manifest [file:///var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests/ReaderManifest.xml] parsing done.
+2018/10/09 11:31:05 [ARMDCHammer]: Product manifest [ReaderManifest.xml] parsing done.
+2018/10/09 11:31:05 [ARMDCHammer]: Sending kValidateNotification notification to ARM, percent complete: 0.00
+2018/10/09 11:31:05 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/09 11:31:05 [com.adobe.ARMDC.Communicator]: verifying with identifier ARMDCHammer, trusted+generic apple certificate and adobe signatures
+2018/10/09 11:31:05 [com.adobe.ARMDC.Communicator]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier ARMDCHammer and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer"
+)}
+2018/10/09 11:31:05 [com.adobe.ARMDC.Communicator]: codesign termination status:0, reason:1
+2018/10/09 11:31:06 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/09 11:31:07 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/09 11:31:08 [ARMDCHammer]: updaters directory is /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters
+2018/10/09 11:31:08 [ARMDCHammer]:  *** Checking update AcroRdrDCUpd1900820074_MUI_incr.pkg, at /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters.
+2018/10/09 11:31:09 [ARMDCHammer]: Hash information of the updater : 87fbfdbd2dabc2cdff2a36aef94a74876201da70f6d8aaaf0c9f02ef98158dbf */var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcroRdrDCUpd1900820074_MUI_incr.pkg
+
+2018/10/09 11:31:10 [ARMDCHammer]: Signing information of the updater : 
+
+2018/10/09 11:31:10 [ARMDCHammer]: Package "AcroRdrDCUpd1900820074_MUI_incr.pkg":
+   Status: signed by a certificate trusted by Mac OS X
+   Certificate Chain:
+    1. Developer ID Installer: Adobe Systems, Inc. (JQ525L2MZD)
+       SHA1 fingerprint: F8 32 AC 81 E4 A3 FE A7 19 8E 1C 00 34 A2 F5 B4 F1 A2 BB 55
+       -----------------------------------------------------------------------------
+    2. Developer ID Certification Authority
+       SHA1 fingerprint: 3B 16 6C 3B 7D C4 B7 51 C9 FE 2A FA B9 13 56 41 E3 88 E1 86
+       -----------------------------------------------------------------------------
+    3. Apple Root CA
+       SHA1 fingerprint: 61 1E 5B 66 2C 59 3A 08 FF 58 D1 4A E2 24 52 D1 98 DF 6C 60
+
+
+2018/10/09 11:31:10 [ARMDCHammer]: Signing verification Successful.
+2018/10/09 11:31:10 [ARMDCHammer]: Sending kValidateNotification notification to ARM, percent complete: 100.00
+2018/10/09 11:31:10 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/09 11:31:11 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/09 11:31:11 [ARMDCHammer]: Got install notification from ARM
+2018/10/09 11:31:12 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/09 11:31:13 [ARMDCHammer]: Validation is successful...
+2018/10/09 11:31:13 [ARMDCHammer]: Waiting for install notification from ARM...
+2018/10/09 11:31:13 [ARMDCHammer]: Got install notification from ARM, proceeding...
+2018/10/09 11:31:13 [ARMDCHammer]: Invoking updaters...
+2018/10/09 11:31:13 [ARMDCHammer]: Installing item exe_cmd_Patch_Incr.
+2018/10/09 11:31:13 [ARMDCHammer]: Commandline post expansion for debug: -pkg:/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcroRdrDCUpd1900820074_MUI_incr.pkg:-target:/
+2018/10/09 11:31:13 [ARMDCHammer]: Installing update to com.adobe.reader.dc: -pkg:/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcroRdrDCUpd1900820074_MUI_incr.pkg:-target:/
+2018/10/09 11:31:13 [ARMDCHammer]: (
+    "-pkg",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcroRdrDCUpd1900820074_MUI_incr.pkg",
+    "-target",
+    "/"
+)
+2018/10/09 11:31:55 [ARMDCHammer]: Sending kInstallNotification notification to ARM, percent complete: 100.00
+2018/10/09 11:31:55 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/09 11:31:56 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/09 11:31:57 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/09 11:31:59 [ARMDCHammer]: Sending install notification to ARM, percent complete: 100.000000
+2018/10/09 11:31:59 [ARMDCHammer]: Patch installer standard output : 
+
+2018/10/09 11:31:59 [ARMDCHammer]: installer: Package name is Adobe Acrobat Reader DC (19.008.20074)
+installer: Upgrading at base path /
+installer: The upgrade was successful.
+
+2018/10/09 11:31:59 [ARMDCHammer]: Successfully updated.
+2018/10/09 11:31:59 [ARMDCHammer]: About to delete ARM Hammer directory at path{/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download}
+2018/10/09 11:31:59 [com.adobe.ARMDC.SMJobBlessHelper]: ARM process not running, quitting...
+2018/10/09 11:31:59 [ARMDCHammer]: Invalidated the connection between ARM Communicator and ARMHammer...
+2018/10/09 11:31:59 [ARMDCHammer]: ARM process not running, quitting...
+2018/10/09 11:32:02 [ARMDCHammer]: Quitting ARMHammer...
+2018/10/17 17:57:07 [com.adobe.ARMDC.SMJobBlessHelper]: Launched SMJobBlessHelper...
+2018/10/17 17:57:07 [com.adobe.ARMDC.Communicator]: Launched ARMCommunicator...
+2018/10/17 17:57:07 [com.adobe.ARMDC.Communicator]: verifying with identifier com.adobe.ARMDC, trusted+generic apple certificate and adobe signatures
+2018/10/17 17:57:07 [com.adobe.ARMDC.Communicator]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier com.adobe.ARMDC and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app"
+)}
+2018/10/17 17:57:07 [com.adobe.ARMDC.SMJobBlessHelper]: ARM process found.
+2018/10/17 17:57:07 [com.adobe.ARMDC.SMJobBlessHelper]: Adobe ARM app-path is /Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app
+2018/10/17 17:57:07 [com.adobe.ARMDC.SMJobBlessHelper]: Adobe ARM id is 43013
+2018/10/17 17:57:07 [com.adobe.ARMDC.SMJobBlessHelper]: About to check for item existence at path /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2018/10/17 17:57:08 [com.adobe.ARMDC.SMJobBlessHelper]: Keeping a lookout for running ARM (pid:43013)
+2018/10/17 17:57:08 [com.adobe.ARMDC.SMJobBlessHelper]: moveToTemp returned /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2018/10/17 17:57:08 [com.adobe.ARMDC.SMJobBlessHelper]: CageFiles: attributes of directory {/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download} (before changing): {
+    NSFileCreationDate = "2018-10-17 08:55:41 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2018-10-17 08:57:06 +0000";
+    NSFileOwnerAccountID = 501;
+    NSFileOwnerAccountName = shoichiyamazaki;
+    NSFilePosixPermissions = 448;
+    NSFileReferenceCount = 6;
+    NSFileSize = 192;
+    NSFileSystemFileNumber = 8598908239;
+    NSFileSystemNumber = 16777220;
+    NSFileType = NSFileTypeDirectory;
+}
+2018/10/17 17:57:08 [com.adobe.ARMDC.SMJobBlessHelper]: CageFiles: new attributes of directory {/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download} (after changing): {
+    NSFileCreationDate = "2018-10-17 08:55:41 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2018-10-17 08:57:06 +0000";
+    NSFileOwnerAccountID = 4294967294;
+    NSFileOwnerAccountName = nobody;
+    NSFilePosixPermissions = 256;
+    NSFileReferenceCount = 6;
+    NSFileSize = 192;
+    NSFileSystemFileNumber = 8598908239;
+    NSFileSystemNumber = 16777220;
+    NSFileType = NSFileTypeDirectory;
+}
+2018/10/17 17:57:09 [com.adobe.ARMDC.SMJobBlessHelper]: cage files returned 1
+2018/10/17 17:57:09 [com.adobe.ARMDC.SMJobBlessHelper]: verifying with identifier ARMDCHammer, trusted+generic apple certificate and adobe signatures
+2018/10/17 17:57:09 [com.adobe.ARMDC.SMJobBlessHelper]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier ARMDCHammer and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer"
+)}
+2018/10/17 17:57:09 [com.adobe.ARMDC.SMJobBlessHelper]: codesign termination status:0, reason:1
+2018/10/17 17:57:09 [com.adobe.ARMDC.SMJobBlessHelper]: validate ARMHammer binary returned 1
+2018/10/17 17:57:09 [com.adobe.ARMDC.SMJobBlessHelper]: Launching hammer with path: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer
+2018/10/17 17:57:09 [com.adobe.ARMDC.SMJobBlessHelper]: About to launch task
+2018/10/17 17:57:09 [com.adobe.ARMDC.SMJobBlessHelper]: Launched ARMHammer task
+2018/10/17 17:57:09 [com.adobe.ARMDC.SMJobBlessHelper]: launch ARMHammer binary returned 1
+2018/10/17 17:57:09 [ARMDCHammer]: Launched ARMHammer...
+2018/10/17 17:57:09 [ARMDCHammer]: Launched tool from /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download with arguments : 1
+2018/10/17 17:57:09 [ARMDCHammer]: current directory path /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2018/10/17 17:57:09 [ARMDCHammer]: manifestDirectory: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests
+2018/10/17 17:57:09 [ARMDCHammer]: ARM process found.
+2018/10/17 17:57:09 [ARMDCHammer]: Adobe ARM app-path is /Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app
+2018/10/17 17:57:09 [ARMDCHammer]: manifestDirectory: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests
+2018/10/17 17:57:09 [ARMDCHammer]: Got one productManifest arm file {com.adobe.acrobat.dc.arm} .
+2018/10/17 17:57:09 [ARMDCHammer]: Keeping a lookout for running ARM (pid:43013)
+2018/10/17 17:57:10 [com.adobe.ARMDC.Communicator]: codesign termination status:0, reason:1
+2018/10/17 17:57:10 [ARMDCHammer]: Signing information of the updater : 
+
+2018/10/17 17:57:10 [ARMDCHammer]: Package "com.adobe.acrobat.dc.arm":
+   Status: signed by a certificate trusted by Mac OS X
+   Certificate Chain:
+    1. Developer ID Installer: Adobe Systems, Inc. (JQ525L2MZD)
+       SHA1 fingerprint: F8 32 AC 81 E4 A3 FE A7 19 8E 1C 00 34 A2 F5 B4 F1 A2 BB 55
+       -----------------------------------------------------------------------------
+    2. Developer ID Certification Authority
+       SHA1 fingerprint: 3B 16 6C 3B 7D C4 B7 51 C9 FE 2A FA B9 13 56 41 E3 88 E1 86
+       -----------------------------------------------------------------------------
+    3. Apple Root CA
+       SHA1 fingerprint: 61 1E 5B 66 2C 59 3A 08 FF 58 D1 4A E2 24 52 D1 98 DF 6C 60
+
+
+2018/10/17 17:57:10 [ARMDCHammer]: Signing verification Successful.
+2018/10/17 17:57:10 [ARMDCHammer]: Asset to be extracted: AcrobatManifest.xml .
+2018/10/17 17:57:11 [ARMDCHammer]: ARMManifestSchemaParser starts parsing...
+2018/10/17 17:57:11 [ARMDCHammer]: ARMManifestSchemaParser ends parsing...
+2018/10/17 17:57:11 [ARMDCHammer]: Product manifest [file:///var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests/AcrobatManifest.xml] parsing done.
+2018/10/17 17:57:11 [ARMDCHammer]: Product manifest [AcrobatManifest.xml] parsing done.
+2018/10/17 17:57:11 [ARMDCHammer]: Sending kValidateNotification notification to ARM, percent complete: 0.00
+2018/10/17 17:57:11 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/17 17:57:11 [com.adobe.ARMDC.Communicator]: verifying with identifier ARMDCHammer, trusted+generic apple certificate and adobe signatures
+2018/10/17 17:57:11 [com.adobe.ARMDC.Communicator]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier ARMDCHammer and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer"
+)}
+2018/10/17 17:57:11 [com.adobe.ARMDC.Communicator]: codesign termination status:0, reason:1
+2018/10/17 17:57:12 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/17 17:57:13 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/17 17:57:14 [ARMDCHammer]: updaters directory is /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters
+2018/10/17 17:57:14 [ARMDCHammer]:  *** Checking update AcrobatDCUpd1900820074_incr.pkg, at /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters.
+2018/10/17 17:57:17 [ARMDCHammer]: Hash information of the updater : f89b0ab007cd1d820b9988b27e83f64c419f730ce3c4ea798bcde0d07ec1e236 */var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcrobatDCUpd1900820074_incr.pkg
+
+2018/10/17 17:57:18 [ARMDCHammer]: Signing information of the updater : 
+
+2018/10/17 17:57:18 [ARMDCHammer]: Package "AcrobatDCUpd1900820074_incr.pkg":
+   Status: signed by a certificate trusted by Mac OS X
+   Certificate Chain:
+    1. Developer ID Installer: Adobe Systems, Inc. (JQ525L2MZD)
+       SHA1 fingerprint: F8 32 AC 81 E4 A3 FE A7 19 8E 1C 00 34 A2 F5 B4 F1 A2 BB 55
+       -----------------------------------------------------------------------------
+    2. Developer ID Certification Authority
+       SHA1 fingerprint: 3B 16 6C 3B 7D C4 B7 51 C9 FE 2A FA B9 13 56 41 E3 88 E1 86
+       -----------------------------------------------------------------------------
+    3. Apple Root CA
+       SHA1 fingerprint: 61 1E 5B 66 2C 59 3A 08 FF 58 D1 4A E2 24 52 D1 98 DF 6C 60
+
+
+2018/10/17 17:57:18 [ARMDCHammer]: Signing verification Successful.
+2018/10/17 17:57:18 [ARMDCHammer]: Sending kValidateNotification notification to ARM, percent complete: 100.00
+2018/10/17 17:57:18 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/17 17:57:19 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/17 17:57:20 [ARMDCHammer]: Got install notification from ARM
+2018/10/17 17:57:20 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/17 17:57:21 [ARMDCHammer]: Validation is successful...
+2018/10/17 17:57:21 [ARMDCHammer]: Waiting for install notification from ARM...
+2018/10/17 17:57:21 [ARMDCHammer]: Got install notification from ARM, proceeding...
+2018/10/17 17:57:21 [ARMDCHammer]: Invoking updaters...
+2018/10/17 17:57:21 [ARMDCHammer]: Installing item exe_cmd_Patch_Incr.
+2018/10/17 17:57:21 [ARMDCHammer]: Commandline post expansion for debug: -pkg:/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcrobatDCUpd1900820074_incr.pkg:-target:/
+2018/10/17 17:57:21 [ARMDCHammer]: Installing update to com.adobe.acrobat.dc: -pkg:/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcrobatDCUpd1900820074_incr.pkg:-target:/
+2018/10/17 17:57:21 [ARMDCHammer]: (
+    "-pkg",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcrobatDCUpd1900820074_incr.pkg",
+    "-target",
+    "/"
+)
+2018/10/17 17:58:04 [ARMDCHammer]: ARM process not running, quitting...
+running, quitting...
+2018/10/17 18:00:07 [ARMDCHammer]: Sending kInstallNotification notification to ARM, percent complete: 100.00
+2018/10/17 18:00:07 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/17 18:00:08 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/17 18:00:09 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/17 18:00:11 [ARMDCHammer]: Sending install notification to ARM, percent complete: 100.000000
+2018/10/17 18:00:11 [ARMDCHammer]: Patch installer standard output : 
+
+2018/10/17 18:00:11 [ARMDCHammer]: installer: Package name is Adobe Acrobat DC (19.008.20074)
+installer: Upgrading at base path /
+installer: The upgrade was successful.
+
+2018/10/17 18:00:11 [ARMDCHammer]: Successfully updated.
+2018/10/17 18:00:11 [ARMDCHammer]: About to delete ARM Hammer directory at path{/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download}
+2018/10/17 18:00:11 [ARMDCHammer]: Invalidated the connection between ARM Communicator and ARMHammer...
+2018/10/17 18:00:14 [ARMDCHammer]: Quitting ARMHammer...
+2018/10/24 20:23:03 [com.adobe.ARMDC.SMJobBlessHelper]: Launched SMJobBlessHelper...
+2018/10/24 20:23:03 [com.adobe.ARMDC.Communicator]: verifying with identifier com.adobe.ARMDC, trusted+generic apple certificate and adobe signatures
+2018/10/24 20:23:03 [com.adobe.ARMDC.SMJobBlessHelper]: ARM process found.
+2018/10/24 20:23:04 [com.adobe.ARMDC.Communicator]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier com.adobe.ARMDC and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app"
+)}
+2018/10/24 20:23:04 [com.adobe.ARMDC.SMJobBlessHelper]: Adobe ARM app-path is /Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app
+2018/10/24 20:23:04 [com.adobe.ARMDC.SMJobBlessHelper]: Adobe ARM id is 2009
+2018/10/24 20:23:04 [com.adobe.ARMDC.SMJobBlessHelper]: About to check for item existence at path /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2018/10/24 20:23:04 [com.adobe.ARMDC.SMJobBlessHelper]: moveToTemp returned /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2018/10/24 20:23:04 [com.adobe.ARMDC.SMJobBlessHelper]: Keeping a lookout for running ARM (pid:2009)
+2018/10/24 20:23:04 [com.adobe.ARMDC.SMJobBlessHelper]: CageFiles: attributes of directory {/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download} (before changing): {
+    NSFileCreationDate = "2018-10-24 11:22:51 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2018-10-24 11:23:03 +0000";
+    NSFileOwnerAccountID = 501;
+    NSFileOwnerAccountName = shoichiyamazaki;
+    NSFilePosixPermissions = 448;
+    NSFileReferenceCount = 6;
+    NSFileSize = 192;
+    NSFileSystemFileNumber = 8599335954;
+    NSFileSystemNumber = 16777220;
+    NSFileType = NSFileTypeDirectory;
+}
+2018/10/24 20:23:04 [com.adobe.ARMDC.SMJobBlessHelper]: CageFiles: new attributes of directory {/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download} (after changing): {
+    NSFileCreationDate = "2018-10-24 11:22:51 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2018-10-24 11:23:03 +0000";
+    NSFileOwnerAccountID = 4294967294;
+    NSFileOwnerAccountName = nobody;
+    NSFilePosixPermissions = 256;
+    NSFileReferenceCount = 6;
+    NSFileSize = 192;
+    NSFileSystemFileNumber = 8599335954;
+    NSFileSystemNumber = 16777220;
+    NSFileType = NSFileTypeDirectory;
+}
+2018/10/24 20:23:04 [com.adobe.ARMDC.SMJobBlessHelper]: cage files returned 1
+2018/10/24 20:23:04 [com.adobe.ARMDC.SMJobBlessHelper]: verifying with identifier ARMDCHammer, trusted+generic apple certificate and adobe signatures
+2018/10/24 20:23:04 [com.adobe.ARMDC.SMJobBlessHelper]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier ARMDCHammer and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer"
+)}
+2018/10/24 20:23:04 [com.adobe.ARMDC.SMJobBlessHelper]: codesign termination status:0, reason:1
+2018/10/24 20:23:04 [com.adobe.ARMDC.SMJobBlessHelper]: validate ARMHammer binary returned 1
+2018/10/24 20:23:04 [com.adobe.ARMDC.SMJobBlessHelper]: Launching hammer with path: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer
+2018/10/24 20:23:04 [com.adobe.ARMDC.SMJobBlessHelper]: About to launch task
+2018/10/24 20:23:04 [com.adobe.ARMDC.SMJobBlessHelper]: Launched ARMHammer task
+2018/10/24 20:23:04 [com.adobe.ARMDC.SMJobBlessHelper]: launch ARMHammer binary returned 1
+2018/10/24 20:23:04 [ARMDCHammer]: Launched ARMHammer...
+2018/10/24 20:23:04 [ARMDCHammer]: Launched tool from /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download with arguments : 1
+2018/10/24 20:23:04 [ARMDCHammer]: current directory path /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2018/10/24 20:23:04 [ARMDCHammer]: manifestDirectory: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests
+2018/10/24 20:23:04 [com.adobe.ARMDC.Communicator]: codesign termination status:0, reason:1
+2018/10/24 20:23:04 [ARMDCHammer]: ARM process found.
+2018/10/24 20:23:04 [ARMDCHammer]: Adobe ARM app-path is /Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app
+2018/10/24 20:23:04 [ARMDCHammer]: manifestDirectory: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests
+2018/10/24 20:23:04 [ARMDCHammer]: Got one productManifest arm file {com.adobe.acrobat.dc.arm} .
+2018/10/24 20:23:04 [ARMDCHammer]: Keeping a lookout for running ARM (pid:2009)
+2018/10/24 20:23:05 [ARMDCHammer]: Signing information of the updater : 
+
+2018/10/24 20:23:05 [ARMDCHammer]: Package "com.adobe.acrobat.dc.arm":
+   Status: signed by a certificate trusted by Mac OS X
+   Certificate Chain:
+    1. Developer ID Installer: Adobe Systems, Inc. (JQ525L2MZD)
+       SHA1 fingerprint: F8 32 AC 81 E4 A3 FE A7 19 8E 1C 00 34 A2 F5 B4 F1 A2 BB 55
+       -----------------------------------------------------------------------------
+    2. Developer ID Certification Authority
+       SHA1 fingerprint: 3B 16 6C 3B 7D C4 B7 51 C9 FE 2A FA B9 13 56 41 E3 88 E1 86
+       -----------------------------------------------------------------------------
+    3. Apple Root CA
+       SHA1 fingerprint: 61 1E 5B 66 2C 59 3A 08 FF 58 D1 4A E2 24 52 D1 98 DF 6C 60
+
+
+2018/10/24 20:23:05 [ARMDCHammer]: Signing verification Successful.
+2018/10/24 20:23:05 [ARMDCHammer]: Asset to be extracted: AcrobatManifest.xml .
+2018/10/24 20:23:05 [ARMDCHammer]: ARMManifestSchemaParser starts parsing...
+2018/10/24 20:23:05 [ARMDCHammer]: ARMManifestSchemaParser ends parsing...
+2018/10/24 20:23:05 [ARMDCHammer]: Product manifest [file:///var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests/AcrobatManifest.xml] parsing done.
+2018/10/24 20:23:05 [ARMDCHammer]: Product manifest [AcrobatManifest.xml] parsing done.
+2018/10/24 20:23:05 [ARMDCHammer]: Sending kValidateNotification notification to ARM, percent complete: 0.00
+2018/10/24 20:23:05 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/24 20:23:05 [com.adobe.ARMDC.Communicator]: verifying with identifier ARMDCHammer, trusted+generic apple certificate and adobe signatures
+2018/10/24 20:23:05 [com.adobe.ARMDC.Communicator]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier ARMDCHammer and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer"
+)}
+2018/10/24 20:23:05 [com.adobe.ARMDC.Communicator]: codesign termination status:0, reason:1
+2018/10/24 20:23:06 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/24 20:23:07 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/24 20:23:09 [ARMDCHammer]: updaters directory is /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters
+2018/10/24 20:23:09 [ARMDCHammer]:  *** Checking update AcrobatDCUpd1900820080_incr.pkg, at /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters.
+2018/10/24 20:23:10 [ARMDCHammer]: Hash information of the updater : 839651d40fdbcc76e7735c64b6535b377d7f9a595502e8cd22580a782013cce1 */var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcrobatDCUpd1900820080_incr.pkg
+
+2018/10/24 20:23:11 [ARMDCHammer]: Signing information of the updater : 
+
+2018/10/24 20:23:11 [ARMDCHammer]: Package "AcrobatDCUpd1900820080_incr.pkg":
+   Status: signed by a certificate trusted by Mac OS X
+   Certificate Chain:
+    1. Developer ID Installer: Adobe Systems, Inc. (JQ525L2MZD)
+       SHA1 fingerprint: F8 32 AC 81 E4 A3 FE A7 19 8E 1C 00 34 A2 F5 B4 F1 A2 BB 55
+       -----------------------------------------------------------------------------
+    2. Developer ID Certification Authority
+       SHA1 fingerprint: 3B 16 6C 3B 7D C4 B7 51 C9 FE 2A FA B9 13 56 41 E3 88 E1 86
+       -----------------------------------------------------------------------------
+    3. Apple Root CA
+       SHA1 fingerprint: 61 1E 5B 66 2C 59 3A 08 FF 58 D1 4A E2 24 52 D1 98 DF 6C 60
+
+
+2018/10/24 20:23:11 [ARMDCHammer]: Signing verification Successful.
+2018/10/24 20:23:11 [ARMDCHammer]: Sending kValidateNotification notification to ARM, percent complete: 100.00
+2018/10/24 20:23:11 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/24 20:23:12 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/24 20:23:12 [ARMDCHammer]: Got install notification from ARM
+2018/10/24 20:23:13 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/24 20:23:15 [ARMDCHammer]: Validation is successful...
+2018/10/24 20:23:15 [ARMDCHammer]: Waiting for install notification from ARM...
+2018/10/24 20:23:15 [ARMDCHammer]: Got install notification from ARM, proceeding...
+2018/10/24 20:23:15 [ARMDCHammer]: Invoking updaters...
+2018/10/24 20:23:15 [ARMDCHammer]: Installing item exe_cmd_Patch_Incr.
+2018/10/24 20:23:15 [ARMDCHammer]: Commandline post expansion for debug: -pkg:/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcrobatDCUpd1900820080_incr.pkg:-target:/
+2018/10/24 20:23:15 [ARMDCHammer]: Installing update to com.adobe.acrobat.dc: -pkg:/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcrobatDCUpd1900820080_incr.pkg:-target:/
+2018/10/24 20:23:15 [ARMDCHammer]: (
+    "-pkg",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcrobatDCUpd1900820080_incr.pkg",
+    "-target",
+    "/"
+)
+2018/10/24 20:27:17 [ARMDCHammer]: Sending kInstallNotification notification to ARM, percent complete: 100.00
+2018/10/24 20:27:17 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/24 20:27:18 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/24 20:27:19 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/24 20:27:20 [ARMDCHammer]: Sending install notification to ARM, percent complete: 100.000000
+2018/10/24 20:27:20 [ARMDCHammer]: Patch installer standard output : 
+
+2018/10/24 20:27:20 [ARMDCHammer]: installer: Package name is Adobe Acrobat DC (19.008.20080)
+installer: Upgrading at base path /
+installer: The upgrade was successful.
+
+2018/10/24 20:27:20 [ARMDCHammer]: Successfully updated.
+2018/10/24 20:27:20 [ARMDCHammer]: About to delete ARM Hammer directory at path{/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download}
+2018/10/24 20:27:20 [ARMDCHammer]: Invalidated the connection between ARM Communicator and ARMHammer...
+2018/10/24 20:27:21 [com.adobe.ARMDC.SMJobBlessHelper]: ARM process not running, quitting...
+2018/10/24 20:27:21 [ARMDCHammer]: ARM process not running, quitting...
+2018/10/24 20:27:23 [ARMDCHammer]: Quitting ARMHammer...
+2018/10/24 23:56:21 [com.adobe.ARMDC.Communicator]: verifying with identifier com.adobe.ARMDC, trusted+generic apple certificate and adobe signatures
+2018/10/24 23:56:21 [com.adobe.ARMDC.SMJobBlessHelper]: ARM process found.
+2018/10/24 23:56:21 [com.adobe.ARMDC.Communicator]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier com.adobe.ARMDC and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app"
+)}
+2018/10/24 23:56:21 [com.adobe.ARMDC.SMJobBlessHelper]: Adobe ARM app-path is /Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app
+2018/10/24 23:56:21 [com.adobe.ARMDC.SMJobBlessHelper]: Adobe ARM id is 7171
+2018/10/24 23:56:21 [com.adobe.ARMDC.SMJobBlessHelper]: About to check for item existence at path /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2018/10/24 23:56:21 [com.adobe.ARMDC.SMJobBlessHelper]: Keeping a lookout for running ARM (pid:7171)
+2018/10/24 23:56:21 [com.adobe.ARMDC.SMJobBlessHelper]: moveToTemp returned /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2018/10/24 23:56:21 [com.adobe.ARMDC.SMJobBlessHelper]: CageFiles: attributes of directory {/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download} (before changing): {
+    NSFileCreationDate = "2018-10-24 14:56:14 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2018-10-24 14:56:21 +0000";
+    NSFileOwnerAccountID = 501;
+    NSFileOwnerAccountName = shoichiyamazaki;
+    NSFilePosixPermissions = 448;
+    NSFileReferenceCount = 6;
+    NSFileSize = 192;
+    NSFileSystemFileNumber = 8599377132;
+    NSFileSystemNumber = 16777220;
+    NSFileType = NSFileTypeDirectory;
+}
+2018/10/24 23:56:21 [com.adobe.ARMDC.SMJobBlessHelper]: CageFiles: new attributes of directory {/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download} (after changing): {
+    NSFileCreationDate = "2018-10-24 14:56:14 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2018-10-24 14:56:21 +0000";
+    NSFileOwnerAccountID = 4294967294;
+    NSFileOwnerAccountName = nobody;
+    NSFilePosixPermissions = 256;
+    NSFileReferenceCount = 6;
+    NSFileSize = 192;
+    NSFileSystemFileNumber = 8599377132;
+    NSFileSystemNumber = 16777220;
+    NSFileType = NSFileTypeDirectory;
+}
+2018/10/24 23:56:21 [com.adobe.ARMDC.SMJobBlessHelper]: cage files returned 1
+2018/10/24 23:56:21 [com.adobe.ARMDC.SMJobBlessHelper]: verifying with identifier ARMDCHammer, trusted+generic apple certificate and adobe signatures
+2018/10/24 23:56:21 [com.adobe.ARMDC.SMJobBlessHelper]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier ARMDCHammer and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer"
+)}
+2018/10/24 23:56:21 [com.adobe.ARMDC.SMJobBlessHelper]: codesign termination status:0, reason:1
+2018/10/24 23:56:21 [com.adobe.ARMDC.SMJobBlessHelper]: validate ARMHammer binary returned 1
+2018/10/24 23:56:21 [com.adobe.ARMDC.SMJobBlessHelper]: Launching hammer with path: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer
+2018/10/24 23:56:21 [com.adobe.ARMDC.SMJobBlessHelper]: About to launch task
+2018/10/24 23:56:21 [com.adobe.ARMDC.SMJobBlessHelper]: Launched ARMHammer task
+2018/10/24 23:56:21 [com.adobe.ARMDC.SMJobBlessHelper]: launch ARMHammer binary returned 1
+2018/10/24 23:56:21 [com.adobe.ARMDC.Communicator]: codesign termination status:0, reason:1
+2018/10/24 23:56:21 [ARMDCHammer]: Launched ARMHammer...
+2018/10/24 23:56:21 [ARMDCHammer]: Launched tool from /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download with arguments : 1
+2018/10/24 23:56:21 [ARMDCHammer]: current directory path /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2018/10/24 23:56:21 [ARMDCHammer]: manifestDirectory: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests
+2018/10/24 23:56:21 [ARMDCHammer]: ARM process found.
+2018/10/24 23:56:21 [ARMDCHammer]: Adobe ARM app-path is /Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app
+2018/10/24 23:56:21 [ARMDCHammer]: manifestDirectory: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests
+2018/10/24 23:56:21 [ARMDCHammer]: Got one productManifest arm file {com.adobe.reader.dc.arm} .
+2018/10/24 23:56:21 [ARMDCHammer]: Keeping a lookout for running ARM (pid:7171)
+2018/10/24 23:56:21 [ARMDCHammer]: Signing information of the updater : 
+
+2018/10/24 23:56:21 [ARMDCHammer]: Package "com.adobe.reader.dc.arm":
+   Status: signed by a certificate trusted by Mac OS X
+   Certificate Chain:
+    1. Developer ID Installer: Adobe Systems, Inc. (JQ525L2MZD)
+       SHA1 fingerprint: F8 32 AC 81 E4 A3 FE A7 19 8E 1C 00 34 A2 F5 B4 F1 A2 BB 55
+       -----------------------------------------------------------------------------
+    2. Developer ID Certification Authority
+       SHA1 fingerprint: 3B 16 6C 3B 7D C4 B7 51 C9 FE 2A FA B9 13 56 41 E3 88 E1 86
+       -----------------------------------------------------------------------------
+    3. Apple Root CA
+       SHA1 fingerprint: 61 1E 5B 66 2C 59 3A 08 FF 58 D1 4A E2 24 52 D1 98 DF 6C 60
+
+
+2018/10/24 23:56:21 [ARMDCHammer]: Signing verification Successful.
+2018/10/24 23:56:21 [ARMDCHammer]: Asset to be extracted: ReaderManifest.xml .
+2018/10/24 23:56:22 [ARMDCHammer]: ARMManifestSchemaParser starts parsing...
+2018/10/24 23:56:22 [ARMDCHammer]: ARMManifestSchemaParser ends parsing...
+2018/10/24 23:56:22 [ARMDCHammer]: Product manifest [file:///var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests/ReaderManifest.xml] parsing done.
+2018/10/24 23:56:22 [ARMDCHammer]: Product manifest [ReaderManifest.xml] parsing done.
+2018/10/24 23:56:22 [ARMDCHammer]: Sending kValidateNotification notification to ARM, percent complete: 0.00
+2018/10/24 23:56:22 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/24 23:56:22 [com.adobe.ARMDC.Communicator]: verifying with identifier ARMDCHammer, trusted+generic apple certificate and adobe signatures
+2018/10/24 23:56:22 [com.adobe.ARMDC.Communicator]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier ARMDCHammer and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer"
+)}
+2018/10/24 23:56:22 [com.adobe.ARMDC.Communicator]: codesign termination status:0, reason:1
+2018/10/24 23:56:23 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/24 23:56:24 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/24 23:56:25 [ARMDCHammer]: updaters directory is /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters
+2018/10/24 23:56:25 [ARMDCHammer]:  *** Checking update AcroRdrDCUpd1900820080_MUI_incr.pkg, at /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters.
+2018/10/24 23:56:25 [ARMDCHammer]: Hash information of the updater : f561044d0e81e7f46add41ef4876e982f4f0b0648111a6b149070540d6a9f063 */var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcroRdrDCUpd1900820080_MUI_incr.pkg
+
+2018/10/24 23:56:26 [ARMDCHammer]: Signing information of the updater : 
+
+2018/10/24 23:56:26 [ARMDCHammer]: Package "AcroRdrDCUpd1900820080_MUI_incr.pkg":
+   Status: signed by a certificate trusted by Mac OS X
+   Certificate Chain:
+    1. Developer ID Installer: Adobe Systems, Inc. (JQ525L2MZD)
+       SHA1 fingerprint: F8 32 AC 81 E4 A3 FE A7 19 8E 1C 00 34 A2 F5 B4 F1 A2 BB 55
+       -----------------------------------------------------------------------------
+    2. Developer ID Certification Authority
+       SHA1 fingerprint: 3B 16 6C 3B 7D C4 B7 51 C9 FE 2A FA B9 13 56 41 E3 88 E1 86
+       -----------------------------------------------------------------------------
+    3. Apple Root CA
+       SHA1 fingerprint: 61 1E 5B 66 2C 59 3A 08 FF 58 D1 4A E2 24 52 D1 98 DF 6C 60
+
+
+2018/10/24 23:56:26 [ARMDCHammer]: Signing verification Successful.
+2018/10/24 23:56:26 [ARMDCHammer]: Sending kValidateNotification notification to ARM, percent complete: 100.00
+2018/10/24 23:56:26 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/24 23:56:27 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/24 23:56:28 [ARMDCHammer]: Got install notification from ARM
+2018/10/24 23:56:28 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/24 23:56:29 [ARMDCHammer]: Validation is successful...
+2018/10/24 23:56:29 [ARMDCHammer]: Waiting for install notification from ARM...
+2018/10/24 23:56:29 [ARMDCHammer]: Got install notification from ARM, proceeding...
+2018/10/24 23:56:29 [ARMDCHammer]: Invoking updaters...
+2018/10/24 23:56:29 [ARMDCHammer]: Installing item exe_cmd_Patch_Incr.
+2018/10/24 23:56:29 [ARMDCHammer]: Commandline post expansion for debug: -pkg:/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcroRdrDCUpd1900820080_MUI_incr.pkg:-target:/
+2018/10/24 23:56:29 [ARMDCHammer]: Installing update to com.adobe.reader.dc: -pkg:/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcroRdrDCUpd1900820080_MUI_incr.pkg:-target:/
+2018/10/24 23:56:29 [ARMDCHammer]: (
+    "-pkg",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcroRdrDCUpd1900820080_MUI_incr.pkg",
+    "-target",
+    "/"
+)
+2018/10/24 23:56:55 [ARMDCHammer]: Sending kInstallNotification notification to ARM, percent complete: 100.00
+2018/10/24 23:56:55 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/24 23:56:56 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/24 23:56:57 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/10/24 23:56:58 [ARMDCHammer]: Sending install notification to ARM, percent complete: 100.000000
+2018/10/24 23:56:58 [ARMDCHammer]: Patch installer standard output : 
+
+2018/10/24 23:56:58 [ARMDCHammer]: installer: Package name is Adobe Acrobat Reader DC (19.008.20080)
+installer: Upgrading at base path /
+installer: The upgrade was successful.
+
+2018/10/24 23:56:58 [ARMDCHammer]: Successfully updated.
+2018/10/24 23:56:58 [ARMDCHammer]: About to delete ARM Hammer directory at path{/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download}
+2018/10/24 23:56:58 [ARMDCHammer]: Invalidated the connection between ARM Communicator and ARMHammer...
+2018/10/24 23:56:59 [ARMDCHammer]: ARM process not running, quitting...
+running, quitting...
+2018/10/24 23:57:02 [ARMDCHammer]: Quitting ARMHammer...
+2018/12/14 10:52:54 [com.adobe.ARMDC.Communicator]: Launched ARMCommunicator...
+r...
+2018/12/14 10:52:54 [com.adobe.ARMDC.Communicator]: verifying with identifier com.adobe.ARMDC, trusted+generic apple certificate and adobe signatures
+2018/12/14 10:52:54 [com.adobe.ARMDC.Communicator]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier com.adobe.ARMDC and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app"
+)}
+2018/12/14 10:52:54 [com.adobe.ARMDC.SMJobBlessHelper]: ARM process found.
+2018/12/14 10:52:54 [com.adobe.ARMDC.SMJobBlessHelper]: Adobe ARM app-path is /Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app
+2018/12/14 10:52:54 [com.adobe.ARMDC.SMJobBlessHelper]: Adobe ARM id is 59853
+2018/12/14 10:52:54 [com.adobe.ARMDC.SMJobBlessHelper]: About to check for item existence at path /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2018/12/14 10:52:54 [com.adobe.ARMDC.SMJobBlessHelper]: Keeping a lookout for running ARM (pid:59853)
+2018/12/14 10:52:54 [com.adobe.ARMDC.SMJobBlessHelper]: moveToTemp returned /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2018/12/14 10:52:54 [com.adobe.ARMDC.SMJobBlessHelper]: CageFiles: attributes of directory {/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download} (before changing): {
+    NSFileCreationDate = "2018-12-14 01:51:39 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2018-12-14 01:52:54 +0000";
+    NSFileOwnerAccountID = 501;
+    NSFileOwnerAccountName = shoichiyamazaki;
+    NSFilePosixPermissions = 448;
+    NSFileReferenceCount = 6;
+    NSFileSize = 192;
+    NSFileSystemFileNumber = 8602402740;
+    NSFileSystemNumber = 16777220;
+    NSFileType = NSFileTypeDirectory;
+}
+2018/12/14 10:52:54 [com.adobe.ARMDC.SMJobBlessHelper]: CageFiles: new attributes of directory {/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download} (after changing): {
+    NSFileCreationDate = "2018-12-14 01:51:39 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2018-12-14 01:52:54 +0000";
+    NSFileOwnerAccountID = 4294967294;
+    NSFileOwnerAccountName = nobody;
+    NSFilePosixPermissions = 256;
+    NSFileReferenceCount = 6;
+    NSFileSize = 192;
+    NSFileSystemFileNumber = 8602402740;
+    NSFileSystemNumber = 16777220;
+    NSFileType = NSFileTypeDirectory;
+}
+2018/12/14 10:52:54 [com.adobe.ARMDC.SMJobBlessHelper]: cage files returned 1
+2018/12/14 10:52:54 [com.adobe.ARMDC.SMJobBlessHelper]: verifying with identifier ARMDCHammer, trusted+generic apple certificate and adobe signatures
+2018/12/14 10:52:54 [com.adobe.ARMDC.SMJobBlessHelper]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier ARMDCHammer and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer"
+)}
+2018/12/14 10:52:54 [com.adobe.ARMDC.SMJobBlessHelper]: codesign termination status:0, reason:1
+2018/12/14 10:52:54 [com.adobe.ARMDC.SMJobBlessHelper]: validate ARMHammer binary returned 1
+2018/12/14 10:52:54 [com.adobe.ARMDC.SMJobBlessHelper]: Launching hammer with path: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer
+2018/12/14 10:52:54 [com.adobe.ARMDC.SMJobBlessHelper]: About to launch task
+2018/12/14 10:52:54 [com.adobe.ARMDC.SMJobBlessHelper]: Launched ARMHammer task
+2018/12/14 10:52:54 [com.adobe.ARMDC.SMJobBlessHelper]: launch ARMHammer binary returned 1
+2018/12/14 10:52:54 [ARMDCHammer]: Launched ARMHammer...
+2018/12/14 10:52:54 [ARMDCHammer]: Launched tool from /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download with arguments : 1
+2018/12/14 10:52:54 [ARMDCHammer]: current directory path /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2018/12/14 10:52:54 [ARMDCHammer]: manifestDirectory: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests
+2018/12/14 10:52:54 [ARMDCHammer]: ARM process found.
+2018/12/14 10:52:54 [ARMDCHammer]: Adobe ARM app-path is /Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app
+2018/12/14 10:52:54 [ARMDCHammer]: manifestDirectory: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests
+2018/12/14 10:52:54 [ARMDCHammer]: Keeping a lookout for running ARM (pid:59853)
+2018/12/14 10:52:54 [ARMDCHammer]: Got one productManifest arm file {com.adobe.acrobat.dc.arm} .
+2018/12/14 10:52:55 [com.adobe.ARMDC.Communicator]: codesign termination status:0, reason:1
+2018/12/14 10:52:55 [ARMDCHammer]: Signing information of the updater : 
+
+2018/12/14 10:52:55 [ARMDCHammer]: Package "com.adobe.acrobat.dc.arm":
+   Status: signed by a certificate trusted by Mac OS X
+   Certificate Chain:
+    1. Developer ID Installer: Adobe Systems, Inc. (JQ525L2MZD)
+       SHA1 fingerprint: F8 32 AC 81 E4 A3 FE A7 19 8E 1C 00 34 A2 F5 B4 F1 A2 BB 55
+       -----------------------------------------------------------------------------
+    2. Developer ID Certification Authority
+       SHA1 fingerprint: 3B 16 6C 3B 7D C4 B7 51 C9 FE 2A FA B9 13 56 41 E3 88 E1 86
+       -----------------------------------------------------------------------------
+    3. Apple Root CA
+       SHA1 fingerprint: 61 1E 5B 66 2C 59 3A 08 FF 58 D1 4A E2 24 52 D1 98 DF 6C 60
+
+
+2018/12/14 10:52:55 [ARMDCHammer]: Signing verification Successful.
+2018/12/14 10:52:55 [ARMDCHammer]: Asset to be extracted: AcrobatManifest.xml .
+2018/12/14 10:52:55 [ARMDCHammer]: ARMManifestSchemaParser starts parsing...
+2018/12/14 10:52:55 [ARMDCHammer]: ARMManifestSchemaParser ends parsing...
+2018/12/14 10:52:55 [ARMDCHammer]: Product manifest [file:///var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests/AcrobatManifest.xml] parsing done.
+2018/12/14 10:52:55 [ARMDCHammer]: Product manifest [AcrobatManifest.xml] parsing done.
+2018/12/14 10:52:55 [ARMDCHammer]: Sending kValidateNotification notification to ARM, percent complete: 0.00
+2018/12/14 10:52:55 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/12/14 10:52:55 [com.adobe.ARMDC.Communicator]: verifying with identifier ARMDCHammer, trusted+generic apple certificate and adobe signatures
+2018/12/14 10:52:55 [com.adobe.ARMDC.Communicator]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier ARMDCHammer and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer"
+)}
+2018/12/14 10:52:55 [com.adobe.ARMDC.Communicator]: codesign termination status:0, reason:1
+2018/12/14 10:52:56 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/12/14 10:52:57 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/12/14 10:52:58 [ARMDCHammer]: updaters directory is /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters
+2018/12/14 10:52:58 [ARMDCHammer]:  *** Checking update AcrobatDCUpd1901020064_incr.pkg, at /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters.
+2018/12/14 10:53:00 [ARMDCHammer]: Hash information of the updater : 70233952941567f43167b8bb0d866a6fb3c378ee38cc1f7f8c6733e2df310ef1 */var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcrobatDCUpd1901020064_incr.pkg
+
+2018/12/14 10:53:01 [ARMDCHammer]: Signing information of the updater : 
+
+2018/12/14 10:53:01 [ARMDCHammer]: Package "AcrobatDCUpd1901020064_incr.pkg":
+   Status: signed by a certificate trusted by Mac OS X
+   Certificate Chain:
+    1. Developer ID Installer: Adobe Systems, Inc. (JQ525L2MZD)
+       SHA1 fingerprint: F8 32 AC 81 E4 A3 FE A7 19 8E 1C 00 34 A2 F5 B4 F1 A2 BB 55
+       -----------------------------------------------------------------------------
+    2. Developer ID Certification Authority
+       SHA1 fingerprint: 3B 16 6C 3B 7D C4 B7 51 C9 FE 2A FA B9 13 56 41 E3 88 E1 86
+       -----------------------------------------------------------------------------
+    3. Apple Root CA
+       SHA1 fingerprint: 61 1E 5B 66 2C 59 3A 08 FF 58 D1 4A E2 24 52 D1 98 DF 6C 60
+
+
+2018/12/14 10:53:01 [ARMDCHammer]: Signing verification Successful.
+2018/12/14 10:53:01 [ARMDCHammer]: Sending kValidateNotification notification to ARM, percent complete: 100.00
+2018/12/14 10:53:01 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/12/14 10:53:02 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/12/14 10:53:02 [ARMDCHammer]: Got install notification from ARM
+2018/12/14 10:53:03 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/12/14 10:53:04 [ARMDCHammer]: Validation is successful...
+2018/12/14 10:53:04 [ARMDCHammer]: Waiting for install notification from ARM...
+2018/12/14 10:53:04 [ARMDCHammer]: Got install notification from ARM, proceeding...
+2018/12/14 10:53:04 [ARMDCHammer]: Invoking updaters...
+2018/12/14 10:53:04 [ARMDCHammer]: Installing item exe_cmd_Patch_Incr.
+2018/12/14 10:53:04 [ARMDCHammer]: Commandline post expansion for debug: -pkg:/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcrobatDCUpd1901020064_incr.pkg:-target:/
+2018/12/14 10:53:04 [ARMDCHammer]: Installing update to com.adobe.acrobat.dc: -pkg:/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcrobatDCUpd1901020064_incr.pkg:-target:/
+2018/12/14 10:53:04 [ARMDCHammer]: (
+    "-pkg",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcrobatDCUpd1901020064_incr.pkg",
+    "-target",
+    "/"
+)
+2018/12/14 10:55:34 [ARMDCHammer]: Sending kInstallNotification notification to ARM, percent complete: 100.00
+2018/12/14 10:55:34 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/12/14 10:55:35 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/12/14 10:55:36 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/12/14 10:55:37 [com.adobe.ARMDC.SMJobBlessHelper]: ARM process not running, quitting...
+2018/12/14 10:55:37 [ARMDCHammer]: ARM process not running, quitting...
+2018/12/14 10:55:37 [ARMDCHammer]: Sending install notification to ARM, percent complete: 100.000000
+2018/12/14 10:55:37 [ARMDCHammer]: Patch installer standard output : 
+
+2018/12/14 10:55:37 [ARMDCHammer]: installer: Package name is Adobe Acrobat DC (19.010.20064)
+installer: Upgrading at base path /
+installer: The upgrade was successful.
+
+2018/12/14 10:55:37 [ARMDCHammer]: Successfully updated.
+2018/12/14 10:55:37 [ARMDCHammer]: About to delete ARM Hammer directory at path{/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download}
+2018/12/14 10:55:37 [ARMDCHammer]: Invalidated the connection between ARM Communicator and ARMHammer...
+2018/12/14 10:55:40 [ARMDCHammer]: Quitting ARMHammer...
+2018/12/14 17:24:17 [com.adobe.ARMDC.Communicator]: verifying with identifier com.adobe.ARMDC, trusted+generic apple certificate and adobe signatures
+2018/12/14 17:24:17 [com.adobe.ARMDC.Communicator]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier com.adobe.ARMDC and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app"
+)}
+2018/12/14 17:24:17 [com.adobe.ARMDC.SMJobBlessHelper]: ARM process found.
+2018/12/14 17:24:17 [com.adobe.ARMDC.SMJobBlessHelper]: Adobe ARM app-path is /Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app
+2018/12/14 17:24:17 [com.adobe.ARMDC.SMJobBlessHelper]: Adobe ARM id is 79370
+2018/12/14 17:24:17 [com.adobe.ARMDC.SMJobBlessHelper]: About to check for item existence at path /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2018/12/14 17:24:17 [com.adobe.ARMDC.SMJobBlessHelper]: Keeping a lookout for running ARM (pid:79370)
+2018/12/14 17:24:17 [com.adobe.ARMDC.SMJobBlessHelper]: moveToTemp returned /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2018/12/14 17:24:17 [com.adobe.ARMDC.SMJobBlessHelper]: CageFiles: attributes of directory {/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download} (before changing): {
+    NSFileCreationDate = "2018-12-14 08:23:50 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2018-12-14 08:24:17 +0000";
+    NSFileOwnerAccountID = 501;
+    NSFileOwnerAccountName = shoichiyamazaki;
+    NSFilePosixPermissions = 448;
+    NSFileReferenceCount = 6;
+    NSFileSize = 192;
+    NSFileSystemFileNumber = 8602430641;
+    NSFileSystemNumber = 16777220;
+    NSFileType = NSFileTypeDirectory;
+}
+2018/12/14 17:24:17 [com.adobe.ARMDC.SMJobBlessHelper]: CageFiles: new attributes of directory {/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download} (after changing): {
+    NSFileCreationDate = "2018-12-14 08:23:50 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2018-12-14 08:24:17 +0000";
+    NSFileOwnerAccountID = 4294967294;
+    NSFileOwnerAccountName = nobody;
+    NSFilePosixPermissions = 256;
+    NSFileReferenceCount = 6;
+    NSFileSize = 192;
+    NSFileSystemFileNumber = 8602430641;
+    NSFileSystemNumber = 16777220;
+    NSFileType = NSFileTypeDirectory;
+}
+2018/12/14 17:24:17 [com.adobe.ARMDC.SMJobBlessHelper]: cage files returned 1
+2018/12/14 17:24:17 [com.adobe.ARMDC.SMJobBlessHelper]: verifying with identifier ARMDCHammer, trusted+generic apple certificate and adobe signatures
+2018/12/14 17:24:17 [com.adobe.ARMDC.SMJobBlessHelper]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier ARMDCHammer and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer"
+)}
+2018/12/14 17:24:17 [com.adobe.ARMDC.SMJobBlessHelper]: codesign termination status:0, reason:1
+2018/12/14 17:24:17 [com.adobe.ARMDC.SMJobBlessHelper]: validate ARMHammer binary returned 1
+2018/12/14 17:24:17 [com.adobe.ARMDC.SMJobBlessHelper]: Launching hammer with path: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer
+2018/12/14 17:24:17 [com.adobe.ARMDC.SMJobBlessHelper]: About to launch task
+2018/12/14 17:24:17 [com.adobe.ARMDC.SMJobBlessHelper]: Launched ARMHammer task
+2018/12/14 17:24:17 [com.adobe.ARMDC.SMJobBlessHelper]: launch ARMHammer binary returned 1
+2018/12/14 17:24:18 [ARMDCHammer]: Launched ARMHammer...
+2018/12/14 17:24:18 [ARMDCHammer]: Launched tool from /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download with arguments : 1
+2018/12/14 17:24:18 [ARMDCHammer]: current directory path /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2018/12/14 17:24:18 [ARMDCHammer]: manifestDirectory: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests
+2018/12/14 17:24:18 [ARMDCHammer]: ARM process found.
+2018/12/14 17:24:18 [ARMDCHammer]: Adobe ARM app-path is /Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app
+2018/12/14 17:24:18 [ARMDCHammer]: Keeping a lookout for running ARM (pid:79370)
+2018/12/14 17:24:18 [ARMDCHammer]: manifestDirectory: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests
+2018/12/14 17:24:18 [ARMDCHammer]: Got one productManifest arm file {com.adobe.reader.dc.arm} .
+2018/12/14 17:24:18 [com.adobe.ARMDC.Communicator]: codesign termination status:0, reason:1
+2018/12/14 17:24:18 [ARMDCHammer]: Signing information of the updater : 
+
+2018/12/14 17:24:18 [ARMDCHammer]: Package "com.adobe.reader.dc.arm":
+   Status: signed by a certificate trusted by Mac OS X
+   Certificate Chain:
+    1. Developer ID Installer: Adobe Systems, Inc. (JQ525L2MZD)
+       SHA1 fingerprint: F8 32 AC 81 E4 A3 FE A7 19 8E 1C 00 34 A2 F5 B4 F1 A2 BB 55
+       -----------------------------------------------------------------------------
+    2. Developer ID Certification Authority
+       SHA1 fingerprint: 3B 16 6C 3B 7D C4 B7 51 C9 FE 2A FA B9 13 56 41 E3 88 E1 86
+       -----------------------------------------------------------------------------
+    3. Apple Root CA
+       SHA1 fingerprint: 61 1E 5B 66 2C 59 3A 08 FF 58 D1 4A E2 24 52 D1 98 DF 6C 60
+
+
+2018/12/14 17:24:18 [ARMDCHammer]: Signing verification Successful.
+2018/12/14 17:24:18 [ARMDCHammer]: Asset to be extracted: ReaderManifest.xml .
+2018/12/14 17:24:18 [ARMDCHammer]: ARMManifestSchemaParser starts parsing...
+2018/12/14 17:24:18 [ARMDCHammer]: ARMManifestSchemaParser ends parsing...
+2018/12/14 17:24:18 [ARMDCHammer]: Product manifest [file:///var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests/ReaderManifest.xml] parsing done.
+2018/12/14 17:24:18 [ARMDCHammer]: Product manifest [ReaderManifest.xml] parsing done.
+2018/12/14 17:24:18 [ARMDCHammer]: Sending kValidateNotification notification to ARM, percent complete: 0.00
+2018/12/14 17:24:18 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/12/14 17:24:18 [com.adobe.ARMDC.Communicator]: verifying with identifier ARMDCHammer, trusted+generic apple certificate and adobe signatures
+2018/12/14 17:24:18 [com.adobe.ARMDC.Communicator]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier ARMDCHammer and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer"
+)}
+2018/12/14 17:24:18 [com.adobe.ARMDC.Communicator]: codesign termination status:0, reason:1
+2018/12/14 17:24:19 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/12/14 17:24:20 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/12/14 17:24:21 [ARMDCHammer]: updaters directory is /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters
+2018/12/14 17:24:21 [ARMDCHammer]:  *** Checking update AcroRdrDCUpd1901020064_MUI_incr.pkg, at /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters.
+2018/12/14 17:24:22 [ARMDCHammer]: Hash information of the updater : c5436102c009dbe9519928e27fd593fe1fbb96533247e4122a70be0e930717a1 */var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcroRdrDCUpd1901020064_MUI_incr.pkg
+
+2018/12/14 17:24:23 [ARMDCHammer]: Signing information of the updater : 
+
+2018/12/14 17:24:23 [ARMDCHammer]: Package "AcroRdrDCUpd1901020064_MUI_incr.pkg":
+   Status: signed by a certificate trusted by Mac OS X
+   Certificate Chain:
+    1. Developer ID Installer: Adobe Systems, Inc. (JQ525L2MZD)
+       SHA1 fingerprint: F8 32 AC 81 E4 A3 FE A7 19 8E 1C 00 34 A2 F5 B4 F1 A2 BB 55
+       -----------------------------------------------------------------------------
+    2. Developer ID Certification Authority
+       SHA1 fingerprint: 3B 16 6C 3B 7D C4 B7 51 C9 FE 2A FA B9 13 56 41 E3 88 E1 86
+       -----------------------------------------------------------------------------
+    3. Apple Root CA
+       SHA1 fingerprint: 61 1E 5B 66 2C 59 3A 08 FF 58 D1 4A E2 24 52 D1 98 DF 6C 60
+
+
+2018/12/14 17:24:23 [ARMDCHammer]: Signing verification Successful.
+2018/12/14 17:24:23 [ARMDCHammer]: Sending kValidateNotification notification to ARM, percent complete: 100.00
+2018/12/14 17:24:23 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/12/14 17:24:24 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/12/14 17:24:24 [ARMDCHammer]: Got install notification from ARM
+2018/12/14 17:24:25 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/12/14 17:24:26 [ARMDCHammer]: Validation is successful...
+2018/12/14 17:24:26 [ARMDCHammer]: Waiting for install notification from ARM...
+2018/12/14 17:24:26 [ARMDCHammer]: Got install notification from ARM, proceeding...
+2018/12/14 17:24:26 [ARMDCHammer]: Invoking updaters...
+2018/12/14 17:24:26 [ARMDCHammer]: Installing item exe_cmd_Patch_Incr.
+2018/12/14 17:24:26 [ARMDCHammer]: Commandline post expansion for debug: -pkg:/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcroRdrDCUpd1901020064_MUI_incr.pkg:-target:/
+2018/12/14 17:24:26 [ARMDCHammer]: Installing update to com.adobe.reader.dc: -pkg:/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcroRdrDCUpd1901020064_MUI_incr.pkg:-target:/
+2018/12/14 17:24:26 [ARMDCHammer]: (
+    "-pkg",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcroRdrDCUpd1901020064_MUI_incr.pkg",
+    "-target",
+    "/"
+)
+2018/12/14 17:26:09 [ARMDCHammer]: Sending kInstallNotification notification to ARM, percent complete: 100.00
+2018/12/14 17:26:09 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/12/14 17:26:10 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/12/14 17:26:11 [ARMDCHammer]: waiting after sending notification to ARM..
+2018/12/14 17:26:12 [ARMDCHammer]: ARM process not running, quitting...
+2018/12/14 17:26:12 [ARMDCHammer]: Sending install notification to ARM, percent complete: 100.000000
+2018/12/14 17:26:12 [ARMDCHammer]: Patch installer standard output : 
+
+2018/12/14 17:26:12 [ARMDCHammer]: installer: Package name is Adobe Acrobat Reader DC (19.010.20064)
+installer: Upgrading at base path /
+installer: The upgrade was successful.
+
+2018/12/14 17:26:12 [ARMDCHammer]: Successfully updated.
+2018/12/14 17:26:12 [ARMDCHammer]: About to delete ARM Hammer directory at path{/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download}
+2018/12/14 17:26:12 [ARMDCHammer]: Invalidated the connection between ARM Communicator and ARMHammer...
+2018/12/14 17:26:12 [com.adobe.ARMDC.SMJobBlessHelper]: ARM process not running, quitting...
+2018/12/14 17:26:15 [ARMDCHammer]: Quitting ARMHammer...
+2019/01/03 22:19:00 [com.adobe.ARMDC.Communicator]: Launched ARMCommunicator...
+2019/01/03 22:19:00 [com.adobe.ARMDC.Communicator]: verifying with identifier com.adobe.ARMDC, trusted+generic apple certificate and adobe signatures
+2019/01/03 22:19:00 [com.adobe.ARMDC.Communicator]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier com.adobe.ARMDC and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app"
+)}
+2019/01/03 22:19:00 [com.adobe.ARMDC.SMJobBlessHelper]: Launched SMJobBlessHelper...
+2019/01/03 22:19:00 [com.adobe.ARMDC.SMJobBlessHelper]: ARM process found.
+2019/01/03 22:19:00 [com.adobe.ARMDC.SMJobBlessHelper]: Adobe ARM app-path is /Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app
+2019/01/03 22:19:00 [com.adobe.ARMDC.SMJobBlessHelper]: Adobe ARM id is 52364
+2019/01/03 22:19:00 [com.adobe.ARMDC.SMJobBlessHelper]: About to check for item existence at path /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2019/01/03 22:19:00 [com.adobe.ARMDC.SMJobBlessHelper]: Keeping a lookout for running ARM (pid:52364)
+2019/01/03 22:19:00 [com.adobe.ARMDC.SMJobBlessHelper]: moveToTemp returned /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2019/01/03 22:19:00 [com.adobe.ARMDC.SMJobBlessHelper]: CageFiles: attributes of directory {/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download} (before changing): {
+    NSFileCreationDate = "2019-01-03 13:18:41 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2019-01-03 13:19:00 +0000";
+    NSFileOwnerAccountID = 501;
+    NSFileOwnerAccountName = shoichiyamazaki;
+    NSFilePosixPermissions = 448;
+    NSFileReferenceCount = 6;
+    NSFileSize = 192;
+    NSFileSystemFileNumber = 8604492730;
+    NSFileSystemNumber = 16777220;
+    NSFileType = NSFileTypeDirectory;
+}
+2019/01/03 22:19:00 [com.adobe.ARMDC.SMJobBlessHelper]: CageFiles: new attributes of directory {/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download} (after changing): {
+    NSFileCreationDate = "2019-01-03 13:18:41 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2019-01-03 13:19:00 +0000";
+    NSFileOwnerAccountID = 4294967294;
+    NSFileOwnerAccountName = nobody;
+    NSFilePosixPermissions = 256;
+    NSFileReferenceCount = 6;
+    NSFileSize = 192;
+    NSFileSystemFileNumber = 8604492730;
+    NSFileSystemNumber = 16777220;
+    NSFileType = NSFileTypeDirectory;
+}
+2019/01/03 22:19:00 [com.adobe.ARMDC.SMJobBlessHelper]: cage files returned 1
+2019/01/03 22:19:00 [com.adobe.ARMDC.SMJobBlessHelper]: verifying with identifier ARMDCHammer, trusted+generic apple certificate and adobe signatures
+2019/01/03 22:19:00 [com.adobe.ARMDC.SMJobBlessHelper]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier ARMDCHammer and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer"
+)}
+2019/01/03 22:19:00 [com.adobe.ARMDC.SMJobBlessHelper]: codesign termination status:0, reason:1
+2019/01/03 22:19:00 [com.adobe.ARMDC.SMJobBlessHelper]: validate ARMHammer binary returned 1
+2019/01/03 22:19:00 [com.adobe.ARMDC.SMJobBlessHelper]: Launching hammer with path: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer
+2019/01/03 22:19:00 [com.adobe.ARMDC.SMJobBlessHelper]: About to launch task
+2019/01/03 22:19:00 [com.adobe.ARMDC.Communicator]: codesign termination status:0, reason:1
+2019/01/03 22:19:00 [com.adobe.ARMDC.SMJobBlessHelper]: Launched ARMHammer task
+2019/01/03 22:19:00 [com.adobe.ARMDC.SMJobBlessHelper]: launch ARMHammer binary returned 1
+2019/01/03 22:19:00 [ARMDCHammer]: Launched ARMHammer...
+2019/01/03 22:19:00 [ARMDCHammer]: Launched tool from /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download with arguments : 1
+2019/01/03 22:19:00 [ARMDCHammer]: current directory path /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2019/01/03 22:19:00 [ARMDCHammer]: manifestDirectory: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests
+2019/01/03 22:19:00 [ARMDCHammer]: ARM process found.
+2019/01/03 22:19:00 [ARMDCHammer]: Adobe ARM app-path is /Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app
+2019/01/03 22:19:00 [ARMDCHammer]: manifestDirectory: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests
+2019/01/03 22:19:00 [ARMDCHammer]: Keeping a lookout for running ARM (pid:52364)
+2019/01/03 22:19:00 [ARMDCHammer]: Got one productManifest arm file {com.adobe.acrobat.dc.arm} .
+2019/01/03 22:19:01 [ARMDCHammer]: Signing information of the updater : 
+
+2019/01/03 22:19:01 [ARMDCHammer]: Package "com.adobe.acrobat.dc.arm":
+   Status: signed by a certificate trusted by Mac OS X
+   Certificate Chain:
+    1. Developer ID Installer: Adobe Systems, Inc. (JQ525L2MZD)
+       SHA1 fingerprint: F8 32 AC 81 E4 A3 FE A7 19 8E 1C 00 34 A2 F5 B4 F1 A2 BB 55
+       -----------------------------------------------------------------------------
+    2. Developer ID Certification Authority
+       SHA1 fingerprint: 3B 16 6C 3B 7D C4 B7 51 C9 FE 2A FA B9 13 56 41 E3 88 E1 86
+       -----------------------------------------------------------------------------
+    3. Apple Root CA
+       SHA1 fingerprint: 61 1E 5B 66 2C 59 3A 08 FF 58 D1 4A E2 24 52 D1 98 DF 6C 60
+
+
+2019/01/03 22:19:01 [ARMDCHammer]: Signing verification Successful.
+2019/01/03 22:19:01 [ARMDCHammer]: Asset to be extracted: AcrobatManifest.xml .
+2019/01/03 22:19:01 [ARMDCHammer]: ARMManifestSchemaParser starts parsing...
+2019/01/03 22:19:01 [ARMDCHammer]: ARMManifestSchemaParser ends parsing...
+2019/01/03 22:19:01 [ARMDCHammer]: Product manifest [file:///var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests/AcrobatManifest.xml] parsing done.
+2019/01/03 22:19:01 [ARMDCHammer]: Product manifest [AcrobatManifest.xml] parsing done.
+2019/01/03 22:19:01 [ARMDCHammer]: Sending kValidateNotification notification to ARM, percent complete: 0.00
+2019/01/03 22:19:01 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/01/03 22:19:01 [com.adobe.ARMDC.Communicator]: verifying with identifier ARMDCHammer, trusted+generic apple certificate and adobe signatures
+2019/01/03 22:19:01 [com.adobe.ARMDC.Communicator]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier ARMDCHammer and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer"
+)}
+2019/01/03 22:19:01 [com.adobe.ARMDC.Communicator]: codesign termination status:0, reason:1
+2019/01/03 22:19:02 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/01/03 22:19:03 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/01/03 22:19:04 [ARMDCHammer]: updaters directory is /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters
+2019/01/03 22:19:04 [ARMDCHammer]:  *** Checking update AcrobatDCUpd1901020069_incr.pkg, at /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters.
+2019/01/03 22:19:05 [ARMDCHammer]: Hash information of the updater : 63bd176cc6a303c5eaa2dd5437fb32e88cbbb4ee19b5ba02c26ad5ed06fe6a6b */var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcrobatDCUpd1901020069_incr.pkg
+
+2019/01/03 22:19:05 [ARMDCHammer]: Signing information of the updater : 
+
+2019/01/03 22:19:05 [ARMDCHammer]: Package "AcrobatDCUpd1901020069_incr.pkg":
+   Status: signed by a certificate trusted by Mac OS X
+   Certificate Chain:
+    1. Developer ID Installer: Adobe Systems, Inc. (JQ525L2MZD)
+       SHA1 fingerprint: F8 32 AC 81 E4 A3 FE A7 19 8E 1C 00 34 A2 F5 B4 F1 A2 BB 55
+       -----------------------------------------------------------------------------
+    2. Developer ID Certification Authority
+       SHA1 fingerprint: 3B 16 6C 3B 7D C4 B7 51 C9 FE 2A FA B9 13 56 41 E3 88 E1 86
+       -----------------------------------------------------------------------------
+    3. Apple Root CA
+       SHA1 fingerprint: 61 1E 5B 66 2C 59 3A 08 FF 58 D1 4A E2 24 52 D1 98 DF 6C 60
+
+
+2019/01/03 22:19:05 [ARMDCHammer]: Signing verification Successful.
+2019/01/03 22:19:05 [ARMDCHammer]: Sending kValidateNotification notification to ARM, percent complete: 100.00
+2019/01/03 22:19:05 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/01/03 22:19:06 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/01/03 22:19:07 [ARMDCHammer]: Got install notification from ARM
+2019/01/03 22:19:07 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/01/03 22:19:09 [ARMDCHammer]: Validation is successful...
+2019/01/03 22:19:09 [ARMDCHammer]: Waiting for install notification from ARM...
+2019/01/03 22:19:09 [ARMDCHammer]: Got install notification from ARM, proceeding...
+2019/01/03 22:19:09 [ARMDCHammer]: Invoking updaters...
+2019/01/03 22:19:09 [ARMDCHammer]: Installing item exe_cmd_Patch_Incr.
+2019/01/03 22:19:09 [ARMDCHammer]: Commandline post expansion for debug: -pkg:/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcrobatDCUpd1901020069_incr.pkg:-target:/
+2019/01/03 22:19:09 [ARMDCHammer]: Installing update to com.adobe.acrobat.dc: -pkg:/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcrobatDCUpd1901020069_incr.pkg:-target:/
+2019/01/03 22:19:09 [ARMDCHammer]: (
+    "-pkg",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcrobatDCUpd1901020069_incr.pkg",
+    "-target",
+    "/"
+)
+2019/01/03 22:20:35 [ARMDCHammer]: Sending kInstallNotification notification to ARM, percent complete: 100.00
+2019/01/03 22:20:35 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/01/03 22:20:36 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/01/03 22:20:37 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/01/03 22:20:38 [ARMDCHammer]: Sending install notification to ARM, percent complete: 100.000000
+2019/01/03 22:20:38 [ARMDCHammer]: Patch installer standard output : 
+
+2019/01/03 22:20:38 [ARMDCHammer]: installer: Package name is Adobe Acrobat DC (19.010.20069)
+installer: Upgrading at base path /
+installer: The upgrade was successful.
+
+2019/01/03 22:20:38 [ARMDCHammer]: Successfully updated.
+2019/01/03 22:20:38 [ARMDCHammer]: About to delete ARM Hammer directory at path{/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download}
+2019/01/03 22:20:38 [ARMDCHammer]: Invalidated the connection between ARM Communicator and ARMHammer...
+2019/01/03 22:20:38 [ARMDCHammer]: ARM process not running, quitting...
+2019/01/03 22:20:38 [com.adobe.ARMDC.SMJobBlessHelper]: ARM process not running, quitting...
+2019/01/03 22:20:41 [ARMDCHammer]: Quitting ARMHammer...
+2019/01/04 11:02:02 [com.adobe.ARMDC.Communicator]: verifying with identifier com.adobe.ARMDC, trusted+generic apple certificate and adobe signatures
+2019/01/04 11:02:02 [com.adobe.ARMDC.Communicator]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier com.adobe.ARMDC and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app"
+)}
+2019/01/04 11:02:02 [com.adobe.ARMDC.SMJobBlessHelper]: ARM process found.
+2019/01/04 11:02:02 [com.adobe.ARMDC.SMJobBlessHelper]: Adobe ARM app-path is /Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app
+2019/01/04 11:02:02 [com.adobe.ARMDC.SMJobBlessHelper]: Adobe ARM id is 61082
+2019/01/04 11:02:02 [com.adobe.ARMDC.SMJobBlessHelper]: About to check for item existence at path /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2019/01/04 11:02:02 [com.adobe.ARMDC.SMJobBlessHelper]: moveToTemp returned /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2019/01/04 11:02:02 [com.adobe.ARMDC.SMJobBlessHelper]: Keeping a lookout for running ARM (pid:61082)
+2019/01/04 11:02:02 [com.adobe.ARMDC.SMJobBlessHelper]: CageFiles: attributes of directory {/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download} (before changing): {
+    NSFileCreationDate = "2019-01-04 02:01:55 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2019-01-04 02:02:02 +0000";
+    NSFileOwnerAccountID = 501;
+    NSFileOwnerAccountName = shoichiyamazaki;
+    NSFilePosixPermissions = 448;
+    NSFileReferenceCount = 6;
+    NSFileSize = 192;
+    NSFileSystemFileNumber = 8604535588;
+    NSFileSystemNumber = 16777220;
+    NSFileType = NSFileTypeDirectory;
+}
+2019/01/04 11:02:02 [com.adobe.ARMDC.SMJobBlessHelper]: CageFiles: new attributes of directory {/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download} (after changing): {
+    NSFileCreationDate = "2019-01-04 02:01:55 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2019-01-04 02:02:02 +0000";
+    NSFileOwnerAccountID = 4294967294;
+    NSFileOwnerAccountName = nobody;
+    NSFilePosixPermissions = 256;
+    NSFileReferenceCount = 6;
+    NSFileSize = 192;
+    NSFileSystemFileNumber = 8604535588;
+    NSFileSystemNumber = 16777220;
+    NSFileType = NSFileTypeDirectory;
+}
+2019/01/04 11:02:02 [com.adobe.ARMDC.SMJobBlessHelper]: cage files returned 1
+2019/01/04 11:02:02 [com.adobe.ARMDC.SMJobBlessHelper]: verifying with identifier ARMDCHammer, trusted+generic apple certificate and adobe signatures
+2019/01/04 11:02:02 [com.adobe.ARMDC.SMJobBlessHelper]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier ARMDCHammer and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer"
+)}
+2019/01/04 11:02:03 [com.adobe.ARMDC.Communicator]: codesign termination status:0, reason:1
+2019/01/04 11:02:03 [com.adobe.ARMDC.SMJobBlessHelper]: codesign termination status:0, reason:1
+2019/01/04 11:02:03 [com.adobe.ARMDC.SMJobBlessHelper]: validate ARMHammer binary returned 1
+2019/01/04 11:02:03 [com.adobe.ARMDC.SMJobBlessHelper]: Launching hammer with path: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer
+2019/01/04 11:02:03 [com.adobe.ARMDC.SMJobBlessHelper]: About to launch task
+2019/01/04 11:02:03 [com.adobe.ARMDC.SMJobBlessHelper]: Launched ARMHammer task
+2019/01/04 11:02:03 [com.adobe.ARMDC.SMJobBlessHelper]: launch ARMHammer binary returned 1
+2019/01/04 11:02:03 [ARMDCHammer]: Launched ARMHammer...
+2019/01/04 11:02:03 [ARMDCHammer]: Launched tool from /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download with arguments : 1
+2019/01/04 11:02:03 [ARMDCHammer]: current directory path /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2019/01/04 11:02:03 [ARMDCHammer]: manifestDirectory: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests
+2019/01/04 11:02:03 [ARMDCHammer]: ARM process found.
+2019/01/04 11:02:03 [ARMDCHammer]: Adobe ARM app-path is /Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app
+2019/01/04 11:02:03 [ARMDCHammer]: manifestDirectory: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests
+2019/01/04 11:02:03 [ARMDCHammer]: Got one productManifest arm file {com.adobe.reader.dc.arm} .
+2019/01/04 11:02:03 [ARMDCHammer]: Keeping a lookout for running ARM (pid:61082)
+2019/01/04 11:02:03 [ARMDCHammer]: Signing information of the updater : 
+
+2019/01/04 11:02:03 [ARMDCHammer]: Package "com.adobe.reader.dc.arm":
+   Status: signed by a certificate trusted by Mac OS X
+   Certificate Chain:
+    1. Developer ID Installer: Adobe Systems, Inc. (JQ525L2MZD)
+       SHA1 fingerprint: F8 32 AC 81 E4 A3 FE A7 19 8E 1C 00 34 A2 F5 B4 F1 A2 BB 55
+       -----------------------------------------------------------------------------
+    2. Developer ID Certification Authority
+       SHA1 fingerprint: 3B 16 6C 3B 7D C4 B7 51 C9 FE 2A FA B9 13 56 41 E3 88 E1 86
+       -----------------------------------------------------------------------------
+    3. Apple Root CA
+       SHA1 fingerprint: 61 1E 5B 66 2C 59 3A 08 FF 58 D1 4A E2 24 52 D1 98 DF 6C 60
+
+
+2019/01/04 11:02:03 [ARMDCHammer]: Signing verification Successful.
+2019/01/04 11:02:03 [ARMDCHammer]: Asset to be extracted: ReaderManifest.xml .
+2019/01/04 11:02:03 [ARMDCHammer]: ARMManifestSchemaParser starts parsing...
+2019/01/04 11:02:03 [ARMDCHammer]: ARMManifestSchemaParser ends parsing...
+2019/01/04 11:02:03 [ARMDCHammer]: Product manifest [file:///var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests/ReaderManifest.xml] parsing done.
+2019/01/04 11:02:03 [ARMDCHammer]: Product manifest [ReaderManifest.xml] parsing done.
+2019/01/04 11:02:03 [ARMDCHammer]: Sending kValidateNotification notification to ARM, percent complete: 0.00
+2019/01/04 11:02:03 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/01/04 11:02:03 [com.adobe.ARMDC.Communicator]: verifying with identifier ARMDCHammer, trusted+generic apple certificate and adobe signatures
+2019/01/04 11:02:03 [com.adobe.ARMDC.Communicator]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier ARMDCHammer and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer"
+)}
+2019/01/04 11:02:03 [com.adobe.ARMDC.Communicator]: codesign termination status:0, reason:1
+2019/01/04 11:02:04 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/01/04 11:02:05 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/01/04 11:02:06 [ARMDCHammer]: updaters directory is /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters
+2019/01/04 11:02:06 [ARMDCHammer]:  *** Checking update AcroRdrDCUpd1901020069_MUI_incr.pkg, at /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters.
+2019/01/04 11:02:07 [ARMDCHammer]: Hash information of the updater : c54c4f63ee39863436051a9403a4d491516514942c6ac9f1ea47e0e621a9c9de */var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcroRdrDCUpd1901020069_MUI_incr.pkg
+
+2019/01/04 11:02:07 [ARMDCHammer]: Signing information of the updater : 
+
+2019/01/04 11:02:07 [ARMDCHammer]: Package "AcroRdrDCUpd1901020069_MUI_incr.pkg":
+   Status: signed by a certificate trusted by Mac OS X
+   Certificate Chain:
+    1. Developer ID Installer: Adobe Systems, Inc. (JQ525L2MZD)
+       SHA1 fingerprint: F8 32 AC 81 E4 A3 FE A7 19 8E 1C 00 34 A2 F5 B4 F1 A2 BB 55
+       -----------------------------------------------------------------------------
+    2. Developer ID Certification Authority
+       SHA1 fingerprint: 3B 16 6C 3B 7D C4 B7 51 C9 FE 2A FA B9 13 56 41 E3 88 E1 86
+       -----------------------------------------------------------------------------
+    3. Apple Root CA
+       SHA1 fingerprint: 61 1E 5B 66 2C 59 3A 08 FF 58 D1 4A E2 24 52 D1 98 DF 6C 60
+
+
+2019/01/04 11:02:07 [ARMDCHammer]: Signing verification Successful.
+2019/01/04 11:02:07 [ARMDCHammer]: Sending kValidateNotification notification to ARM, percent complete: 100.00
+2019/01/04 11:02:07 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/01/04 11:02:08 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/01/04 11:02:09 [ARMDCHammer]: Got install notification from ARM
+2019/01/04 11:02:09 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/01/04 11:02:10 [ARMDCHammer]: Validation is successful...
+2019/01/04 11:02:10 [ARMDCHammer]: Waiting for install notification from ARM...
+2019/01/04 11:02:10 [ARMDCHammer]: Got install notification from ARM, proceeding...
+2019/01/04 11:02:10 [ARMDCHammer]: Invoking updaters...
+2019/01/04 11:02:10 [ARMDCHammer]: Installing item exe_cmd_Patch_Incr.
+2019/01/04 11:02:10 [ARMDCHammer]: Commandline post expansion for debug: -pkg:/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcroRdrDCUpd1901020069_MUI_incr.pkg:-target:/
+2019/01/04 11:02:10 [ARMDCHammer]: Installing update to com.adobe.reader.dc: -pkg:/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcroRdrDCUpd1901020069_MUI_incr.pkg:-target:/
+2019/01/04 11:02:10 [ARMDCHammer]: (
+    "-pkg",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcroRdrDCUpd1901020069_MUI_incr.pkg",
+    "-target",
+    "/"
+)
+2019/01/04 11:02:43 [ARMDCHammer]: Sending kInstallNotification notification to ARM, percent complete: 100.00
+2019/01/04 11:02:43 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/01/04 11:02:44 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/01/04 11:02:45 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/01/04 11:02:46 [com.adobe.ARMDC.SMJobBlessHelper]: ARM process not running, quitting...
+2019/01/04 11:02:46 [ARMDCHammer]: ARM process not running, quitting...
+2019/01/04 11:02:46 [ARMDCHammer]: Sending install notification to ARM, percent complete: 100.000000
+2019/01/04 11:02:47 [ARMDCHammer]: Patch installer standard output : 
+
+2019/01/04 11:02:47 [ARMDCHammer]: installer: Package name is Adobe Acrobat Reader DC (19.010.20069)
+installer: Upgrading at base path /
+installer: The upgrade was successful.
+
+2019/01/04 11:02:47 [ARMDCHammer]: Successfully updated.
+2019/01/04 11:02:47 [ARMDCHammer]: About to delete ARM Hammer directory at path{/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download}
+2019/01/04 11:02:47 [ARMDCHammer]: Invalidated the connection between ARM Communicator and ARMHammer...
+2019/01/04 11:02:50 [ARMDCHammer]: Quitting ARMHammer...
+2019/02/18 20:53:37 [com.adobe.ARMDC.Communicator]: Launched ARMCommunicator...
+2019/02/18 20:53:37 [com.adobe.ARMDC.Communicator]: verifying with identifier com.adobe.ARMDC, trusted+generic apple certificate and adobe signatures
+2019/02/18 20:53:37 [com.adobe.ARMDC.Communicator]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier com.adobe.ARMDC and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app"
+)}
+2019/02/18 20:53:37 [com.adobe.ARMDC.SMJobBlessHelper]: Launched SMJobBlessHelper...
+2019/02/18 20:53:37 [com.adobe.ARMDC.SMJobBlessHelper]: ARM process found.
+2019/02/18 20:53:37 [com.adobe.ARMDC.SMJobBlessHelper]: Adobe ARM app-path is /Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app
+2019/02/18 20:53:37 [com.adobe.ARMDC.SMJobBlessHelper]: Adobe ARM id is 2364
+2019/02/18 20:53:37 [com.adobe.ARMDC.SMJobBlessHelper]: About to check for item existence at path /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2019/02/18 20:53:37 [com.adobe.ARMDC.SMJobBlessHelper]: Keeping a lookout for running ARM (pid:2364)
+2019/02/18 20:53:37 [com.adobe.ARMDC.SMJobBlessHelper]: moveToTemp returned /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2019/02/18 20:53:37 [com.adobe.ARMDC.SMJobBlessHelper]: CageFiles: attributes of directory {/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download} (before changing): {
+    NSFileCreationDate = "2019-02-17 23:32:52 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2019-02-18 11:53:37 +0000";
+    NSFileOwnerAccountID = 501;
+    NSFileOwnerAccountName = shoichiyamazaki;
+    NSFilePosixPermissions = 448;
+    NSFileReferenceCount = 6;
+    NSFileSize = 192;
+    NSFileSystemFileNumber = 8609741590;
+    NSFileSystemNumber = 16777220;
+    NSFileType = NSFileTypeDirectory;
+}
+2019/02/18 20:53:37 [com.adobe.ARMDC.SMJobBlessHelper]: CageFiles: new attributes of directory {/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download} (after changing): {
+    NSFileCreationDate = "2019-02-17 23:32:52 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2019-02-18 11:53:37 +0000";
+    NSFileOwnerAccountID = 4294967294;
+    NSFileOwnerAccountName = nobody;
+    NSFilePosixPermissions = 256;
+    NSFileReferenceCount = 6;
+    NSFileSize = 192;
+    NSFileSystemFileNumber = 8609741590;
+    NSFileSystemNumber = 16777220;
+    NSFileType = NSFileTypeDirectory;
+}
+2019/02/18 20:53:37 [com.adobe.ARMDC.SMJobBlessHelper]: cage files returned 1
+2019/02/18 20:53:37 [com.adobe.ARMDC.SMJobBlessHelper]: verifying with identifier ARMDCHammer, trusted+generic apple certificate and adobe signatures
+2019/02/18 20:53:37 [com.adobe.ARMDC.SMJobBlessHelper]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier ARMDCHammer and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer"
+)}
+2019/02/18 20:53:37 [com.adobe.ARMDC.SMJobBlessHelper]: codesign termination status:0, reason:1
+2019/02/18 20:53:37 [com.adobe.ARMDC.SMJobBlessHelper]: validate ARMHammer binary returned 1
+2019/02/18 20:53:37 [com.adobe.ARMDC.SMJobBlessHelper]: Launching hammer with path: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer
+2019/02/18 20:53:37 [com.adobe.ARMDC.SMJobBlessHelper]: About to launch task
+2019/02/18 20:53:37 [com.adobe.ARMDC.SMJobBlessHelper]: Launched ARMHammer task
+2019/02/18 20:53:38 [com.adobe.ARMDC.SMJobBlessHelper]: launch ARMHammer binary returned 1
+2019/02/18 20:53:38 [com.adobe.ARMDC.Communicator]: codesign termination status:0, reason:1
+2019/02/18 20:53:38 [ARMDCHammer]: Launched ARMHammer...
+2019/02/18 20:53:38 [ARMDCHammer]: Launched tool from /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download with arguments : 1
+2019/02/18 20:53:38 [ARMDCHammer]: current directory path /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2019/02/18 20:53:38 [ARMDCHammer]: manifestDirectory: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests
+2019/02/18 20:53:38 [ARMDCHammer]: ARM process found.
+2019/02/18 20:53:38 [ARMDCHammer]: Adobe ARM app-path is /Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app
+2019/02/18 20:53:38 [ARMDCHammer]: manifestDirectory: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests
+2019/02/18 20:53:38 [ARMDCHammer]: Got one productManifest arm file {com.adobe.acrobat.dc.arm} .
+2019/02/18 20:53:38 [ARMDCHammer]: Keeping a lookout for running ARM (pid:2364)
+2019/02/18 20:53:38 [ARMDCHammer]: Signing information of the updater : 
+
+2019/02/18 20:53:38 [ARMDCHammer]: Package "com.adobe.acrobat.dc.arm":
+   Status: signed by a certificate trusted by Mac OS X
+   Certificate Chain:
+    1. Developer ID Installer: Adobe Systems, Inc. (JQ525L2MZD)
+       SHA1 fingerprint: F8 32 AC 81 E4 A3 FE A7 19 8E 1C 00 34 A2 F5 B4 F1 A2 BB 55
+       -----------------------------------------------------------------------------
+    2. Developer ID Certification Authority
+       SHA1 fingerprint: 3B 16 6C 3B 7D C4 B7 51 C9 FE 2A FA B9 13 56 41 E3 88 E1 86
+       -----------------------------------------------------------------------------
+    3. Apple Root CA
+       SHA1 fingerprint: 61 1E 5B 66 2C 59 3A 08 FF 58 D1 4A E2 24 52 D1 98 DF 6C 60
+
+
+2019/02/18 20:53:38 [ARMDCHammer]: Signing verification Successful.
+2019/02/18 20:53:38 [ARMDCHammer]: Asset to be extracted: AcrobatManifest.xml .
+2019/02/18 20:53:38 [ARMDCHammer]: ARMManifestSchemaParser starts parsing...
+2019/02/18 20:53:38 [ARMDCHammer]: ARMManifestSchemaParser ends parsing...
+2019/02/18 20:53:38 [ARMDCHammer]: Product manifest [file:///var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests/AcrobatManifest.xml] parsing done.
+2019/02/18 20:53:38 [ARMDCHammer]: Product manifest [AcrobatManifest.xml] parsing done.
+2019/02/18 20:53:38 [ARMDCHammer]: Sending kValidateNotification notification to ARM, percent complete: 0.00
+2019/02/18 20:53:38 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/02/18 20:53:38 [com.adobe.ARMDC.Communicator]: verifying with identifier ARMDCHammer, trusted+generic apple certificate and adobe signatures
+2019/02/18 20:53:38 [com.adobe.ARMDC.Communicator]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier ARMDCHammer and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer"
+)}
+2019/02/18 20:53:38 [com.adobe.ARMDC.Communicator]: codesign termination status:0, reason:1
+2019/02/18 20:53:39 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/02/18 20:53:40 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/02/18 20:53:41 [ARMDCHammer]: updaters directory is /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters
+2019/02/18 20:53:41 [ARMDCHammer]:  *** Checking update AcrobatDCUpd1901020091_incr.pkg, at /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters.
+2019/02/18 20:53:44 [ARMDCHammer]: ARM process not running, quitting...
+2019/02/18 20:53:45 [com.adobe.ARMDC.SMJobBlessHelper]: ARM process not running, quitting...
+2019/02/18 20:53:45 [ARMDCHammer]: Hash information of the updater : 979939248e4d0a4d849e520832e32d64a95094e5689c0a1d075e774066c42400 */var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcrobatDCUpd1901020091_incr.pkg
+
+2019/02/18 20:53:46 [ARMDCHammer]: Signing information of the updater : 
+
+2019/02/18 20:53:46 [ARMDCHammer]: Package "AcrobatDCUpd1901020091_incr.pkg":
+   Status: signed by a certificate trusted by Mac OS X
+   Certificate Chain:
+    1. Developer ID Installer: Adobe Systems, Inc. (JQ525L2MZD)
+       SHA1 fingerprint: F8 32 AC 81 E4 A3 FE A7 19 8E 1C 00 34 A2 F5 B4 F1 A2 BB 55
+       -----------------------------------------------------------------------------
+    2. Developer ID Certification Authority
+       SHA1 fingerprint: 3B 16 6C 3B 7D C4 B7 51 C9 FE 2A FA B9 13 56 41 E3 88 E1 86
+       -----------------------------------------------------------------------------
+    3. Apple Root CA
+       SHA1 fingerprint: 61 1E 5B 66 2C 59 3A 08 FF 58 D1 4A E2 24 52 D1 98 DF 6C 60
+
+
+2019/02/18 20:53:46 [ARMDCHammer]: Signing verification Successful.
+2019/02/18 20:53:46 [ARMDCHammer]: Sending kValidateNotification notification to ARM, percent complete: 100.00
+2019/02/18 20:53:46 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/02/18 20:53:47 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/02/18 20:53:48 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/02/18 20:53:49 [ARMDCHammer]: Validation is successful...
+2019/02/18 20:53:49 [ARMDCHammer]: About to delete ARM Hammer directory at path{/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download}
+2019/02/18 20:53:49 [ARMDCHammer]: Invalidated the connection between ARM Communicator and ARMHammer...
+2019/02/18 20:53:53 [ARMDCHammer]: Quitting ARMHammer...
+2019/03/11 21:32:18 [com.adobe.ARMDC.SMJobBlessHelper]: Launched SMJobBlessHelper...
+2019/03/11 21:32:18 [com.adobe.ARMDC.Communicator]: verifying with identifier com.adobe.ARMDC, trusted+generic apple certificate and adobe signatures
+2019/03/11 21:32:18 [com.adobe.ARMDC.Communicator]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier com.adobe.ARMDC and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app"
+)}
+2019/03/11 21:32:18 [com.adobe.ARMDC.SMJobBlessHelper]: ARM process found.
+2019/03/11 21:32:18 [com.adobe.ARMDC.SMJobBlessHelper]: Adobe ARM app-path is /Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app
+2019/03/11 21:32:18 [com.adobe.ARMDC.SMJobBlessHelper]: Adobe ARM id is 11858
+2019/03/11 21:32:18 [com.adobe.ARMDC.SMJobBlessHelper]: About to check for item existence at path /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2019/03/11 21:32:18 [com.adobe.ARMDC.SMJobBlessHelper]: Keeping a lookout for running ARM (pid:11858)
+2019/03/11 21:32:18 [com.adobe.ARMDC.SMJobBlessHelper]: moveToTemp returned /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2019/03/11 21:32:18 [com.adobe.ARMDC.SMJobBlessHelper]: CageFiles: attributes of directory {/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download} (before changing): {
+    NSFileCreationDate = "2019-03-11 12:30:54 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2019-03-11 12:32:18 +0000";
+    NSFileOwnerAccountID = 501;
+    NSFileOwnerAccountName = shoichiyamazaki;
+    NSFilePosixPermissions = 448;
+    NSFileReferenceCount = 6;
+    NSFileSize = 192;
+    NSFileSystemFileNumber = 8610826833;
+    NSFileSystemNumber = 16777220;
+    NSFileType = NSFileTypeDirectory;
+}
+2019/03/11 21:32:18 [com.adobe.ARMDC.SMJobBlessHelper]: CageFiles: new attributes of directory {/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download} (after changing): {
+    NSFileCreationDate = "2019-03-11 12:30:54 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2019-03-11 12:32:18 +0000";
+    NSFileOwnerAccountID = 4294967294;
+    NSFileOwnerAccountName = nobody;
+    NSFilePosixPermissions = 256;
+    NSFileReferenceCount = 6;
+    NSFileSize = 192;
+    NSFileSystemFileNumber = 8610826833;
+    NSFileSystemNumber = 16777220;
+    NSFileType = NSFileTypeDirectory;
+}
+2019/03/11 21:32:18 [com.adobe.ARMDC.SMJobBlessHelper]: cage files returned 1
+2019/03/11 21:32:18 [com.adobe.ARMDC.SMJobBlessHelper]: verifying with identifier ARMDCHammer, trusted+generic apple certificate and adobe signatures
+2019/03/11 21:32:18 [com.adobe.ARMDC.SMJobBlessHelper]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier ARMDCHammer and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer"
+)}
+2019/03/11 21:32:18 [com.adobe.ARMDC.Communicator]: codesign termination status:0, reason:1
+2019/03/11 21:32:18 [com.adobe.ARMDC.SMJobBlessHelper]: codesign termination status:0, reason:1
+2019/03/11 21:32:18 [com.adobe.ARMDC.SMJobBlessHelper]: validate ARMHammer binary returned 1
+2019/03/11 21:32:18 [com.adobe.ARMDC.SMJobBlessHelper]: Launching hammer with path: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer
+2019/03/11 21:32:18 [com.adobe.ARMDC.SMJobBlessHelper]: About to launch task
+2019/03/11 21:32:18 [com.adobe.ARMDC.SMJobBlessHelper]: Launched ARMHammer task
+2019/03/11 21:32:18 [com.adobe.ARMDC.SMJobBlessHelper]: launch ARMHammer binary returned 1
+2019/03/11 21:32:18 [ARMDCHammer]: Launched ARMHammer...
+2019/03/11 21:32:18 [ARMDCHammer]: Launched tool from /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download with arguments : 1
+2019/03/11 21:32:18 [ARMDCHammer]: current directory path /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2019/03/11 21:32:18 [ARMDCHammer]: manifestDirectory: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests
+2019/03/11 21:32:18 [ARMDCHammer]: ARM process found.
+2019/03/11 21:32:18 [ARMDCHammer]: Adobe ARM app-path is /Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app
+2019/03/11 21:32:18 [ARMDCHammer]: manifestDirectory: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests
+2019/03/11 21:32:18 [ARMDCHammer]: Keeping a lookout for running ARM (pid:11858)
+2019/03/11 21:32:18 [ARMDCHammer]: Got one productManifest arm file {com.adobe.acrobat.dc.arm} .
+2019/03/11 21:32:18 [ARMDCHammer]: Signing information of the updater : 
+
+2019/03/11 21:32:18 [ARMDCHammer]: Package "com.adobe.acrobat.dc.arm":
+   Status: signed by a certificate trusted by Mac OS X
+   Certificate Chain:
+    1. Developer ID Installer: Adobe Systems, Inc. (JQ525L2MZD)
+       SHA1 fingerprint: F8 32 AC 81 E4 A3 FE A7 19 8E 1C 00 34 A2 F5 B4 F1 A2 BB 55
+       -----------------------------------------------------------------------------
+    2. Developer ID Certification Authority
+       SHA1 fingerprint: 3B 16 6C 3B 7D C4 B7 51 C9 FE 2A FA B9 13 56 41 E3 88 E1 86
+       -----------------------------------------------------------------------------
+    3. Apple Root CA
+       SHA1 fingerprint: 61 1E 5B 66 2C 59 3A 08 FF 58 D1 4A E2 24 52 D1 98 DF 6C 60
+
+
+2019/03/11 21:32:18 [ARMDCHammer]: Signing verification Successful.
+2019/03/11 21:32:18 [ARMDCHammer]: Asset to be extracted: AcrobatManifest.xml .
+2019/03/11 21:32:19 [ARMDCHammer]: ARMManifestSchemaParser starts parsing...
+2019/03/11 21:32:19 [ARMDCHammer]: ARMManifestSchemaParser ends parsing...
+2019/03/11 21:32:19 [ARMDCHammer]: Product manifest [file:///var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests/AcrobatManifest.xml] parsing done.
+2019/03/11 21:32:19 [ARMDCHammer]: Product manifest [AcrobatManifest.xml] parsing done.
+2019/03/11 21:32:19 [ARMDCHammer]: Sending kValidateNotification notification to ARM, percent complete: 0.00
+2019/03/11 21:32:19 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/03/11 21:32:19 [com.adobe.ARMDC.Communicator]: verifying with identifier ARMDCHammer, trusted+generic apple certificate and adobe signatures
+2019/03/11 21:32:19 [com.adobe.ARMDC.Communicator]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier ARMDCHammer and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer"
+)}
+2019/03/11 21:32:19 [com.adobe.ARMDC.Communicator]: codesign termination status:0, reason:1
+2019/03/11 21:32:20 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/03/11 21:32:21 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/03/11 21:32:22 [ARMDCHammer]: updaters directory is /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters
+2019/03/11 21:32:22 [ARMDCHammer]:  *** Checking update AcrobatDCUpd1901020098.pkg, at /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters.
+2019/03/11 21:32:24 [ARMDCHammer]: Hash information of the updater : 22bfb7d2e206d13157ea8066e30886c60cd4b4fe27b90045ce04bb69b476747d */var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcrobatDCUpd1901020098.pkg
+
+2019/03/11 21:32:25 [ARMDCHammer]: Signing information of the updater : 
+
+2019/03/11 21:32:25 [ARMDCHammer]: Package "AcrobatDCUpd1901020098.pkg":
+   Status: signed by a certificate trusted by Mac OS X
+   Certificate Chain:
+    1. Developer ID Installer: Adobe Systems, Inc. (JQ525L2MZD)
+       SHA1 fingerprint: F8 32 AC 81 E4 A3 FE A7 19 8E 1C 00 34 A2 F5 B4 F1 A2 BB 55
+       -----------------------------------------------------------------------------
+    2. Developer ID Certification Authority
+       SHA1 fingerprint: 3B 16 6C 3B 7D C4 B7 51 C9 FE 2A FA B9 13 56 41 E3 88 E1 86
+       -----------------------------------------------------------------------------
+    3. Apple Root CA
+       SHA1 fingerprint: 61 1E 5B 66 2C 59 3A 08 FF 58 D1 4A E2 24 52 D1 98 DF 6C 60
+
+
+2019/03/11 21:32:25 [ARMDCHammer]: Signing verification Successful.
+2019/03/11 21:32:25 [ARMDCHammer]: Sending kValidateNotification notification to ARM, percent complete: 100.00
+2019/03/11 21:32:25 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/03/11 21:32:26 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/03/11 21:32:28 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/03/11 21:32:29 [ARMDCHammer]: Validation is successful...
+2019/03/11 21:32:29 [ARMDCHammer]: Waiting for install notification from ARM...
+2019/03/11 21:33:51 [ARMDCHammer]: Got install notification from ARM
+2019/03/11 21:33:51 [ARMDCHammer]: Got install notification from ARM, proceeding...
+2019/03/11 21:33:51 [ARMDCHammer]: Invoking updaters...
+2019/03/11 21:33:51 [ARMDCHammer]: Installing item exe_cmd_Patch_Cumulative.
+2019/03/11 21:33:51 [ARMDCHammer]: Commandline post expansion for debug: -pkg:/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcrobatDCUpd1901020098.pkg:-target:/
+2019/03/11 21:33:51 [ARMDCHammer]: Installing update to com.adobe.acrobat.dc: -pkg:/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcrobatDCUpd1901020098.pkg:-target:/
+2019/03/11 21:33:51 [ARMDCHammer]: (
+    "-pkg",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcrobatDCUpd1901020098.pkg",
+    "-target",
+    "/"
+)
+2019/03/11 21:40:19 [ARMDCHammer]: Sending kInstallNotification notification to ARM, percent complete: 100.00
+2019/03/11 21:40:19 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/03/11 21:40:20 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/03/11 21:40:21 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/03/11 21:40:22 [ARMDCHammer]: Sending install notification to ARM, percent complete: 100.000000
+2019/03/11 21:40:22 [ARMDCHammer]: Patch installer standard output : 
+
+2019/03/11 21:40:22 [ARMDCHammer]: installer: Package name is Adobe Acrobat DC (19.010.20098)
+installer: Upgrading at base path /
+installer: The upgrade was successful.
+
+2019/03/11 21:40:22 [ARMDCHammer]: Successfully updated.
+2019/03/11 21:40:22 [ARMDCHammer]: About to delete ARM Hammer directory at path{/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download}
+2019/03/11 21:40:22 [ARMDCHammer]: Invalidated the connection between ARM Communicator and ARMHammer...
+2019/03/11 21:40:25 [ARMDCHammer]: Quitting ARMHammer...
+2019/03/11 21:41:45 [com.adobe.ARMDC.SMJobBlessHelper]: ARM process not running, quitting...
+2019/03/11 21:59:34 [com.adobe.ARMDC.Communicator]: verifying with identifier com.adobe.ARMDC, trusted+generic apple certificate and adobe signatures
+2019/03/11 21:59:34 [com.adobe.ARMDC.Communicator]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier com.adobe.ARMDC and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app"
+)}
+2019/03/11 21:59:34 [com.adobe.ARMDC.SMJobBlessHelper]: ARM process found.
+2019/03/11 21:59:34 [com.adobe.ARMDC.SMJobBlessHelper]: Adobe ARM app-path is /Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app
+2019/03/11 21:59:34 [com.adobe.ARMDC.SMJobBlessHelper]: Adobe ARM id is 44394
+2019/03/11 21:59:34 [com.adobe.ARMDC.SMJobBlessHelper]: About to check for item existence at path /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2019/03/11 21:59:34 [com.adobe.ARMDC.SMJobBlessHelper]: Keeping a lookout for running ARM (pid:44394)
+2019/03/11 21:59:34 [com.adobe.ARMDC.SMJobBlessHelper]: moveToTemp returned /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2019/03/11 21:59:34 [com.adobe.ARMDC.SMJobBlessHelper]: CageFiles: attributes of directory {/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download} (before changing): {
+    NSFileCreationDate = "2019-03-11 12:43:22 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2019-03-11 12:59:34 +0000";
+    NSFileOwnerAccountID = 501;
+    NSFileOwnerAccountName = shoichiyamazaki;
+    NSFilePosixPermissions = 448;
+    NSFileReferenceCount = 6;
+    NSFileSize = 192;
+    NSFileSystemFileNumber = 8610856027;
+    NSFileSystemNumber = 16777220;
+    NSFileType = NSFileTypeDirectory;
+}
+2019/03/11 21:59:34 [com.adobe.ARMDC.SMJobBlessHelper]: CageFiles: new attributes of directory {/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download} (after changing): {
+    NSFileCreationDate = "2019-03-11 12:43:22 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2019-03-11 12:59:34 +0000";
+    NSFileOwnerAccountID = 4294967294;
+    NSFileOwnerAccountName = nobody;
+    NSFilePosixPermissions = 256;
+    NSFileReferenceCount = 6;
+    NSFileSize = 192;
+    NSFileSystemFileNumber = 8610856027;
+    NSFileSystemNumber = 16777220;
+    NSFileType = NSFileTypeDirectory;
+}
+2019/03/11 21:59:34 [com.adobe.ARMDC.SMJobBlessHelper]: cage files returned 1
+2019/03/11 21:59:34 [com.adobe.ARMDC.SMJobBlessHelper]: verifying with identifier ARMDCHammer, trusted+generic apple certificate and adobe signatures
+2019/03/11 21:59:34 [com.adobe.ARMDC.SMJobBlessHelper]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier ARMDCHammer and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer"
+)}
+2019/03/11 21:59:34 [com.adobe.ARMDC.SMJobBlessHelper]: codesign termination status:0, reason:1
+2019/03/11 21:59:34 [com.adobe.ARMDC.SMJobBlessHelper]: validate ARMHammer binary returned 1
+2019/03/11 21:59:34 [com.adobe.ARMDC.SMJobBlessHelper]: Launching hammer with path: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer
+2019/03/11 21:59:34 [com.adobe.ARMDC.SMJobBlessHelper]: About to launch task
+2019/03/11 21:59:34 [com.adobe.ARMDC.SMJobBlessHelper]: Launched ARMHammer task
+2019/03/11 21:59:34 [com.adobe.ARMDC.SMJobBlessHelper]: launch ARMHammer binary returned 1
+2019/03/11 21:59:34 [ARMDCHammer]: Launched ARMHammer...
+2019/03/11 21:59:34 [ARMDCHammer]: Launched tool from /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download with arguments : 1
+2019/03/11 21:59:34 [ARMDCHammer]: current directory path /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2019/03/11 21:59:34 [ARMDCHammer]: manifestDirectory: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests
+2019/03/11 21:59:34 [ARMDCHammer]: ARM process found.
+2019/03/11 21:59:34 [ARMDCHammer]: Adobe ARM app-path is /Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app
+2019/03/11 21:59:34 [ARMDCHammer]: manifestDirectory: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests
+2019/03/11 21:59:34 [ARMDCHammer]: Keeping a lookout for running ARM (pid:44394)
+2019/03/11 21:59:34 [ARMDCHammer]: Got one productManifest arm file {com.adobe.reader.dc.arm} .
+2019/03/11 21:59:34 [com.adobe.ARMDC.Communicator]: codesign termination status:0, reason:1
+2019/03/11 21:59:34 [ARMDCHammer]: Signing information of the updater : 
+
+2019/03/11 21:59:34 [ARMDCHammer]: Package "com.adobe.reader.dc.arm":
+   Status: signed by a certificate trusted by Mac OS X
+   Certificate Chain:
+    1. Developer ID Installer: Adobe Systems, Inc. (JQ525L2MZD)
+       SHA1 fingerprint: F8 32 AC 81 E4 A3 FE A7 19 8E 1C 00 34 A2 F5 B4 F1 A2 BB 55
+       -----------------------------------------------------------------------------
+    2. Developer ID Certification Authority
+       SHA1 fingerprint: 3B 16 6C 3B 7D C4 B7 51 C9 FE 2A FA B9 13 56 41 E3 88 E1 86
+       -----------------------------------------------------------------------------
+    3. Apple Root CA
+       SHA1 fingerprint: 61 1E 5B 66 2C 59 3A 08 FF 58 D1 4A E2 24 52 D1 98 DF 6C 60
+
+
+2019/03/11 21:59:34 [ARMDCHammer]: Signing verification Successful.
+2019/03/11 21:59:34 [ARMDCHammer]: Asset to be extracted: ReaderManifest.xml .
+2019/03/11 21:59:34 [ARMDCHammer]: ARMManifestSchemaParser starts parsing...
+2019/03/11 21:59:34 [ARMDCHammer]: ARMManifestSchemaParser ends parsing...
+2019/03/11 21:59:34 [ARMDCHammer]: Product manifest [file:///var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests/ReaderManifest.xml] parsing done.
+2019/03/11 21:59:34 [ARMDCHammer]: Product manifest [ReaderManifest.xml] parsing done.
+2019/03/11 21:59:34 [ARMDCHammer]: Sending kValidateNotification notification to ARM, percent complete: 0.00
+2019/03/11 21:59:34 [ARMDCHammer]: waiting after sending notification to ARM..
+RMDCHammer, trusted+generic apple certificate and adobe signatures
+2019/03/11 21:59:34 [com.adobe.ARMDC.Communicator]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier ARMDCHammer and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer"
+)}
+2019/03/11 21:59:34 [com.adobe.ARMDC.Communicator]: codesign termination status:0, reason:1
+2019/03/11 21:59:35 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/03/11 21:59:36 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/03/11 21:59:37 [ARMDCHammer]: updaters directory is /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters
+2019/03/11 21:59:37 [ARMDCHammer]:  *** Checking update AcroRdrDCUpd1901020098_MUI.pkg, at /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters.
+2019/03/11 21:59:39 [ARMDCHammer]: Hash information of the updater : cb8e1128f3f0db1a6b1a05081164bd727fc1cadb4d637a22083685ac02a437fa */var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcroRdrDCUpd1901020098_MUI.pkg
+
+2019/03/11 21:59:40 [ARMDCHammer]: Signing information of the updater : 
+
+2019/03/11 21:59:40 [ARMDCHammer]: Package "AcroRdrDCUpd1901020098_MUI.pkg":
+   Status: signed by a certificate trusted by Mac OS X
+   Certificate Chain:
+    1. Developer ID Installer: Adobe Systems, Inc. (JQ525L2MZD)
+       SHA1 fingerprint: F8 32 AC 81 E4 A3 FE A7 19 8E 1C 00 34 A2 F5 B4 F1 A2 BB 55
+       -----------------------------------------------------------------------------
+    2. Developer ID Certification Authority
+       SHA1 fingerprint: 3B 16 6C 3B 7D C4 B7 51 C9 FE 2A FA B9 13 56 41 E3 88 E1 86
+       -----------------------------------------------------------------------------
+    3. Apple Root CA
+       SHA1 fingerprint: 61 1E 5B 66 2C 59 3A 08 FF 58 D1 4A E2 24 52 D1 98 DF 6C 60
+
+
+2019/03/11 21:59:40 [ARMDCHammer]: Signing verification Successful.
+2019/03/11 21:59:40 [ARMDCHammer]: Sending kValidateNotification notification to ARM, percent complete: 100.00
+2019/03/11 21:59:40 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/03/11 21:59:41 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/03/11 21:59:41 [ARMDCHammer]: Got install notification from ARM
+2019/03/11 21:59:42 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/03/11 21:59:43 [ARMDCHammer]: Validation is successful...
+2019/03/11 21:59:43 [ARMDCHammer]: Waiting for install notification from ARM...
+2019/03/11 21:59:43 [ARMDCHammer]: Got install notification from ARM, proceeding...
+2019/03/11 21:59:43 [ARMDCHammer]: Invoking updaters...
+2019/03/11 21:59:43 [ARMDCHammer]: Installing item exe_cmd_Patch_Cumulative.
+2019/03/11 21:59:43 [ARMDCHammer]: Commandline post expansion for debug: -pkg:/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcroRdrDCUpd1901020098_MUI.pkg:-target:/
+2019/03/11 21:59:43 [ARMDCHammer]: Installing update to com.adobe.reader.dc: -pkg:/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcroRdrDCUpd1901020098_MUI.pkg:-target:/
+2019/03/11 21:59:43 [ARMDCHammer]: (
+    "-pkg",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcroRdrDCUpd1901020098_MUI.pkg",
+    "-target",
+    "/"
+)
+2019/03/11 22:02:37 [ARMDCHammer]: Sending kInstallNotification notification to ARM, percent complete: 100.00
+2019/03/11 22:02:37 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/03/11 22:02:38 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/03/11 22:02:39 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/03/11 22:02:39 [ARMDCHammer]: ARM process not running, quitting...
+2019/03/11 22:02:40 [com.adobe.ARMDC.SMJobBlessHelper]: ARM process not running, quitting...
+2019/03/11 22:02:40 [ARMDCHammer]: Sending install notification to ARM, percent complete: 100.000000
+2019/03/11 22:02:40 [ARMDCHammer]: Patch installer standard output : 
+
+2019/03/11 22:02:40 [ARMDCHammer]: installer: Package name is Adobe Acrobat Reader DC (19.010.20098)
+installer: Upgrading at base path /
+installer: The upgrade was successful.
+
+2019/03/11 22:02:40 [ARMDCHammer]: Successfully updated.
+2019/03/11 22:02:40 [ARMDCHammer]: About to delete ARM Hammer directory at path{/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download}
+2019/03/11 22:02:40 [ARMDCHammer]: Invalidated the connection between ARM Communicator and ARMHammer...
+2019/03/11 22:02:43 [ARMDCHammer]: Quitting ARMHammer...
+2019/04/10 10:52:55 [com.adobe.ARMDC.SMJobBlessHelper]: Launched SMJobBlessHelper...
+2019/04/10 10:52:55 [com.adobe.ARMDC.SMJobBlessHelper]: ARM process found.
+2019/04/10 10:52:55 [com.adobe.ARMDC.SMJobBlessHelper]: Adobe ARM app-path is /Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app
+2019/04/10 10:52:55 [com.adobe.ARMDC.SMJobBlessHelper]: Adobe ARM id is 2462
+2019/04/10 10:52:55 [com.adobe.ARMDC.SMJobBlessHelper]: About to check for item existence at path /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2019/04/10 10:52:55 [com.adobe.ARMDC.SMJobBlessHelper]: Keeping a lookout for running ARM (pid:2462)
+2019/04/10 10:52:55 [com.adobe.ARMDC.SMJobBlessHelper]: moveToTemp returned /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2019/04/10 10:52:55 [com.adobe.ARMDC.SMJobBlessHelper]: CageFiles: attributes of directory {/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download} (before changing): {
+    NSFileCreationDate = "2019-04-10 01:52:02 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2019-04-10 01:52:55 +0000";
+    NSFileOwnerAccountID = 501;
+    NSFileOwnerAccountName = shoichiyamazaki;
+    NSFilePosixPermissions = 448;
+    NSFileReferenceCount = 6;
+    NSFileSize = 192;
+    NSFileSystemFileNumber = 8612375058;
+    NSFileSystemNumber = 16777220;
+    NSFileType = NSFileTypeDirectory;
+}
+2019/04/10 10:52:55 [com.adobe.ARMDC.SMJobBlessHelper]: CageFiles: new attributes of directory {/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download} (after changing): {
+    NSFileCreationDate = "2019-04-10 01:52:02 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2019-04-10 01:52:55 +0000";
+    NSFileOwnerAccountID = 4294967294;
+    NSFileOwnerAccountName = nobody;
+    NSFilePosixPermissions = 256;
+    NSFileReferenceCount = 6;
+    NSFileSize = 192;
+    NSFileSystemFileNumber = 8612375058;
+    NSFileSystemNumber = 16777220;
+    NSFileType = NSFileTypeDirectory;
+}
+2019/04/10 10:52:55 [com.adobe.ARMDC.SMJobBlessHelper]: cage files returned 1
+2019/04/10 10:52:55 [com.adobe.ARMDC.SMJobBlessHelper]: verifying with identifier ARMDCHammer, trusted+generic apple certificate and adobe signatures
+2019/04/10 10:52:55 [com.adobe.ARMDC.SMJobBlessHelper]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier ARMDCHammer and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer"
+)}
+2019/04/10 10:52:55 [com.adobe.ARMDC.Communicator]: Launched ARMCommunicator...
+2019/04/10 10:52:55 [com.adobe.ARMDC.Communicator]: verifying with identifier com.adobe.ARMDC, trusted+generic apple certificate and adobe signatures
+2019/04/10 10:52:55 [com.adobe.ARMDC.Communicator]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier com.adobe.ARMDC and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app"
+)}
+2019/04/10 10:52:55 [com.adobe.ARMDC.SMJobBlessHelper]: codesign termination status:0, reason:1
+2019/04/10 10:52:55 [com.adobe.ARMDC.SMJobBlessHelper]: validate ARMHammer binary returned 1
+2019/04/10 10:52:55 [com.adobe.ARMDC.SMJobBlessHelper]: Launching hammer with path: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer
+2019/04/10 10:52:55 [com.adobe.ARMDC.SMJobBlessHelper]: About to launch task
+2019/04/10 10:52:55 [com.adobe.ARMDC.SMJobBlessHelper]: Launched ARMHammer task
+2019/04/10 10:52:55 [com.adobe.ARMDC.SMJobBlessHelper]: launch ARMHammer binary returned 1
+2019/04/10 10:52:55 [ARMDCHammer]: Launched ARMHammer...
+2019/04/10 10:52:55 [ARMDCHammer]: Launched tool from /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download with arguments : 1
+2019/04/10 10:52:55 [ARMDCHammer]: current directory path /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2019/04/10 10:52:55 [ARMDCHammer]: manifestDirectory: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests
+2019/04/10 10:52:55 [ARMDCHammer]: ARM process found.
+2019/04/10 10:52:55 [ARMDCHammer]: Adobe ARM app-path is /Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app
+2019/04/10 10:52:55 [ARMDCHammer]: manifestDirectory: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests
+2019/04/10 10:52:55 [ARMDCHammer]: Keeping a lookout for running ARM (pid:2462)
+2019/04/10 10:52:55 [ARMDCHammer]: Got one productManifest arm file {com.adobe.acrobat.dc.arm} .
+2019/04/10 10:52:55 [com.adobe.ARMDC.Communicator]: codesign termination status:0, reason:1
+2019/04/10 10:52:56 [ARMDCHammer]: Signing information of the updater : 
+
+2019/04/10 10:52:56 [ARMDCHammer]: Package "com.adobe.acrobat.dc.arm":
+   Status: signed by a certificate trusted by Mac OS X
+   Certificate Chain:
+    1. Developer ID Installer: Adobe Systems, Inc. (JQ525L2MZD)
+       SHA1 fingerprint: F8 32 AC 81 E4 A3 FE A7 19 8E 1C 00 34 A2 F5 B4 F1 A2 BB 55
+       -----------------------------------------------------------------------------
+    2. Developer ID Certification Authority
+       SHA1 fingerprint: 3B 16 6C 3B 7D C4 B7 51 C9 FE 2A FA B9 13 56 41 E3 88 E1 86
+       -----------------------------------------------------------------------------
+    3. Apple Root CA
+       SHA1 fingerprint: 61 1E 5B 66 2C 59 3A 08 FF 58 D1 4A E2 24 52 D1 98 DF 6C 60
+
+
+2019/04/10 10:52:56 [ARMDCHammer]: Signing verification Successful.
+2019/04/10 10:52:56 [ARMDCHammer]: Asset to be extracted: AcrobatManifest.xml .
+2019/04/10 10:52:56 [ARMDCHammer]: ARMManifestSchemaParser starts parsing...
+2019/04/10 10:52:56 [ARMDCHammer]: ARMManifestSchemaParser ends parsing...
+2019/04/10 10:52:56 [ARMDCHammer]: Product manifest [file:///var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests/AcrobatManifest.xml] parsing done.
+2019/04/10 10:52:56 [ARMDCHammer]: Product manifest [AcrobatManifest.xml] parsing done.
+2019/04/10 10:52:56 [ARMDCHammer]: Sending kValidateNotification notification to ARM, percent complete: 0.00
+2019/04/10 10:52:56 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/04/10 10:52:56 [com.adobe.ARMDC.Communicator]: verifying with identifier ARMDCHammer, trusted+generic apple certificate and adobe signatures
+2019/04/10 10:52:56 [com.adobe.ARMDC.Communicator]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier ARMDCHammer and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer"
+)}
+2019/04/10 10:52:56 [com.adobe.ARMDC.Communicator]: codesign termination status:0, reason:1
+2019/04/10 10:52:57 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/04/10 10:52:58 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/04/10 10:52:59 [ARMDCHammer]: updaters directory is /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters
+2019/04/10 10:52:59 [ARMDCHammer]:  *** Checking update AcrobatDCUpd1901020099_incr.pkg, at /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters.
+2019/04/10 10:53:00 [ARMDCHammer]: Hash information of the updater : 35ba22b0a094a762c7846b03bf80ad5217f030d5f4926d0ccc61c37a3d1a74be */var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcrobatDCUpd1901020099_incr.pkg
+
+2019/04/10 10:53:00 [ARMDCHammer]: Signing information of the updater : 
+
+2019/04/10 10:53:01 [ARMDCHammer]: Package "AcrobatDCUpd1901020099_incr.pkg":
+   Status: signed by a certificate trusted by Mac OS X
+   Certificate Chain:
+    1. Developer ID Installer: Adobe Systems, Inc. (JQ525L2MZD)
+       SHA1 fingerprint: F8 32 AC 81 E4 A3 FE A7 19 8E 1C 00 34 A2 F5 B4 F1 A2 BB 55
+       -----------------------------------------------------------------------------
+    2. Developer ID Certification Authority
+       SHA1 fingerprint: 3B 16 6C 3B 7D C4 B7 51 C9 FE 2A FA B9 13 56 41 E3 88 E1 86
+       -----------------------------------------------------------------------------
+    3. Apple Root CA
+       SHA1 fingerprint: 61 1E 5B 66 2C 59 3A 08 FF 58 D1 4A E2 24 52 D1 98 DF 6C 60
+
+
+2019/04/10 10:53:01 [ARMDCHammer]: Signing verification Successful.
+2019/04/10 10:53:01 [ARMDCHammer]: Sending kValidateNotification notification to ARM, percent complete: 100.00
+2019/04/10 10:53:01 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/04/10 10:53:02 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/04/10 10:53:02 [ARMDCHammer]: Got install notification from ARM
+2019/04/10 10:53:03 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/04/10 10:53:04 [ARMDCHammer]: Validation is successful...
+2019/04/10 10:53:04 [ARMDCHammer]: Waiting for install notification from ARM...
+2019/04/10 10:53:04 [ARMDCHammer]: Got install notification from ARM, proceeding...
+2019/04/10 10:53:04 [ARMDCHammer]: Invoking updaters...
+2019/04/10 10:53:04 [ARMDCHammer]: Installing item exe_cmd_Patch_Incr.
+2019/04/10 10:53:04 [ARMDCHammer]: Commandline post expansion for debug: -pkg:/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcrobatDCUpd1901020099_incr.pkg:-target:/
+2019/04/10 10:53:04 [ARMDCHammer]: Installing update to com.adobe.acrobat.dc: -pkg:/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcrobatDCUpd1901020099_incr.pkg:-target:/
+2019/04/10 10:53:04 [ARMDCHammer]: (
+    "-pkg",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcrobatDCUpd1901020099_incr.pkg",
+    "-target",
+    "/"
+)
+2019/04/10 10:54:18 [ARMDCHammer]: Sending kInstallNotification notification to ARM, percent complete: 100.00
+2019/04/10 10:54:18 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/04/10 10:54:19 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/04/10 10:54:20 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/04/10 10:54:21 [ARMDCHammer]: Sending install notification to ARM, percent complete: 100.000000
+2019/04/10 10:54:21 [com.adobe.ARMDC.SMJobBlessHelper]: ARM process not running, quitting...
+2019/04/10 10:54:21 [ARMDCHammer]: Patch installer standard output : 
+
+2019/04/10 10:54:21 [ARMDCHammer]: ARM process not running, quitting...
+2019/04/10 10:54:21 [ARMDCHammer]: installer: Package name is Adobe Acrobat DC (19.010.20099)
+installer: Upgrading at base path /
+installer: The upgrade was successful.
+
+2019/04/10 10:54:21 [ARMDCHammer]: Successfully updated.
+2019/04/10 10:54:21 [ARMDCHammer]: About to delete ARM Hammer directory at path{/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download}
+2019/04/10 10:54:21 [ARMDCHammer]: Invalidated the connection between ARM Communicator and ARMHammer...
+2019/04/10 10:54:24 [ARMDCHammer]: Quitting ARMHammer...
+2019/04/15 11:25:49 [com.adobe.ARMDC.Communicator]: Launched ARMCommunicator...
+2019/04/15 11:25:49 [com.adobe.ARMDC.SMJobBlessHelper]: Launched SMJobBlessHelper...
+2019/04/15 11:25:49 [com.adobe.ARMDC.Communicator]: verifying with identifier com.adobe.ARMDC, trusted+generic apple certificate and adobe signatures
+2019/04/15 11:25:49 [com.adobe.ARMDC.Communicator]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier com.adobe.ARMDC and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app"
+)}
+2019/04/15 11:25:49 [com.adobe.ARMDC.SMJobBlessHelper]: ARM process found.
+2019/04/15 11:25:49 [com.adobe.ARMDC.SMJobBlessHelper]: Adobe ARM app-path is /Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app
+2019/04/15 11:25:49 [com.adobe.ARMDC.SMJobBlessHelper]: Adobe ARM id is 2458
+2019/04/15 11:25:49 [com.adobe.ARMDC.SMJobBlessHelper]: About to check for item existence at path /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2019/04/15 11:25:49 [com.adobe.ARMDC.SMJobBlessHelper]: Keeping a lookout for running ARM (pid:2458)
+2019/04/15 11:25:49 [com.adobe.ARMDC.SMJobBlessHelper]: moveToTemp returned /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2019/04/15 11:25:49 [com.adobe.ARMDC.SMJobBlessHelper]: CageFiles: attributes of directory {/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download} (before changing): {
+    NSFileCreationDate = "2019-04-15 00:50:29 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2019-04-15 02:25:49 +0000";
+    NSFileOwnerAccountID = 501;
+    NSFileOwnerAccountName = shoichiyamazaki;
+    NSFilePosixPermissions = 448;
+    NSFileReferenceCount = 6;
+    NSFileSize = 192;
+    NSFileSystemFileNumber = 8612446324;
+    NSFileSystemNumber = 16777220;
+    NSFileType = NSFileTypeDirectory;
+}
+2019/04/15 11:25:49 [com.adobe.ARMDC.SMJobBlessHelper]: CageFiles: new attributes of directory {/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download} (after changing): {
+    NSFileCreationDate = "2019-04-15 00:50:29 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2019-04-15 02:25:49 +0000";
+    NSFileOwnerAccountID = 4294967294;
+    NSFileOwnerAccountName = nobody;
+    NSFilePosixPermissions = 256;
+    NSFileReferenceCount = 6;
+    NSFileSize = 192;
+    NSFileSystemFileNumber = 8612446324;
+    NSFileSystemNumber = 16777220;
+    NSFileType = NSFileTypeDirectory;
+}
+2019/04/15 11:25:49 [com.adobe.ARMDC.SMJobBlessHelper]: cage files returned 1
+2019/04/15 11:25:49 [com.adobe.ARMDC.SMJobBlessHelper]: verifying with identifier ARMDCHammer, trusted+generic apple certificate and adobe signatures
+2019/04/15 11:25:49 [com.adobe.ARMDC.SMJobBlessHelper]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier ARMDCHammer and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer"
+)}
+2019/04/15 11:25:50 [com.adobe.ARMDC.SMJobBlessHelper]: codesign termination status:0, reason:1
+2019/04/15 11:25:50 [com.adobe.ARMDC.SMJobBlessHelper]: validate ARMHammer binary returned 1
+2019/04/15 11:25:50 [com.adobe.ARMDC.SMJobBlessHelper]: Launching hammer with path: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer
+2019/04/15 11:25:50 [com.adobe.ARMDC.SMJobBlessHelper]: About to launch task
+2019/04/15 11:25:50 [com.adobe.ARMDC.SMJobBlessHelper]: Launched ARMHammer task
+2019/04/15 11:25:50 [com.adobe.ARMDC.SMJobBlessHelper]: launch ARMHammer binary returned 1
+2019/04/15 11:25:50 [ARMDCHammer]: Launched ARMHammer...
+2019/04/15 11:25:50 [ARMDCHammer]: Launched tool from /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download with arguments : 1
+2019/04/15 11:25:50 [ARMDCHammer]: current directory path /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download
+2019/04/15 11:25:50 [ARMDCHammer]: manifestDirectory: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests
+2019/04/15 11:25:50 [ARMDCHammer]: ARM process found.
+2019/04/15 11:25:50 [ARMDCHammer]: Adobe ARM app-path is /Users/shoichiyamazaki/Library/Application Support/Adobe/com.adobe.ARMDCHelper/Adobe Acrobat Updater.app
+2019/04/15 11:25:50 [ARMDCHammer]: manifestDirectory: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests
+2019/04/15 11:25:50 [ARMDCHammer]: Got one productManifest arm file {com.adobe.reader.dc.arm} .
+2019/04/15 11:25:50 [ARMDCHammer]: Keeping a lookout for running ARM (pid:2458)
+2019/04/15 11:25:51 [com.adobe.ARMDC.Communicator]: codesign termination status:0, reason:1
+2019/04/15 11:25:51 [ARMDCHammer]: Signing information of the updater : 
+
+2019/04/15 11:25:51 [ARMDCHammer]: Package "com.adobe.reader.dc.arm":
+   Status: signed by a certificate trusted by Mac OS X
+   Certificate Chain:
+    1. Developer ID Installer: Adobe Systems, Inc. (JQ525L2MZD)
+       SHA1 fingerprint: F8 32 AC 81 E4 A3 FE A7 19 8E 1C 00 34 A2 F5 B4 F1 A2 BB 55
+       -----------------------------------------------------------------------------
+    2. Developer ID Certification Authority
+       SHA1 fingerprint: 3B 16 6C 3B 7D C4 B7 51 C9 FE 2A FA B9 13 56 41 E3 88 E1 86
+       -----------------------------------------------------------------------------
+    3. Apple Root CA
+       SHA1 fingerprint: 61 1E 5B 66 2C 59 3A 08 FF 58 D1 4A E2 24 52 D1 98 DF 6C 60
+
+
+2019/04/15 11:25:51 [ARMDCHammer]: Signing verification Successful.
+2019/04/15 11:25:51 [ARMDCHammer]: Asset to be extracted: ReaderManifest.xml .
+2019/04/15 11:25:51 [ARMDCHammer]: ARMManifestSchemaParser starts parsing...
+2019/04/15 11:25:51 [ARMDCHammer]: ARMManifestSchemaParser ends parsing...
+2019/04/15 11:25:51 [ARMDCHammer]: Product manifest [file:///var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/manifests/ReaderManifest.xml] parsing done.
+2019/04/15 11:25:51 [ARMDCHammer]: Product manifest [ReaderManifest.xml] parsing done.
+2019/04/15 11:25:51 [ARMDCHammer]: Sending kValidateNotification notification to ARM, percent complete: 0.00
+2019/04/15 11:25:51 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/04/15 11:25:51 [com.adobe.ARMDC.Communicator]: verifying with identifier ARMDCHammer, trusted+generic apple certificate and adobe signatures
+2019/04/15 11:25:51 [com.adobe.ARMDC.Communicator]: about to launch codesign with args: {(
+    "--verify",
+    "-R=identifier ARMDCHammer and anchor trusted and anchor apple generic and certificate leaf[subject.CN] = \"Developer ID Application: Adobe Systems, Inc. (JQ525L2MZD)\"",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/ARMDCHammer"
+)}
+2019/04/15 11:25:51 [com.adobe.ARMDC.Communicator]: codesign termination status:0, reason:1
+2019/04/15 11:25:52 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/04/15 11:25:53 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/04/15 11:25:54 [ARMDCHammer]: updaters directory is /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters
+2019/04/15 11:25:54 [ARMDCHammer]:  *** Checking update AcroRdrDCUpd1901020099_MUI_incr.pkg, at /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters.
+2019/04/15 11:25:55 [ARMDCHammer]: Hash information of the updater : b8bd49b69bef46bb82db05a13b13c058e5ac0d41ccf68b64ef08994762d97e8a */var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcroRdrDCUpd1901020099_MUI_incr.pkg
+
+2019/04/15 11:25:55 [ARMDCHammer]: Signing information of the updater : 
+
+2019/04/15 11:25:55 [ARMDCHammer]: Package "AcroRdrDCUpd1901020099_MUI_incr.pkg":
+   Status: signed by a certificate trusted by Mac OS X
+   Certificate Chain:
+    1. Developer ID Installer: Adobe Systems, Inc. (JQ525L2MZD)
+       SHA1 fingerprint: F8 32 AC 81 E4 A3 FE A7 19 8E 1C 00 34 A2 F5 B4 F1 A2 BB 55
+       -----------------------------------------------------------------------------
+    2. Developer ID Certification Authority
+       SHA1 fingerprint: 3B 16 6C 3B 7D C4 B7 51 C9 FE 2A FA B9 13 56 41 E3 88 E1 86
+       -----------------------------------------------------------------------------
+    3. Apple Root CA
+       SHA1 fingerprint: 61 1E 5B 66 2C 59 3A 08 FF 58 D1 4A E2 24 52 D1 98 DF 6C 60
+
+
+2019/04/15 11:25:55 [ARMDCHammer]: Signing verification Successful.
+2019/04/15 11:25:55 [ARMDCHammer]: Sending kValidateNotification notification to ARM, percent complete: 100.00
+2019/04/15 11:25:55 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/04/15 11:25:56 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/04/15 11:25:57 [ARMDCHammer]: Got install notification from ARM
+2019/04/15 11:25:57 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/04/15 11:25:58 [ARMDCHammer]: Validation is successful...
+2019/04/15 11:25:58 [ARMDCHammer]: Waiting for install notification from ARM...
+2019/04/15 11:25:58 [ARMDCHammer]: Got install notification from ARM, proceeding...
+2019/04/15 11:25:58 [ARMDCHammer]: Invoking updaters...
+2019/04/15 11:25:58 [ARMDCHammer]: Installing item exe_cmd_Patch_Incr.
+2019/04/15 11:25:58 [ARMDCHammer]: Commandline post expansion for debug: -pkg:/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcroRdrDCUpd1901020099_MUI_incr.pkg:-target:/
+2019/04/15 11:25:58 [ARMDCHammer]: Installing update to com.adobe.reader.dc: -pkg:/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcroRdrDCUpd1901020099_MUI_incr.pkg:-target:/
+2019/04/15 11:25:58 [ARMDCHammer]: (
+    "-pkg",
+    "/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download/updaters/AcroRdrDCUpd1901020099_MUI_incr.pkg",
+    "-target",
+    "/"
+)
+2019/04/15 11:26:27 [ARMDCHammer]: Sending kInstallNotification notification to ARM, percent complete: 100.00
+2019/04/15 11:26:27 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/04/15 11:26:28 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/04/15 11:26:29 [ARMDCHammer]: waiting after sending notification to ARM..
+2019/04/15 11:26:30 [com.adobe.ARMDC.SMJobBlessHelper]: ARM process not running, quitting...
+2019/04/15 11:26:30 [ARMDCHammer]: ARM process not running, quitting...
+2019/04/15 11:26:30 [ARMDCHammer]: Sending install notification to ARM, percent complete: 100.000000
+2019/04/15 11:26:30 [ARMDCHammer]: Patch installer standard output : 
+
+2019/04/15 11:26:30 [ARMDCHammer]: installer: Package name is Adobe Acrobat Reader DC (19.010.20099)
+installer: Upgrading at base path /
+installer: The upgrade was successful.
+
+2019/04/15 11:26:30 [ARMDCHammer]: Successfully updated.
+2019/04/15 11:26:30 [ARMDCHammer]: About to delete ARM Hammer directory at path{/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/download}
+2019/04/15 11:26:30 [ARMDCHammer]: Invalidated the connection between ARM Communicator and ARMHammer...
+2019/04/15 11:26:33 [ARMDCHammer]: Quitting ARMHammer...

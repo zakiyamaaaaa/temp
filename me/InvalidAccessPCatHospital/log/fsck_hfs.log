@@ -1,0 +1,791 @@
+
+/dev/rdisk3s1: fsck_hfs started at Sat Sep 15 22:05:55 2018
+/dev/rdisk3s1: /dev/rdisk3s1: ** /dev/rdisk3s1 (NO WRITE)
+/dev/rdisk3s1:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s1: fsck_hfs completed at Sat Sep 15 22:05:55 2018
+
+
+/dev/rdisk3s1: fsck_hfs started at Sat Sep 15 22:05:56 2018
+/dev/rdisk3s1: /dev/rdisk3s1: ** /dev/rdisk3s1 (NO WRITE)
+/dev/rdisk3s1:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s1: fsck_hfs completed at Sat Sep 15 22:05:56 2018
+
+
+/dev/rdisk3s0s2: fsck_hfs started at Sun Sep 16 16:38:52 2018
+/dev/rdisk3s0s2: /dev/rdisk3s0s2: ** /dev/rdisk3s0s2 (NO WRITE)
+/dev/rdisk3s0s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s0s2: fsck_hfs completed at Sun Sep 16 16:38:52 2018
+
+
+/dev/rdisk3s2: fsck_hfs started at Thu Sep 20 08:30:10 2018
+/dev/rdisk3s2: /dev/rdisk3s2: ** /dev/rdisk3s2 (NO WRITE)
+/dev/rdisk3s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s2: fsck_hfs completed at Thu Sep 20 08:30:10 2018
+
+
+/dev/rdisk3s2: fsck_hfs started at Thu Sep 20 08:30:11 2018
+/dev/rdisk3s2: /dev/rdisk3s2: ** /dev/rdisk3s2 (NO WRITE)
+/dev/rdisk3s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s2: fsck_hfs completed at Thu Sep 20 08:30:11 2018
+
+
+/dev/rdisk2s1: fsck_hfs started at Mon Sep 24 02:20:26 2018
+/dev/rdisk2s1: /dev/rdisk2s1: ** /dev/rdisk2s1 (NO WRITE)
+/dev/rdisk2s1:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s1: fsck_hfs completed at Mon Sep 24 02:20:26 2018
+
+
+/dev/rdisk2s1: fsck_hfs started at Mon Sep 24 02:20:27 2018
+/dev/rdisk2s1: /dev/rdisk2s1: ** /dev/rdisk2s1 (NO WRITE)
+/dev/rdisk2s1:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s1: fsck_hfs completed at Mon Sep 24 02:20:27 2018
+
+
+/dev/rdisk3s2: fsck_hfs started at Mon Sep 24 02:40:06 2018
+/dev/rdisk3s2: /dev/rdisk3s2: ** /dev/rdisk3s2 (NO WRITE)
+/dev/rdisk3s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s2: fsck_hfs completed at Mon Sep 24 02:40:06 2018
+
+
+/dev/rdisk3s2: fsck_hfs started at Mon Sep 24 02:40:06 2018
+/dev/rdisk3s2: /dev/rdisk3s2: ** /dev/rdisk3s2 (NO WRITE)
+/dev/rdisk3s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s2: fsck_hfs completed at Mon Sep 24 02:40:06 2018
+
+
+/dev/rdisk2s1: fsck_hfs started at Sat Oct  6 10:43:54 2018
+/dev/rdisk2s1: /dev/rdisk2s1: ** /dev/rdisk2s1 (NO WRITE)
+/dev/rdisk2s1:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s1: fsck_hfs completed at Sat Oct  6 10:43:54 2018
+
+
+/dev/rdisk2s1: fsck_hfs started at Sat Oct  6 10:43:55 2018
+/dev/rdisk2s1: /dev/rdisk2s1: ** /dev/rdisk2s1 (NO WRITE)
+/dev/rdisk2s1:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s1: fsck_hfs completed at Sat Oct  6 10:43:55 2018
+
+
+/dev/rdisk3s2: fsck_hfs started at Sat Oct  6 13:31:13 2018
+/dev/rdisk3s2: /dev/rdisk3s2: ** /dev/rdisk3s2 (NO WRITE)
+/dev/rdisk3s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s2: fsck_hfs completed at Sat Oct  6 13:31:13 2018
+
+
+/dev/rdisk3s2: fsck_hfs started at Sat Oct  6 13:31:15 2018
+/dev/rdisk3s2: /dev/rdisk3s2: ** /dev/rdisk3s2 (NO WRITE)
+/dev/rdisk3s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s2: fsck_hfs completed at Sat Oct  6 13:31:15 2018
+
+
+/dev/rdisk5s2: fsck_hfs started at Wed Oct 10 00:37:23 2018
+/dev/rdisk5s2: /dev/rdisk5s2: ** /dev/rdisk5s2 (NO WRITE)
+/dev/rdisk5s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk5s2: fsck_hfs completed at Wed Oct 10 00:37:23 2018
+
+
+/dev/rdisk5s2: fsck_hfs started at Wed Oct 10 00:37:23 2018
+/dev/rdisk5s2: /dev/rdisk5s2: ** /dev/rdisk5s2 (NO WRITE)
+/dev/rdisk5s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk5s2: fsck_hfs completed at Wed Oct 10 00:37:23 2018
+
+
+/dev/rdisk2s2: fsck_hfs started at Sat Oct 13 14:13:14 2018
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Sat Oct 13 14:13:14 2018
+
+
+/dev/rdisk2s2: fsck_hfs started at Sat Oct 13 14:13:17 2018
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Sat Oct 13 14:13:17 2018
+
+
+/dev/rdisk3s2: fsck_hfs started at Wed Oct 17 16:09:30 2018
+/dev/rdisk3s2: /dev/rdisk3s2: ** /dev/rdisk3s2 (NO WRITE)
+/dev/rdisk3s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s2: fsck_hfs completed at Wed Oct 17 16:09:30 2018
+
+
+/dev/rdisk3s2: fsck_hfs started at Wed Oct 17 16:09:31 2018
+/dev/rdisk3s2: /dev/rdisk3s2: ** /dev/rdisk3s2 (NO WRITE)
+/dev/rdisk3s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s2: fsck_hfs completed at Wed Oct 17 16:09:31 2018
+
+
+/dev/rdisk3s1: fsck_hfs started at Wed Oct 17 17:38:47 2018
+/dev/rdisk3s1: /dev/rdisk3s1: ** /dev/rdisk3s1 (NO WRITE)
+/dev/rdisk3s1:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s1: fsck_hfs completed at Wed Oct 17 17:38:47 2018
+
+
+/dev/rdisk3s1: fsck_hfs started at Wed Oct 17 17:38:47 2018
+/dev/rdisk3s1: /dev/rdisk3s1: ** /dev/rdisk3s1 (NO WRITE)
+/dev/rdisk3s1:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s1: fsck_hfs completed at Wed Oct 17 17:38:47 2018
+
+
+/dev/rdisk4s1: fsck_hfs started at Wed Oct 17 17:40:16 2018
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Wed Oct 17 17:40:16 2018
+
+
+/dev/rdisk4s1: fsck_hfs started at Wed Oct 17 17:40:17 2018
+/dev/rdisk4s1: /dev/rdisk4s1: ** /dev/rdisk4s1 (NO WRITE)
+/dev/rdisk4s1:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s1: fsck_hfs completed at Wed Oct 17 17:40:17 2018
+
+
+/dev/rdisk5s1: fsck_hfs started at Wed Oct 17 17:44:50 2018
+/dev/rdisk5s1: /dev/rdisk5s1: ** /dev/rdisk5s1 (NO WRITE)
+/dev/rdisk5s1:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk5s1: fsck_hfs completed at Wed Oct 17 17:44:50 2018
+
+
+/dev/rdisk5s1: fsck_hfs started at Wed Oct 17 17:44:51 2018
+/dev/rdisk5s1: /dev/rdisk5s1: ** /dev/rdisk5s1 (NO WRITE)
+/dev/rdisk5s1:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk5s1: fsck_hfs completed at Wed Oct 17 17:44:51 2018
+
+
+/dev/rdisk3s2: fsck_hfs started at Wed Oct 17 17:58:49 2018
+/dev/rdisk3s2: /dev/rdisk3s2: ** /dev/rdisk3s2 (NO WRITE)
+/dev/rdisk3s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s2: fsck_hfs completed at Wed Oct 17 17:58:49 2018
+
+
+/dev/rdisk3s2: fsck_hfs started at Wed Oct 17 17:58:58 2018
+/dev/rdisk3s2: /dev/rdisk3s2: ** /dev/rdisk3s2 (NO WRITE)
+/dev/rdisk3s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s2: fsck_hfs completed at Wed Oct 17 17:58:58 2018
+
+
+/dev/rdisk3s2: fsck_hfs started at Fri Oct 19 08:48:20 2018
+/dev/rdisk3s2: /dev/rdisk3s2: ** /dev/rdisk3s2 (NO WRITE)
+/dev/rdisk3s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s2: fsck_hfs completed at Fri Oct 19 08:48:20 2018
+
+
+/dev/rdisk3s2: fsck_hfs started at Fri Oct 19 08:48:23 2018
+/dev/rdisk3s2: /dev/rdisk3s2: ** /dev/rdisk3s2 (NO WRITE)
+/dev/rdisk3s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s2: fsck_hfs completed at Fri Oct 19 08:48:23 2018
+
+
+/dev/rdisk2s2: fsck_hfs started at Thu Oct 25 06:29:44 2018
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Thu Oct 25 06:29:44 2018
+
+
+/dev/rdisk2s2: fsck_hfs started at Thu Oct 25 06:29:44 2018
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Thu Oct 25 06:29:44 2018
+
+
+/dev/rdisk2s2: fsck_hfs started at Tue Nov 13 16:02:24 2018
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Tue Nov 13 16:02:24 2018
+
+
+/dev/rdisk2s2: fsck_hfs started at Tue Nov 13 16:02:24 2018
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Tue Nov 13 16:02:24 2018
+
+
+/dev/rdisk2s2: fsck_hfs started at Wed Nov 14 18:11:16 2018
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Wed Nov 14 18:11:16 2018
+
+
+/dev/rdisk2s2: fsck_hfs started at Wed Nov 14 18:11:17 2018
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Wed Nov 14 18:11:17 2018
+
+
+/dev/rdisk3s2: fsck_hfs started at Fri Nov 23 18:29:52 2018
+/dev/rdisk3s2: /dev/rdisk3s2: ** /dev/rdisk3s2 (NO WRITE)
+/dev/rdisk3s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s2: fsck_hfs completed at Fri Nov 23 18:29:52 2018
+
+
+/dev/rdisk3s2: fsck_hfs started at Fri Nov 23 18:29:53 2018
+/dev/rdisk3s2: /dev/rdisk3s2: ** /dev/rdisk3s2 (NO WRITE)
+/dev/rdisk3s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s2: fsck_hfs completed at Fri Nov 23 18:29:53 2018
+
+
+/dev/rdisk2s2: fsck_hfs started at Wed Nov 28 09:55:13 2018
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Wed Nov 28 09:55:13 2018
+
+
+/dev/rdisk2s2: fsck_hfs started at Wed Nov 28 09:55:13 2018
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Wed Nov 28 09:55:13 2018
+
+
+/dev/rdisk2s2: fsck_hfs started at Thu Dec  6 10:37:36 2018
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Thu Dec  6 10:37:36 2018
+
+
+/dev/rdisk2s2: fsck_hfs started at Thu Dec  6 10:37:37 2018
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Thu Dec  6 10:37:37 2018
+
+
+/dev/rdisk2s2: fsck_hfs started at Fri Dec 14 09:59:16 2018
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Fri Dec 14 09:59:17 2018
+
+
+/dev/rdisk2s2: fsck_hfs started at Fri Dec 14 09:59:23 2018
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Fri Dec 14 09:59:23 2018
+
+
+/dev/rdisk2s1: fsck_hfs started at Sun Dec 23 19:15:57 2018
+/dev/rdisk2s1: /dev/rdisk2s1: ** /dev/rdisk2s1 (NO WRITE)
+/dev/rdisk2s1:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s1: fsck_hfs completed at Sun Dec 23 19:15:57 2018
+
+
+/dev/rdisk2s1: fsck_hfs started at Sun Dec 23 19:15:58 2018
+/dev/rdisk2s1: /dev/rdisk2s1: ** /dev/rdisk2s1 (NO WRITE)
+/dev/rdisk2s1:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s1: fsck_hfs completed at Sun Dec 23 19:15:58 2018
+
+
+/dev/rdisk3s2: fsck_hfs started at Mon Jan  7 11:10:12 2019
+/dev/rdisk3s2: /dev/rdisk3s2: ** /dev/rdisk3s2 (NO WRITE)
+/dev/rdisk3s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s2: fsck_hfs completed at Mon Jan  7 11:10:12 2019
+
+
+/dev/rdisk3s2: fsck_hfs started at Mon Jan  7 11:10:13 2019
+/dev/rdisk3s2: /dev/rdisk3s2: ** /dev/rdisk3s2 (NO WRITE)
+/dev/rdisk3s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s2: fsck_hfs completed at Mon Jan  7 11:10:13 2019
+
+
+/dev/rdisk3s2: fsck_hfs started at Wed Jan  9 10:00:38 2019
+/dev/rdisk3s2: /dev/rdisk3s2: ** /dev/rdisk3s2 (NO WRITE)
+/dev/rdisk3s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s2: fsck_hfs completed at Wed Jan  9 10:00:38 2019
+
+
+/dev/rdisk3s2: fsck_hfs started at Wed Jan  9 10:00:44 2019
+/dev/rdisk3s2: /dev/rdisk3s2: ** /dev/rdisk3s2 (NO WRITE)
+/dev/rdisk3s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s2: fsck_hfs completed at Wed Jan  9 10:00:44 2019
+
+
+/dev/rdisk4s2: fsck_hfs started at Wed Jan  9 15:47:11 2019
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Wed Jan  9 15:47:11 2019
+
+
+/dev/rdisk4s2: fsck_hfs started at Wed Jan  9 15:47:13 2019
+/dev/rdisk4s2: /dev/rdisk4s2: ** /dev/rdisk4s2 (NO WRITE)
+/dev/rdisk4s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk4s2: fsck_hfs completed at Wed Jan  9 15:47:13 2019
+
+
+/dev/rdisk2s2: fsck_hfs started at Tue Jan 15 10:32:22 2019
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Tue Jan 15 10:32:22 2019
+
+
+/dev/rdisk2s2: fsck_hfs started at Tue Jan 15 10:32:22 2019
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Tue Jan 15 10:32:22 2019
+
+
+/dev/rdisk2s1: fsck_hfs started at Wed Jan 16 13:51:10 2019
+/dev/rdisk2s1: /dev/rdisk2s1: ** /dev/rdisk2s1 (NO WRITE)
+/dev/rdisk2s1:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s1: fsck_hfs completed at Wed Jan 16 13:51:10 2019
+
+
+/dev/rdisk2s1: fsck_hfs started at Wed Jan 16 13:51:11 2019
+/dev/rdisk2s1: /dev/rdisk2s1: ** /dev/rdisk2s1 (NO WRITE)
+/dev/rdisk2s1:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s1: fsck_hfs completed at Wed Jan 16 13:51:11 2019
+
+
+/dev/rdisk2s1: fsck_hfs started at Thu Jan 24 16:35:20 2019
+/dev/rdisk2s1: /dev/rdisk2s1: ** /dev/rdisk2s1 (NO WRITE)
+/dev/rdisk2s1:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s1: fsck_hfs completed at Thu Jan 24 16:35:20 2019
+
+
+/dev/rdisk2s1: fsck_hfs started at Thu Jan 24 16:35:22 2019
+/dev/rdisk2s1: /dev/rdisk2s1: ** /dev/rdisk2s1 (NO WRITE)
+/dev/rdisk2s1:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s1: fsck_hfs completed at Thu Jan 24 16:35:22 2019
+
+
+/dev/rdisk2s1: fsck_hfs started at Thu Jan 24 16:47:31 2019
+/dev/rdisk2s1: /dev/rdisk2s1: ** /dev/rdisk2s1 (NO WRITE)
+/dev/rdisk2s1:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s1: fsck_hfs completed at Thu Jan 24 16:47:31 2019
+
+
+/dev/rdisk2s1: fsck_hfs started at Thu Jan 24 16:47:31 2019
+/dev/rdisk2s1: /dev/rdisk2s1: ** /dev/rdisk2s1 (NO WRITE)
+/dev/rdisk2s1:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s1: fsck_hfs completed at Thu Jan 24 16:47:31 2019
+
+
+/dev/rdisk3s1: fsck_hfs started at Thu Jan 24 17:43:13 2019
+/dev/rdisk3s1: /dev/rdisk3s1: ** /dev/rdisk3s1 (NO WRITE)
+/dev/rdisk3s1:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s1: fsck_hfs completed at Thu Jan 24 17:43:13 2019
+
+
+/dev/rdisk3s1: fsck_hfs started at Thu Jan 24 17:43:13 2019
+/dev/rdisk3s1: /dev/rdisk3s1: ** /dev/rdisk3s1 (NO WRITE)
+/dev/rdisk3s1:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s1: fsck_hfs completed at Thu Jan 24 17:43:13 2019
+
+
+/dev/rdisk3s2: fsck_hfs started at Fri Feb  1 12:11:58 2019
+/dev/rdisk3s2: /dev/rdisk3s2: ** /dev/rdisk3s2 (NO WRITE)
+/dev/rdisk3s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s2: fsck_hfs completed at Fri Feb  1 12:11:58 2019
+
+
+/dev/rdisk3s2: fsck_hfs started at Fri Feb  1 12:12:00 2019
+/dev/rdisk3s2: /dev/rdisk3s2: ** /dev/rdisk3s2 (NO WRITE)
+/dev/rdisk3s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s2: fsck_hfs completed at Fri Feb  1 12:12:00 2019
+
+
+
+/dev/rdisk3s2: fsck_hfs started at Wed Feb  6 09:39:55 2019
+/dev/rdisk2s2: fsck_hfs started at Wed Feb  6 09:39:55 2019
+/dev/rdisk3s2: /dev/rdisk3s2: ** /dev/rdisk3s2 (NO WRITE)
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk3s2:    Executing fsck_hfs (version hfs-407.200.4).
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s2: fsck_hfs completed at Wed Feb  6 09:39:55 2019
+
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Wed Feb  6 09:39:55 2019
+
+
+/dev/rdisk2s2: fsck_hfs started at Wed Feb  6 09:39:56 2019
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Wed Feb  6 09:39:56 2019
+
+
+/dev/rdisk3s2: fsck_hfs started at Wed Feb  6 09:39:56 2019
+/dev/rdisk3s2: /dev/rdisk3s2: ** /dev/rdisk3s2 (NO WRITE)
+/dev/rdisk3s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s2: fsck_hfs completed at Wed Feb  6 09:39:56 2019
+
+
+/dev/rdisk2s2: fsck_hfs started at Wed Feb  6 09:40:28 2019
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Wed Feb  6 09:40:28 2019
+
+
+/dev/rdisk2s2: fsck_hfs started at Wed Feb  6 09:40:28 2019
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Wed Feb  6 09:40:28 2019
+
+
+/dev/rdisk2s2: fsck_hfs started at Wed Feb  6 09:40:50 2019
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Wed Feb  6 09:40:50 2019
+
+
+/dev/rdisk2s2: fsck_hfs started at Wed Feb  6 09:40:50 2019
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Wed Feb  6 09:40:50 2019
+
+
+/dev/rdisk2s2: fsck_hfs started at Wed Feb  6 09:41:00 2019
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Wed Feb  6 09:41:00 2019
+
+
+/dev/rdisk2s2: fsck_hfs started at Wed Feb  6 09:41:00 2019
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Wed Feb  6 09:41:00 2019
+
+
+/dev/rdisk2s2: fsck_hfs started at Fri Feb  8 09:26:20 2019
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Fri Feb  8 09:26:20 2019
+
+
+/dev/rdisk2s2: fsck_hfs started at Fri Feb  8 09:26:20 2019
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Fri Feb  8 09:26:20 2019
+
+
+/dev/rdisk2: fsck_hfs started at Sat Feb  9 08:35:41 2019
+/dev/rdisk2: /dev/rdisk2: ** /dev/rdisk2 (NO WRITE)
+/dev/rdisk2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2: fsck_hfs completed at Sat Feb  9 08:35:42 2019
+
+
+/dev/rdisk2: fsck_hfs started at Sat Feb  9 08:35:43 2019
+/dev/rdisk2: /dev/rdisk2: ** /dev/rdisk2 (NO WRITE)
+/dev/rdisk2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2: fsck_hfs completed at Sat Feb  9 08:35:43 2019
+
+
+/dev/rdisk3: fsck_hfs started at Sat Feb  9 08:37:21 2019
+/dev/rdisk3: /dev/rdisk3: ** /dev/rdisk3 (NO WRITE)
+/dev/rdisk3:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3: fsck_hfs completed at Sat Feb  9 08:37:21 2019
+
+
+/dev/rdisk3: fsck_hfs started at Sat Feb  9 08:37:21 2019
+/dev/rdisk3: /dev/rdisk3: ** /dev/rdisk3 (NO WRITE)
+/dev/rdisk3:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3: fsck_hfs completed at Sat Feb  9 08:37:21 2019
+
+
+/dev/rdisk2s2: fsck_hfs started at Wed Feb 13 12:56:10 2019
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Wed Feb 13 12:56:10 2019
+
+
+/dev/rdisk2s2: fsck_hfs started at Wed Feb 13 12:56:10 2019
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Wed Feb 13 12:56:10 2019
+
+
+/dev/rdisk3s2: fsck_hfs started at Thu Feb 14 10:05:00 2019
+/dev/rdisk3s2: /dev/rdisk3s2: ** /dev/rdisk3s2 (NO WRITE)
+/dev/rdisk3s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s2: fsck_hfs completed at Thu Feb 14 10:05:00 2019
+
+
+/dev/rdisk3s2: fsck_hfs started at Thu Feb 14 10:05:00 2019
+/dev/rdisk3s2: /dev/rdisk3s2: ** /dev/rdisk3s2 (NO WRITE)
+/dev/rdisk3s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s2: fsck_hfs completed at Thu Feb 14 10:05:00 2019
+
+
+/dev/rdisk3s1: fsck_hfs started at Sat Feb 16 20:36:13 2019
+/dev/rdisk3s1: /dev/rdisk3s1: ** /dev/rdisk3s1 (NO WRITE)
+/dev/rdisk3s1:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s1: fsck_hfs completed at Sat Feb 16 20:36:13 2019
+
+
+/dev/rdisk3s1: fsck_hfs started at Sat Feb 16 20:36:13 2019
+/dev/rdisk3s1: /dev/rdisk3s1: ** /dev/rdisk3s1 (NO WRITE)
+/dev/rdisk3s1:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s1: fsck_hfs completed at Sat Feb 16 20:36:13 2019
+
+
+/dev/rdisk2s2: fsck_hfs started at Thu Feb 28 08:08:33 2019
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Thu Feb 28 08:08:33 2019
+
+
+/dev/rdisk2s2: fsck_hfs started at Thu Feb 28 08:08:34 2019
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Thu Feb 28 08:08:34 2019
+
+
+/dev/rdisk2s2: fsck_hfs started at Sat Mar  2 21:07:30 2019
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Sat Mar  2 21:07:30 2019
+
+
+/dev/rdisk2s2: fsck_hfs started at Sat Mar  2 21:07:31 2019
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Sat Mar  2 21:07:31 2019
+
+
+/dev/rdisk2s2: fsck_hfs started at Tue Mar  5 22:00:27 2019
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Tue Mar  5 22:00:27 2019
+
+
+/dev/rdisk2s2: fsck_hfs started at Tue Mar  5 22:00:28 2019
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Tue Mar  5 22:00:28 2019
+
+
+/dev/rdisk2s2: fsck_hfs started at Tue Mar 12 09:14:28 2019
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Tue Mar 12 09:14:28 2019
+
+
+/dev/rdisk2s2: fsck_hfs started at Tue Mar 12 09:14:28 2019
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Tue Mar 12 09:14:28 2019
+
+
+/dev/rdisk2s2: fsck_hfs started at Tue Mar 12 09:19:01 2019
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Tue Mar 12 09:19:01 2019
+
+
+/dev/rdisk2s2: fsck_hfs started at Tue Mar 12 09:19:01 2019
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Tue Mar 12 09:19:01 2019
+
+
+/dev/rdisk2s2: fsck_hfs started at Wed Mar 13 15:01:09 2019
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Wed Mar 13 15:01:09 2019
+
+
+/dev/rdisk2s2: fsck_hfs started at Wed Mar 13 15:01:09 2019
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Wed Mar 13 15:01:09 2019
+
+
+/dev/rdisk3s2: fsck_hfs started at Tue Mar 26 11:14:40 2019
+/dev/rdisk3s2: /dev/rdisk3s2: ** /dev/rdisk3s2 (NO WRITE)
+/dev/rdisk3s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s2: fsck_hfs completed at Tue Mar 26 11:14:41 2019
+
+
+/dev/rdisk3s2: fsck_hfs started at Tue Mar 26 11:14:41 2019
+/dev/rdisk3s2: /dev/rdisk3s2: ** /dev/rdisk3s2 (NO WRITE)
+/dev/rdisk3s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s2: fsck_hfs completed at Tue Mar 26 11:14:41 2019
+
+
+/dev/rdisk2s2: fsck_hfs started at Fri Apr  5 19:54:25 2019
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Fri Apr  5 19:54:25 2019
+
+
+/dev/rdisk2s2: fsck_hfs started at Fri Apr  5 19:54:25 2019
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Fri Apr  5 19:54:25 2019
+
+
+/dev/rdisk2s2: fsck_hfs started at Wed Apr 10 10:52:26 2019
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Wed Apr 10 10:52:26 2019
+
+
+/dev/rdisk2s2: fsck_hfs started at Wed Apr 10 10:52:26 2019
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Wed Apr 10 10:52:26 2019
+
+
+/dev/rdisk2s2: fsck_hfs started at Wed Apr 10 12:32:47 2019
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Wed Apr 10 12:32:47 2019
+
+
+/dev/rdisk2s2: fsck_hfs started at Wed Apr 10 12:32:47 2019
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Wed Apr 10 12:32:47 2019
+
+
+/dev/rdisk2s15s2: fsck_hfs started at Fri Apr 12 18:20:27 2019
+/dev/rdisk2s15s2: /dev/rdisk2s15s2: ** /dev/rdisk2s15s2 (NO WRITE)
+/dev/rdisk2s15s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s15s2: fsck_hfs completed at Fri Apr 12 18:20:28 2019
+
+
+/dev/rdisk2s15s2: fsck_hfs started at Fri Apr 12 18:20:35 2019
+/dev/rdisk2s15s2: /dev/rdisk2s15s2: ** /dev/rdisk2s15s2 (NO WRITE)
+/dev/rdisk2s15s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s15s2: fsck_hfs completed at Fri Apr 12 18:20:35 2019
+
+
+/dev/rdisk3s2: fsck_hfs started at Mon Apr 15 11:24:12 2019
+/dev/rdisk3s2: /dev/rdisk3s2: ** /dev/rdisk3s2 (NO WRITE)
+/dev/rdisk3s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s2: fsck_hfs completed at Mon Apr 15 11:24:12 2019
+
+
+/dev/rdisk3s2: fsck_hfs started at Mon Apr 15 11:24:13 2019
+/dev/rdisk3s2: /dev/rdisk3s2: ** /dev/rdisk3s2 (NO WRITE)
+/dev/rdisk3s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s2: fsck_hfs completed at Mon Apr 15 11:24:13 2019
+
+
+/dev/rdisk3s2: fsck_hfs started at Mon Apr 15 11:36:50 2019
+/dev/rdisk3s2: /dev/rdisk3s2: ** /dev/rdisk3s2 (NO WRITE)
+/dev/rdisk3s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s2: fsck_hfs completed at Mon Apr 15 11:36:51 2019
+
+
+/dev/rdisk3s2: fsck_hfs started at Mon Apr 15 11:36:51 2019
+/dev/rdisk3s2: /dev/rdisk3s2: ** /dev/rdisk3s2 (NO WRITE)
+/dev/rdisk3s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk3s2: fsck_hfs completed at Mon Apr 15 11:36:51 2019
+
+
+/dev/rdisk2s2: fsck_hfs started at Fri May  3 17:38:37 2019
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Fri May  3 17:38:37 2019
+
+
+/dev/rdisk2s2: fsck_hfs started at Fri May  3 17:38:38 2019
+/dev/rdisk2s2: /dev/rdisk2s2: ** /dev/rdisk2s2 (NO WRITE)
+/dev/rdisk2s2:    Executing fsck_hfs (version hfs-407.200.4).
+QUICKCHECK ONLY; FILESYSTEM CLEAN
+/dev/rdisk2s2: fsck_hfs completed at Fri May  3 17:38:38 2019
+

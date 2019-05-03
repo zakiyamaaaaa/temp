@@ -1,0 +1,1 @@
+ERROR: WARNING: Cache is invalid: 1 (bit 0:header, 1-4:mtdd magic, 5:platform, 6:size, 7:checksum, 8-9:vendor version, 10-11:pci ids)
